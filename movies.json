@@ -1,5 +1,16 @@
 [
 	{
+   "tmdb_id": 1715543,
+   "title":"A Sense Of Dread",
+   "image":"/banner/shake-rattle-roll-evil-origins.webp",
+   "video":"",
+   "iframe":"https://playcinematic.com/video/BlUBG6hG3U8crSW",
+   "sinopsis":"Empat pria di pos ilmiah terpencil mengungkap rahasia kelam dan ancaman misterius global.",
+   "genre": ["Horror"],
+   "release_date":"2026-06-11",
+   "country":"USA"
+  },
+	{
    "tmdb_id": 1713962,
    "title":"Night Of Blood",
    "image":"/banner/shake-rattle-roll-evil-origins.webp",
