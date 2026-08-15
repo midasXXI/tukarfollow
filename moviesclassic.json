@@ -1,5 +1,16 @@
 [
   {
+   "tmdb_id": 299534,
+   "title":"Avengers Endgame",
+   "image":"/banner/avengers-endgame.webp",
+   "video":"",
+   "iframe":"https://playcinematic.com/video/XJ6aVThlKNiLRuS",
+   "sinopsis":"Avengers bersatu kembali untuk membalikkan aksi Thanos dan memulihkan semesta.",
+   "genre": ["Action", "Adventure", "Sci-Fi"],
+   "release_date":"2020-04-24",
+   "country":"USA"
+  },
+  {
    "tmdb_id": 647785,
    "title":"Debt Collectors",
    "image":"/banner/debt-collectors.webp",
