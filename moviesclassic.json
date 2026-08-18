@@ -1,5 +1,16 @@
 [
   {
+   "tmdb_id": 329865,
+   "title":"Arrival",
+   "image":"/banner/arrival.webp",
+   "video":"",
+   "iframe":"https://playcinematic.com/video/1kULzWDfX90no7A",
+   "sinopsis":"Ahli bahasa direkrut militer untuk memahami maksud alien yang mendarat.",
+   "genre": ["Drama", "Mystery", "Sci-Fi"],
+   "release_date":"2016-11-10",
+   "country":"USA"
+  },
+  {
    "tmdb_id": 567973,
    "title":"Furie",
    "image":"/banner/furie.webp",
