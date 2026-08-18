@@ -1,5 +1,16 @@
 [
   {
+   "tmdb_id": 567973,
+   "title":"Furie",
+   "image":"/banner/furie.webp",
+   "video":"",
+   "iframe":"https://playcinematic.com/video/nM4hFUbr8F6fG1w",
+   "sinopsis":"Seorang ibu mantan gembong mengejar sindikat penculik putrinya tanpa batas.",
+   "genre": ["Action", "Drama", "Thriller"],
+   "release_date":"2019-02-22",
+   "country":"Vietnam"
+  },
+  {
    "tmdb_id": 760868,
    "title":"Black Crab",
    "image":"/banner/black-crab.webp",
