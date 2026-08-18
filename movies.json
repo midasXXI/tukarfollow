@@ -1,5 +1,16 @@
 [
 	{
+   "tmdb_id": 969681,
+   "title":"Spider-Man:Brand New Day",
+   "image":"/banner/shake-rattle-roll-evil-origins.webp",
+   "video":"",
+   "iframe":"https://playcinematic.com/video/BlUBG6hG3U8crSW",
+   "sinopsis":"Peter Parker yang terlupakan dan hidup seorang diri sebagai Spider-Man penuh waktu. Namun, tekanan yang meningkat memicu perubahan berbahaya dan munculnya musuh baru yang kuat, mengancam kehidupan dan identitasnya. Apakah Spider-Man bisa menghadapi tantangan ini?",
+   "genre": ["Action", "Adventure", "Sci-fi"],
+   "release_date":"2026-07-28",
+   "country":"USA, Canada, United Kingdom, Germany"
+  },
+	{
    "tmdb_id": 1715543,
    "title":"A Sense Of Dread",
    "image":"/banner/shake-rattle-roll-evil-origins.webp",
