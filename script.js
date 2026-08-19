@@ -4,11 +4,12 @@ const IMAGE_URL = 'https://image.tmdb.org/t/p/w780';
 
 // 📁 Alamat file data film kamu
 const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies.json';
-
-// Kalau mau ganti tahun nanti, tinggal ganti saja:
-// const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies2025.json';
-// const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies2024.json';
-// const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/moviesclassic.json';
+const JSON_FILES = [
+    'https://midasxxi.github.io/tukarfollow/movies.json',
+    'https://midasxxi.github.io/tukarfollow/movies2025.json',
+    'https://midasxxi.github.io/tukarfollow/movies2024.json',
+    'https://midasxxi.github.io/tukarfollow/moviesclassic.json'
+];
 
 const feedContainer = document.getElementById('feedContainer');
 const searchContainer = document.getElementById('searchContainer');
@@ -19,11 +20,14 @@ const videoPlayerContainer = document.getElementById('videoPlayerContainer');
 const playerArea = document.getElementById('playerArea');
 
 let moviesData = [];
-let semuaFilm = []; // ✅ DITAMBAH: Deklarasi variabel global
+let semuaFilm = [];
 let activeMovieIndex = 0;
 let currentPage = 1;
-let currentActiveSection = null; 
+let currentActiveSection = null;
 let isDesktop = false;
+
+// 🔑 Kunci penyimpanan posisi gulir
+const SCROLL_POS_KEY = 'feedScrollPosition';
 
 // ==============================================
 // 📱 Fungsi Deteksi Perangkat
@@ -37,117 +41,118 @@ function detectDevice() {
 }
 
 // ==============================================
-// 🚀 Modul Selebaran Promosi (Bypass Kuat)
+// 💾 Simpan & KEMBALIKAN Posisi Gulir — INI SOLUSINYA BRO!
 // ==============================================
-function initPromoNotifier() {
-  const notifier = document.getElementById('desktopNotifier');
-  const promoCard = document.getElementById('promoCard');
-  const promoTitle = document.getElementById('promoTitle');
-  const promoCountry = document.getElementById('promoCountry');
-  const promoGenres = document.getElementById('promoGenres');
-  const promoSinopsis = document.getElementById('promoSinopsis');
-  const promoWatchBtn = document.getElementById('promoWatchBtn');
-
-  // Jika elemen utama tidak ada → hentikan
-  if (!notifier || !promoCard) return;
-
-  // ✅ Data Default (jika JSON gagal)
-  let latestMovie = {
-    title: "Avatar: The Way of Water",
-    country: "US",
-    release_date: "2022-12-16",
-    sinopsis: "Jake Sully tinggal bersama keluarga barunya di planet Pandora...",
-    genre: ["Aksi", "Fiksi Ilmiah"],
-    image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1000",
-    tmdb_id: 76600
-  };
-
-// ✅ Ambil data dari JSON GitHub
-fetch(MOVIES_JSON_PATH)
-  .then(response => {
-    if (!response.ok) throw new Error('movies.json tidak merespon');
-    return response.json();
-  })
-  .then(movies => {
-    semuaFilm = movies; // ✅ Sudah aman karena variabel dideklarasikan
-
-    // ✅ Ambil ACAK 1 film untuk flyer
-    if (Array.isArray(movies) && movies.length > 0) {
-      const indeksAcak = Math.floor(Math.random() * movies.length);
-      latestMovie = movies[indeksAcak];
+function simpanPosisiGulir() {
+    if (feedContainer) {
+        sessionStorage.setItem(SCROLL_POS_KEY, feedContainer.scrollTop);
     }
-
-    tampilkanFlyer();
-    // ✅ Baris tampilkanSemuaFilmKeGrid DIHAPUS karena fungsi tidak ada
-  })
-  .catch(err => {
-    console.warn("⚠️ Membaca movies.json gagal/kosong → pakai data default", err);
-    tampilkanFlyer();
-  });
-
-// ✅ Fungsi Tampilkan Flyer
-function tampilkanFlyer() {
-  if (latestMovie.image) {
-    promoCard.style.backgroundImage = `url('${latestMovie.image}')`;
-  }
-  
-  if (promoTitle) promoTitle.textContent = latestMovie.title || 'Judul Film';
-  
-  if (promoCountry) {
-    const tahun = latestMovie.release_date ? latestMovie.release_date.split('-')[0] : '';
-    promoCountry.textContent = `${latestMovie.country || 'Unknown'} • ${tahun}`;
-  }
-  
-  if (promoSinopsis) promoSinopsis.textContent = latestMovie.sinopsis || 'Tidak ada sinopsis.';
-  
-  if (promoGenres) {
-    promoGenres.innerHTML = '';
-    if (latestMovie.genre && Array.isArray(latestMovie.genre)) {
-      latestMovie.genre.forEach(g => {
-        const span = document.createElement('span');
-        span.textContent = g;
-        promoGenres.appendChild(span);
-      });
-    }
-  }
-
-  // ✅ Tombol Nonton
-  if (promoWatchBtn) {
-    promoWatchBtn.onclick = function() {
-      closeNotifier();
-      const targetedId = latestMovie.tmdb_id || latestMovie.id;
-      if (targetedId) {
-         playMovie(targetedId); 
-      } else if (latestMovie.iframe) {
-         if (videoPlayerContainer && playerArea) {
-            videoPlayerContainer.style.display = 'block';
-            playerArea.innerHTML = `<iframe src="${latestMovie.iframe}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;
-         }
-      }
-    };
-  }
-
-  // ✅ Paksa Flyer Muncul
-  notifier.style.setProperty('display', 'flex', 'important');
-  notifier.style.setProperty('position', 'fixed', 'important');
-  notifier.style.setProperty('z-index', '99999', 'important');
-  notifier.style.opacity = '1';
-  
-  if (window.lucide) lucide.createIcons();
-  }
 }
 
-// ✅ Tutup Flyer
+function pulihkanPosisiGulir() {
+    if (feedContainer) {
+        const posisi = sessionStorage.getItem(SCROLL_POS_KEY);
+        if (posisi !== null) {
+            feedContainer.scrollTop = parseInt(posisi, 10);
+        }
+    }
+}
+
+// ==============================================
+// 🚀 Modul Selebaran Promosi
+// ==============================================
+function initPromoNotifier() {
+    const notifier = document.getElementById('desktopNotifier');
+    const promoCard = document.getElementById('promoCard');
+    const promoTitle = document.getElementById('promoTitle');
+    const promoCountry = document.getElementById('promoCountry');
+    const promoGenres = document.getElementById('promoGenres');
+    const promoSinopsis = document.getElementById('promoSinopsis');
+    const promoWatchBtn = document.getElementById('promoWatchBtn');
+
+    if (!notifier || !promoCard) return;
+
+    let latestMovie = {
+        title: "Avatar: The Way of Water",
+        country: "US",
+        release_date: "2022-12-16",
+        sinopsis: "Jake Sully tinggal bersama keluarga barunya di planet Pandora...",
+        genre: ["Aksi", "Fiksi Ilmiah"],
+        image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1000",
+        tmdb_id: 76600
+    };
+
+    fetch(MOVIES_JSON_PATH)
+        .then(response => {
+            if (!response.ok) throw new Error('movies.json tidak merespon');
+            return response.json();
+        })
+        .then(movies => {
+            semuaFilm = movies;
+            if (Array.isArray(movies) && movies.length > 0) {
+                const indeksAcak = Math.floor(Math.random() * movies.length);
+                latestMovie = movies[indeksAcak];
+            }
+            tampilkanFlyer();
+        })
+        .catch(err => {
+            console.warn("⚠️ Membaca movies.json gagal/kosong → pakai data default", err);
+            tampilkanFlyer();
+        });
+
+    function tampilkanFlyer() {
+        if (latestMovie.image) {
+            promoCard.style.backgroundImage = `url('${latestMovie.image}')`;
+        }
+        if (promoTitle) promoTitle.textContent = latestMovie.title || 'Judul Film';
+        if (promoCountry) {
+            const tahun = latestMovie.release_date ? latestMovie.release_date.split('-')[0] : '';
+            promoCountry.textContent = `${latestMovie.country || 'Unknown'} • ${tahun}`;
+        }
+        if (promoSinopsis) promoSinopsis.textContent = latestMovie.sinopsis || 'Tidak ada sinopsis.';
+        if (promoGenres) {
+            promoGenres.innerHTML = '';
+            if (latestMovie.genre && Array.isArray(latestMovie.genre)) {
+                latestMovie.genre.forEach(g => {
+                    const span = document.createElement('span');
+                    span.textContent = g;
+                    promoGenres.appendChild(span);
+                });
+            }
+        }
+        if (promoWatchBtn) {
+            promoWatchBtn.onclick = function() {
+                closeNotifier();
+                const targetedId = latestMovie.tmdb_id || latestMovie.id;
+                if (targetedId) {
+                    simpanPosisiGulir(); // ✅ Simpan posisi sebelum pindah
+                    playMovie(targetedId);
+                } else if (latestMovie.iframe) {
+                    if (videoPlayerContainer && playerArea) {
+                        videoPlayerContainer.style.display = 'block';
+                        playerArea.innerHTML = `<iframe src="${latestMovie.iframe}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;
+                    }
+                }
+            };
+        }
+        notifier.style.setProperty('display', 'flex', 'important');
+        notifier.style.setProperty('position', 'fixed', 'important');
+        notifier.style.setProperty('z-index', '99999', 'important');
+        notifier.style.opacity = '1';
+        if (window.lucide) lucide.createIcons();
+    }
+}
+
 function closeNotifier() {
-  const notifier = document.getElementById('desktopNotifier');
-  if (notifier) {
-    notifier.style.opacity = '0';
-    notifier.style.transition = 'opacity 0.3s ease';
-    setTimeout(() => {
-      notifier.style.display = 'none';
-      notifier.style.opacity = '1';
-    }, 300);
-  }
+    const notifier = document.getElementById('desktopNotifier');
+    if (notifier) {
+        notifier.style.opacity = '0';
+        notifier.style.transition = 'opacity 0.3s ease';
+        setTimeout(() => {
+            notifier.style.display = 'none';
+            notifier.style.opacity = '1';
+        }, 300);
+    }
 }
 
 // ==============================================
@@ -156,9 +161,9 @@ function closeNotifier() {
 function scrollFeed(direction) {
     if (!feedContainer) return;
     const cardHeight = window.innerHeight;
-    feedContainer.scrollBy({ 
-        top: direction === 'down' ? cardHeight : -cardHeight, 
-        behavior: 'smooth' 
+    feedContainer.scrollBy({
+        top: direction === 'down' ? cardHeight : -cardHeight,
+        behavior: 'smooth'
     });
 }
 
@@ -170,13 +175,12 @@ async function fetchMovies(page = 1) {
         const response = await fetch(`${BASE_URL}/movie/popular?api_key=${API_KEY}&language=id-ID&page=${page}`);
         if (!response.ok) throw new Error('Gagal memuat data');
         const data = await response.json();
-        
+
         if (page === 1) {
             moviesData = data.results;
         } else {
             moviesData = [...moviesData, ...data.results];
         }
-
         renderFeed(moviesData);
     } catch (error) {
         console.warn('⚠️ Gagal terhubung ke TMDB, gunakan data cadangan:', error);
@@ -203,20 +207,18 @@ function loadFallbackData() {
 function renderFeed(movies) {
     if (!feedContainer) return;
     feedContainer.innerHTML = '';
-
     movies.forEach((movie, index) => {
-        const posterUrl = movie.poster_path 
-            ? `${IMAGE_URL}${movie.poster_path}` 
+        const posterUrl = movie.poster_path
+            ? `${IMAGE_URL}${movie.poster_path}`
             : 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500';
         const year = movie.release_date ? movie.release_date.split('-')[0] : '-';
-
         const card = document.createElement('div');
         card.className = 'movie-card';
         card.style.backgroundImage = `url('${posterUrl}')`;
         card.innerHTML = `
             <div class="overlay"></div>
             <div class="top-title">${movie.title}</div>
-            <div class="play-btn-container" onclick="playMovie(${movie.id})">
+            <div class="play-btn-container" onclick="simpanPosisiGulir(); playMovie(${movie.id})">
                 <div class="play-circle"><i data-lucide="play" fill="#fff" size="32"></i></div>
             </div>
             <div class="main-content">
@@ -247,7 +249,6 @@ function renderFeed(movies) {
         feedContainer.appendChild(card);
     });
 
-    // Tombol Muat Lebih Banyak
     const lastCard = feedContainer.lastChild;
     if (lastCard) {
         const loadMoreDiv = document.createElement('div');
@@ -256,7 +257,6 @@ function renderFeed(movies) {
         const mainContent = lastCard.querySelector('.main-content');
         if (mainContent) mainContent.appendChild(loadMoreDiv);
     }
-
     if (window.lucide) lucide.createIcons();
 }
 
@@ -271,7 +271,6 @@ function loadNextPage() {
 async function toggleSection(event, index, section) {
     event.stopPropagation();
     if (!infoPanel || !panelContentArea) return;
-
     const movie = moviesData[index];
     if (!movie) return;
 
@@ -280,7 +279,6 @@ async function toggleSection(event, index, section) {
         currentActiveSection = null;
         return;
     }
-
     currentActiveSection = section;
     panelContentArea.innerHTML = `<div style="padding:20px; color:#fff;">Memuat...</div>`;
     infoPanel.classList.add('show');
@@ -289,7 +287,6 @@ async function toggleSection(event, index, section) {
         const resDetail = await fetch(`${BASE_URL}/movie/${movie.id}?api_key=${API_KEY}&language=id-ID`);
         const detailData = await resDetail.json();
         let html = '';
-
         switch (section) {
             case 'info':
                 html = `<p style="line-height:1.7; color:#fff; margin:0;">${detailData.overview || movie.overview || 'Sinopsis tidak tersedia.'}</p>`;
@@ -314,7 +311,6 @@ async function toggleSection(event, index, section) {
                 html = `<p style="color:#fff; margin:0;"><strong>Negara:</strong><br>${countries.join(', ') || 'Tidak ditentukan'}</p>`;
                 break;
         }
-
         panelContentArea.innerHTML = html;
         if (window.lucide) lucide.createIcons();
     } catch (err) {
@@ -327,17 +323,9 @@ async function toggleSection(event, index, section) {
 // ==============================================
 async function playMovie(tmdbId) {
     if (!tmdbId) return;
-
     let judulUrl = '';
-    const files = [
-        'https://midasxxi.github.io/tukarfollow/movies.json',
-        'https://midasxxi.github.io/tukarfollow/movies2025.json',
-        'https://midasxxi.github.io/tukarfollow/movies2024.json',
-        'https://midasxxi.github.io/tukarfollow/moviesclassic.json'
-    ];
-
     try {
-        for (const file of files) {
+        for (const file of JSON_FILES) {
             const res = await fetch(file, { cache: "no-store" });
             if (res.ok) {
                 const daftarFilm = await res.json();
@@ -345,7 +333,6 @@ async function playMovie(tmdbId) {
                     if (!f.tmdb_id) return false;
                     return String(f.tmdb_id).trim() === String(tmdbId).trim() || Number(f.tmdb_id) === Number(tmdbId);
                 });
-
                 if (ketemu && ketemu.title) {
                     judulUrl = ketemu.title
                         .trim()
@@ -360,7 +347,6 @@ async function playMovie(tmdbId) {
     } catch (err) {
         console.warn('⚠️ Gagal baca file JSON:', err);
     }
-
     if (!judulUrl) judulUrl = 'unknown';
     window.location.href = `watch.html?id=${String(tmdbId).trim()}/${judulUrl}`;
 }
@@ -398,7 +384,7 @@ async function cariFilm(kata) {
         const res = await fetch(`${BASE_URL}/search/movie?api_key=${API_KEY}&language=id-ID&query=${encodeURIComponent(kata)}&page=1&include_adult=false`);
         const data = await res.json();
         const hasilHTML = data.results?.map(movie => `
-            <div class="search-item-row" onclick="playMovie(${movie.id})">
+            <div class="search-item-row" onclick="simpanPosisiGulir(); playMovie(${movie.id})">
                 <div class="search-item-thumb" style="background-image:url('${movie.poster_path ? IMAGE_URL + movie.poster_path : 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=200'}')"></div>
                 <div class="search-item-info">
                     <h4>${movie.title}</h4>
@@ -407,7 +393,6 @@ async function cariFilm(kata) {
                 </div>
             </div>
         `).join('') || `<div style="padding:40px; color:#aaa; text-align:center;">Tidak ada hasil ditemukan</div>`;
-
         if (searchContent) searchContent.innerHTML = hasilHTML;
         if (window.lucide) lucide.createIcons();
     } catch (err) {
@@ -449,6 +434,7 @@ if (navHome) {
         tutupPencarian();
         if (searchContainer) searchContainer.classList.remove('show');
         if (feedContainer) feedContainer.scrollTop = 0;
+        sessionStorage.removeItem(SCROLL_POS_KEY); // Hapus posisi jika ke halaman atas sengaja
     });
 }
 
@@ -463,7 +449,6 @@ if (feedContainer) {
     });
 }
 
-// Tombol Close Player
 const closePlayerBtn = document.getElementById('closePlayerBtn');
 if (closePlayerBtn) {
     closePlayerBtn.addEventListener('click', () => {
@@ -482,8 +467,20 @@ window.addEventListener('DOMContentLoaded', () => {
 window.addEventListener('load', () => {
     fetchMovies();
     setTimeout(() => {
+        pulihkanPosisiGulir(); // ✅ KEMBALIKAN posisi setelah halaman dimuat
+    }, 100);
+    setTimeout(() => {
         initPromoNotifier();
     }, 400);
+});
+
+window.addEventListener('pageshow', (e) => {
+    // ✅ Khusus saat tombol BACK ditekan browser
+    if (e.persisted) {
+        setTimeout(pulihkanPosisiGulir, 50);
+    } else {
+        setTimeout(pulihkanPosisiGulir, 150);
+    }
 });
 
 window.addEventListener('resize', detectDevice);
