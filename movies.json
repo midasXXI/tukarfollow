@@ -1,4 +1,15 @@
 [
+	{
+   "tmdb_id": 1288445,
+   "title":"Mutiny",
+   "image":"/banner/mutiny.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/i2dil4ApQ",
+   "sinopsis":"Cole Reed nekat menaiki kapal kargo dalam misi sendirian untuk membalas dendam.",
+   "genre": ["Action", "Crime", "Thriller"],
+   "release_date":"2026-08-19",
+   "country":"USA, United Kingdom"
+  },
 	 {
    "tmdb_id": 1450527,
    "title":"Forbidden Fruits",
