@@ -1,5 +1,16 @@
 [
 	{
+   "tmdb_id": 1232569,
+   "title":"Pinocchio: Unstrung",
+   "image":"/banner/pinocchio-unstrung.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/oWXxXZKfOG",
+   "sinopsis":" Perjalanan mengerikan boneka ikonik tersebut dalam upayanya menjadi manusia sungguhan.",
+   "genre": ["Fantasy", "Horor", "Thriller"],
+   "release_date":"2026-07-22",
+   "country":"USA, United Kingdom"
+  },
+	{
    "tmdb_id": 1288445,
    "title":"Mutiny",
    "image":"/banner/mutiny.webp",
