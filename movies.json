@@ -1,5 +1,27 @@
 [
 	{
+   "tmdb_id": 1315772,
+   "title":"Minions & Monsters",
+   "image":"/banner/minions-monsters.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/QZqqkScB6",
+   "sinopsis":"Minions mencari makhluk menakutkan untuk film monster mereka di Hollywood 1920-an dan bertemu dengan makhluk hijau yang tak terduga.",
+   "genre": ["Comedy", "Animation", "Family", "Adventure"],
+   "release_date":"2026-06-24",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1284041,
+   "title":"The Last House",
+   "image":"/banner/the-last-house.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/kZoGUFHC7",
+   "sinopsis":"Sebuah keluarga terjebak dalam rumah mereka tanpa jalan keluar. Mereka harus bekerja sama untuk bertahan hidup.",
+   "genre": ["Action", "Horor", "Mystery", "Sci-Fi", "Thriller"],
+   "release_date":"2026-08-06",
+   "country":"United Kingdom, France, United States"
+  },
+	{
    "tmdb_id": 1404304,
    "title":"The Isolate Thief",
    "image":"/banner/the-isolate-thief.webp",
