@@ -1,4 +1,25 @@
-[
+[{
+   "tmdb_id": 634649,
+   "title":"Spider-Man: No Way Home",
+   "image":"/banner/spider-man-no-way-home.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/Cj5iCtnVb",
+   "sinopsis":"Seorang detektif dengan kepribadian ganda terlibat dalam serangkaian kasus berbahaya yang menguji batas kewarasannya.",
+   "genre": ["Action", "Adventure", "Fantasy"],
+   "release_date":"2021-12-15",
+   "country":"USA"
+  },
+  {
+   "tmdb_id": 77338,
+   "title":"The Intouchables",
+   "image":"/banner/the-intouchables.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/JCV1tZhv7",
+   "sinopsis":"Seorang milioner quadriplegik yang kaku, bertemu dengan Driss (Omar Sy), pria kasar berhati emas",
+   "genre": ["Drama", "Comedy", "Biography"],
+   "release_date":"2011-11-02",
+   "country":"France"
+  },
   {
    "tmdb_id": 437068,
    "title":"A Taxi Driver (Taeksi woonjunsa)",
