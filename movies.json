@@ -1,5 +1,16 @@
 [
 	{
+   "tmdb_id": 1084244,
+   "title":"Toy Story 5",
+   "image":"/banner/toy-story-5.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/Luf481jXP",
+   "sinopsis":"Ketika mereka diperkenalkan pada perangkat elektronik, yang menjadi ancaman baru bagi waktu bermain mereka.",
+   "genre": ["Adventure", "Comedy", "Drama", "Family", "Fantasy"],
+   "release_date":"2026-06-17",
+   "country":"USA"
+  },
+	{
    "tmdb_id": 1315772,
    "title":"Minions & Monsters",
    "image":"/banner/minions-monsters.webp",
