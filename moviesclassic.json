@@ -1,5 +1,16 @@
 [
    {
+   "tmdb_id": 278,
+   "title":"The Shawshank Redemption",
+   "image":"/banner/the-shawshank-redemption.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/6jz6EkWDk",
+   "sinopsis":"Andy Dufresne, seorang bankir sukses, dijebloskan ke penjara Shawshank atas kejahatan yang tidak dilakukannya.",
+   "genre": ["Drama", "Crime"],
+   "release_date":"1994-09-14",
+   "country":"USA"
+  },
+   {
    "tmdb_id": 634649,
    "title":"Spider-Man: No Way Home",
    "image":"/banner/spider-man-no-way-home.webp",
