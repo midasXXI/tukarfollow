@@ -1,5 +1,16 @@
 [
    {
+   "tmdb_id": 455476,
+   "title":"Knights of the Zodiac",
+   "image":"/banner/knights-of-the-zodiac.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/GcD527j6b",
+   "sinopsis":"mengetahui takdirnya sebagai Knight of the Zodiac ketika dewi perang Athena bereinkarnasi sebagai gadis muda.",
+   "genre": ["Drama", "Action", "Adventure"],
+   "release_date":"2023-04-27",
+   "country":"USA, Japan"
+  },
+   {
    "tmdb_id": 278,
    "title":"The Shawshank Redemption",
    "image":"/banner/the-shawshank-redemption.webp",
