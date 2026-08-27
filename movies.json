@@ -1,5 +1,16 @@
 [
 	{
+   "tmdb_id": 1621552,
+   "title":"Facing El Chapo",
+   "image":"/banner/facing-el-chapo.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/-gFMjxZYs",
+   "sinopsis":"Dua petugas polisi yang beroperasi rutin stop mobil curian tanpa sengaja pertemukan dengan salah satu buronan.",
+   "genre": ["Action", "Crime"],
+   "release_date":"2026-08-21",
+   "country":"Mexico"
+  },
+	{
    "tmdb_id": 1510517,
    "title":"Atlas King",
    "image":"/banner/atlas-king.webp",
