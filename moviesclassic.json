@@ -1,5 +1,16 @@
 [
    {
+   "tmdb_id": 898704,
+   "title":"Desert Warrior",
+   "image":"/banner/desert-warrior.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/5zZv2oIA_",
+   "sinopsis":"Seorang pahlawan misterius bernama Hanzala memicu amarah Kaisar Kisra dengan menyelamatkan seorang raja dan putri yang melarikan diri.",
+   "genre": ["Action", "Adventure", "Drama", "History", "War"],
+   "release_date":"2017-08-02",
+   "country":"South Korea"
+  },
+   {
    "tmdb_id": 455476,
    "title":"Knights of the Zodiac",
    "image":"/banner/knights-of-the-zodiac.webp",
