@@ -1,5 +1,16 @@
 [
 	{
+   "tmdb_id": 1212763,
+   "title":"Evil Dead Burn",
+   "image":"/banner/evil-dead-burn.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/C0FA7fUbe",
+   "sinopsis":"Seorang janda yang berduka mencari pengasingan bersama mertuanya. Namun, ketika satu per satu keluarganya berubah menjadi deadite",
+   "genre": ["Horor"],
+   "release_date":"2026-07-07",
+   "country":"USA, New Zealand"
+  },
+	{
    "tmdb_id": 1621552,
    "title":"Facing El Chapo",
    "image":"/banner/facing-el-chapo.webp",
