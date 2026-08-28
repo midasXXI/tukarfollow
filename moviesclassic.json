@@ -1,82 +1,82 @@
 [
-   {
-   "tmdb_id": 119283,
-   "title":"Parker",
-   "image":"/banner/parker.webp",
-  "iframe":"https://player.abyssplayer.com/dD30OowAw",
-   "sinopsis":"Parker, seorang pencuri dengan kode etik unik—tidak mencuri dari orang miskin atau menyakiti orang tak bersalah.",
-   "genre": ["Action", "Crime", "Thriller"],
-   "release_date":"2013-01-25",
-   "country":"USA"
-  },
-   {
-   "tmdb_id": 82023,
-   "title":"Hotel Desire",
-   "image":"/banner/hotel-desire.webp",
-  "iframe":"https://player.abyssplayer.com/KsybmVBto",
-   "sinopsis":"single mother dan petugas kebersihan hotel yang lelah, bertemu Julius Pass, pelukis tunanetra ternama",
-   "genre": ["Romance", "Short", "Drama"],
-   "release_date":"2011-12-07",
-   "country":"Germany"
-  },
-   {
-   "tmdb_id": 898704,
-   "title":"Desert Warrior",
-   "image":"/banner/desert-warrior.webp",
-  "iframe":"https://player.abyssplayer.com/5zZv2oIA_",
-   "sinopsis":"Seorang pahlawan misterius bernama Hanzala memicu amarah Kaisar Kisra dengan menyelamatkan seorang raja dan putri yang melarikan diri.",
-   "genre": ["Action", "Adventure", "Drama", "History", "War"],
-   "release_date":"2017-08-02",
-   "country":"South Korea"
-  },
-   {
-   "tmdb_id": 455476,
-   "title":"Knights of the Zodiac",
-   "image":"/banner/knights-of-the-zodiac.webp",
-  "iframe":"https://player.abyssplayer.com/GcD527j6b",
-   "sinopsis":"mengetahui takdirnya sebagai Knight of the Zodiac ketika dewi perang Athena bereinkarnasi sebagai gadis muda.",
-   "genre": ["Drama", "Action", "Adventure"],
-   "release_date":"2023-04-27",
-   "country":"USA, Japan"
-  },
-   {
-   "tmdb_id": 278,
-   "title":"The Shawshank Redemption",
-   "image":"/banner/the-shawshank-redemption.webp",
-  "iframe":"https://player.abyssplayer.com/6jz6EkWDk",
-   "sinopsis":"Andy Dufresne, seorang bankir sukses, dijebloskan ke penjara Shawshank atas kejahatan yang tidak dilakukannya.",
-   "genre": ["Drama", "Crime"],
-   "release_date":"1994-09-14",
-   "country":"USA"
-  },
-   {
-   "tmdb_id": 634649,
-   "title":"Spider-Man: No Way Home",
-   "image":"/banner/spider-man-no-way-home.webp",
-  "iframe":"https://player.abyssplayer.com/Cj5iCtnVb",
-   "sinopsis":"Seorang detektif dengan kepribadian ganda terlibat dalam serangkaian kasus berbahaya yang menguji batas kewarasannya.",
-   "genre": ["Action", "Adventure", "Fantasy"],
-   "release_date":"2021-12-15",
-   "country":"USA"
+  {
+    "tmdb_id": 119283,
+    "title": "Parker",
+    "image": "/banner/parker.webp",
+    "iframe": "https://player.abyssplayer.com/dD30OowAw",
+    "sinopsis": "Parker, seorang pencuri dengan kode etik yang unik—tidak mencuri dari orang miskin dan tidak menyakiti orang tak bersalah.",
+    "genre": ["Aksi", "Kejahatan", "Thriller"],
+    "release_date": "2013-01-25",
+    "country": "Amerika Serikat"
   },
   {
-   "tmdb_id": 77338,
-   "title":"The Intouchables",
-   "image":"/banner/the-intouchables.webp",
-  "iframe":"https://player.abyssplayer.com/JCV1tZhv7",
-   "sinopsis":"Seorang milioner quadriplegik yang kaku, bertemu dengan Driss (Omar Sy), pria kasar berhati emas",
-   "genre": ["Drama", "Comedy", "Biography"],
-   "release_date":"2011-11-02",
-   "country":"France"
+    "tmdb_id": 82023,
+    "title": "Hotel Desire",
+    "image": "/banner/hotel-desire.webp",
+    "iframe": "https://player.abyssplayer.com/KsybmVBto",
+    "sinopsis": "Seorang ibu tunggal yang juga petugas kebersihan hotel yang lelah, bertemu dengan Julius Pass, seorang pelukis tunanetra ternama.",
+    "genre": ["Romansa", "Film Pendek", "Drama"],
+    "release_date": "2011-12-07",
+    "country": "Jerman"
   },
   {
-   "tmdb_id": 437068,
-   "title":"A Taxi Driver (Taeksi woonjunsa)",
-   "image":"/banner/a-taxi-driver.webp",
-  "iframe":"https://player.abyssplayer.com/SQVdbBXcZ",
-   "sinopsis":"Sopir taksi bawa jurnalis ke Gwangju, merekam tragedi demokrasi Korea yang penuh pengorbanan.",
-   "genre": ["Action", "Drama", "History"],
-   "release_date":"2017-08-02",
-   "country":"South Korea"
+    "tmdb_id": 898704,
+    "title": "Desert Warrior",
+    "image": "/banner/desert-warrior.webp",
+    "iframe": "https://player.abyssplayer.com/5zZv2oIA",
+    "sinopsis": "Seorang pahlawan misterius bernama Hanzala memicu kemarahan Kaisar Kisra setelah menyelamatkan seorang raja dan putri yang melarikan diri.",
+    "genre": ["Aksi", "Petualangan", "Drama", "Sejarah", "Perang"],
+    "release_date": "2017-08-02",
+    "country": "Korea Selatan"
+  },
+  {
+    "tmdb_id": 455476,
+    "title": "Knights of the Zodiac",
+    "image": "/banner/knights-of-the-zodiac.webp",
+    "iframe": "https://player.abyssplayer.com/GcD527j6b",
+    "sinopsis": "Ia akhirnya menyadari takdirnya sebagai salah satu Ksatria Zodiak ketika dewi perang Athena bereinkarnasi sebagai seorang gadis muda.",
+    "genre": ["Drama", "Aksi", "Petualangan"],
+    "release_date": "2023-04-27",
+    "country": "Amerika Serikat, Jepang"
+  },
+  {
+    "tmdb_id": 278,
+    "title": "The Shawshank Redemption",
+    "image": "/banner/the-shawshank-redemption.webp",
+    "iframe": "https://player.abyssplayer.com/6jz6EkWDk",
+    "sinopsis": "Andy Dufresne, seorang bankir yang sukses, dipenjara di Penjara Shawshank atas tuduhan pembunuhan yang tidak pernah ia lakukan.",
+    "genre": ["Drama", "Kejahatan"],
+    "release_date": "1994-09-14",
+    "country": "Amerika Serikat"
+  },
+  {
+    "tmdb_id": 634649,
+    "title": "Spider-Man: No Way Home",
+    "image": "/banner/spider-man-no-way-home.webp",
+    "iframe": "https://player.abyssplayer.com/Cj5iCtnVb",
+    "sinopsis": "Setelah identitasnya terbongkar, Peter Parker meminta bantuan Dokter Aneh untuk mengembalikan semuanya. Namun mantra yang gagal membuka pintu lintas alam semesta dan memunculkan musuh-musuh berbahaya dari dunia lain.",
+    "genre": ["Aksi", "Petualangan", "Fantasi"],
+    "release_date": "2021-12-15",
+    "country": "Amerika Serikat"
+  },
+  {
+    "tmdb_id": 77338,
+    "title": "The Intouchables",
+    "image": "/banner/the-intouchables.webp",
+    "iframe": "https://player.abyssplayer.com/JCV1tZhv7",
+    "sinopsis": "Seorang milioner lumpuh yang hidupnya kaku bertemu dengan Driss, seorang pemuda yang datang dari lingkungan sulit namun penuh semangat dan kehangatan.",
+    "genre": ["Drama", "Komedi", "Biografi"],
+    "release_date": "2011-11-02",
+    "country": "Prancis"
+  },
+  {
+    "tmdb_id": 437068,
+    "title": "A Taxi Driver",
+    "image": "/banner/a-taxi-driver.webp",
+    "iframe": "https://player.abyssplayer.com/SQVdbBXcZ",
+    "sinopsis": "Seorang sopir taksi secara tidak sengaja mengantar seorang jurnalis asing ke kota Gwangju dan tanpa sadar ikut menyaksikan serta merekam peristiwa bersejarah perjuangan demokrasi di Korea Selatan.",
+    "genre": ["Aksi", "Drama", "Sejarah"],
+    "release_date": "2017-08-02",
+    "country": "Korea Selatan"
   }
 ]
