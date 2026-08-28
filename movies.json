@@ -155,17 +155,7 @@
    "release_date":"2026-04-27",
    "country":"USA"
   },
-  {
-	"tmdb_id": 1016024,
-   "title":"Kalevala: The Story Of Kullervo",
-   "image":"/banner/kalevala-the-story-of-kullervo.webp",
-   "iframe":"",
-   "iframe2":"https://playcinematic.com/video/ZOhrEyiNT5xQqag",
-   "sinopsis":"Kullervo, yatim piatu korban pembantaian suku, jadi budak dan membalas dendam pada pembunuh keluarganya.",
-   "genre": ["Drama","Fantasy","History"],
-   "release_date":"2026-04-27",
-   "country":"Finlandia"
-  },
+  
   {
 	"tmdb_id": 1638188,
    "title":"I'm Undercover",
