@@ -2255,50 +2255,6 @@
    "country":"USA"
   },
   {
-	"tmdb_id": 1444249,
-   "title":"The Highest Stakes",
-   "image":"/banner/the-highest-stakes.webp",
-   "iframe":"",
-   "iframe2":"https://playcinematic.com/video/7pb4G4FRQy756fb",
-   "sinopsis":"Dunia judi elit berbahaya, seorang pemain muda mempertaruhkan segalanya demi balas dendam.",
-   "genre": ["Thriller"],
-   "release_date":"2026-04-14",
-   "country":"USA"
-  },
-  {
-	"tmdb_id": 1292415,
-   "title":"Beast",
-   "image":"/banner/beast-.webp",
-   "iframe":"",
-   "iframe2":"https://playcinematic.com/video/jBo1Uqq4AWzHklh",
-   "sinopsis":"Pria yang terjebak di kekacauan kota saat ancaman brutal tak dikenal mulai memangsa manusia tanpa ampun.",
-   "genre": ["Action","Drama"],
-   "release_date":"2026-04-10",
-   "country":"USA, Australia"
-  },
-  {
-	"tmdb_id": 1472951,
-   "title":"Infiltrate",
-   "image":"/banner/infiltrate-.webp",
-   "iframe":"",
-   "iframe2":"https://playcinematic.com/video/h1dmRO7FCUOLY0E",
-   "sinopsis":"Agen rahasia menyusup ke sindikat global demi membongkar konspirasi besar yang mengancam dunia.",
-   "genre": ["Action","Thriller"],
-   "release_date":"2026-04-10",
-   "country":"Kanada"
-  },
-  {
-	"tmdb_id": 1290417,
-   "title":"Thrash",
-   "image":"/banner/thrash.webp",
-   "iframe":"",
-   "iframe2":"https://playcinematic.com/video/ZYWOdYZG1Y7ISoo",
-   "sinopsis":"Topan dahsyat membawa hiu ke kota banjir, memaksa para korban bertarung demi selamat.",
-   "genre": ["Horor","Thriller"],
-   "release_date":"2026-04-10",
-   "country":"Australia, USA"
-  },
-  {
 	"tmdb_id": 1573375,
    "title":"Wasiat Warisan",
    "image":"/banner/wasiatwarisan.webp",
