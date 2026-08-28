@@ -1,5 +1,16 @@
 [
    {
+   "tmdb_id": 119283,
+   "title":"Parker",
+   "image":"/banner/parker.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/dD30OowAw",
+   "sinopsis":"Parker, seorang pencuri dengan kode etik unik—tidak mencuri dari orang miskin atau menyakiti orang tak bersalah.",
+   "genre": ["Action", "Crime", "Thriller"],
+   "release_date":"2013-01-25",
+   "country":"USA"
+  },
+   {
    "tmdb_id": 82023,
    "title":"Hotel Desire",
    "image":"/banner/hotel-desire.webp",
