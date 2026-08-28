@@ -1,5 +1,16 @@
 [
 	{
+   "tmdb_id": 1516698,
+   "title":"The Last Sunrise",
+   "image":"/banner/the-last-sunrise.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/4qsQRZnL1",
+   "sinopsis":"Seorang wanita muda asal Amerika yang memiliki kendala kesehatan menemukan kisah romansa tak terduga dengan pria lokal yang karismatik",
+   "genre": ["Romance", "Drama"],
+   "release_date":"2026-08-26",
+   "country":"Spain, United States"
+  },
+	{
    "tmdb_id": 1130948,
    "title":"Rosebush Pruning",
    "image":"/banner/rosebush-pruning.webp",
