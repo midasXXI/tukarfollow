@@ -1,5 +1,15 @@
 [
 	{
+   "tmdb_id": 1130948,
+   "title":"Rosebush Pruning",
+   "image":"/banner/rosebush-pruning.webp",
+   "iframe":"https://player.abyssplayer.com/Lm309YvS9",
+   "sinopsis":"Sebuah keluarga harus berjuang menghadapi dampak dari penyakit genetik yang menimpa mereka.",
+   "genre": ["Komedi", "Drama", "Thriller"]
+   "release_date":"2026-04-23",
+   "country":"Jerman, Italia, Spanyol, Inggris Raya, Amerika Serikat, Kanada"
+  },
+	{
    "tmdb_id": 1375646,
    "title":"Colony",
    "image":"/banner/colony.webp",
