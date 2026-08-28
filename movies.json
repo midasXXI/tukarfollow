@@ -5,7 +5,7 @@
    "image":"/banner/the-last-sunrise.webp",
    "iframe":"https://player.abyssplayer.com/4qsQRZnL1",
    "sinopsis":"Seorang wanita muda asal Amerika yang memiliki kendala kesehatan menemukan kisah romansa tak terduga dengan pria lokal yang karismatik",
-   "genre": ["Romance", "Drama"],
+   "genre": ["Romansa", "Drama"],
    "release_date":"2026-08-26",
    "country":"Spanyol, Amerika Serikat"
   },
@@ -15,7 +15,7 @@
    "image":"/banner/rosebush-pruning.webp",
    "iframe":"https://player.abyssplayer.com/dWnf3ASMm",
    "sinopsis":"Sebuah keluarga harus berjuang menghadapi dampak dari penyakit genetik yang menimpa mereka.",
-   "genre": ["Comedy", "Drama", "Thriller"],
+   "genre": ["Komedi", "Drama", "Thriller"],
    "release_date":"2026-04-23",
    "country":"Jerman, Italy, Spanyol, Inggris Raya, Amerika Serikat, Kanada"
   },
@@ -35,7 +35,7 @@
    "image":"/banner/facing-el-chapo.webp",
    "iframe":"https://player.abyssplayer.com/-gFMjxZYs",
    "sinopsis":"Dua petugas polisi yang beroperasi rutin menghentikan mobil curian tanpa sengaja bertemu dengan salah satu buronan.",
-   "genre": ["Action", "Crime"],
+   "genre": ["Aksi", "Crime"],
    "release_date":"2026-08-21",
    "country":"Meksiko"
   },
@@ -45,7 +45,7 @@
    "image":"/banner/atlas-king.webp",
    "iframe":"https://player.abyssplayer.com/yJsIi2u70",
    "sinopsis":"Di balik duka mendalam atas kematian sahabatnya, seorang mantan petarung kembali ke tanah kelahirannya.",
-   "genre": ["Action", "Crime", "Thriller", "Drama"],
+   "genre": ["Aksi", "Crime", "Thriller", "Drama"],
    "release_date":"2026-07-21",
    "country":"Amerika Serikat"
   },
@@ -65,7 +65,7 @@
    "image":"/banner/toy-story-5.webp",
    "iframe":"https://player.abyssplayer.com/Luf481jXP",
    "sinopsis":"Ketika mereka diperkenalkan pada perangkat elektronik, menjadi ancaman baru bagi waktu bermain mereka.",
-   "genre": ["Adventure", "Comedy", "Drama", "Family", "Fantasy"],
+   "genre": ["Petualangan", "Komedi", "Drama", "Family", "Fantasy"],
    "release_date":"2026-06-17",
    "country":"Amerika Serikat"
   },
@@ -75,7 +75,7 @@
    "image":"/banner/minions-monsters.webp",
    "iframe":"https://player.abyssplayer.com/QZqqkScB6",
    "sinopsis":"Minions mencari makhluk menakutkan untuk film monster mereka di Hollywood 1920-an dan bertemu dengan makhluk hijau yang tak terduga.",
-   "genre": ["Comedy", "Animation", "Family", "Adventure"],
+   "genre": ["Komedi", "Animation", "Family", "Petualangan"],
    "release_date":"2026-06-24",
    "country":"Amerika Serikat"
   },
@@ -85,7 +85,7 @@
    "image":"/banner/the-last-house.webp",
    "iframe":"https://player.abyssplayer.com/kZoGUFHC7",
    "sinopsis":"Sebuah keluarga terjebak dalam rumah mereka tanpa jalan keluar. Mereka harus bekerja sama untuk bertahan hidup.",
-   "genre": ["Action", "Horor", "Mystery", "Sci-Fi", "Thriller"],
+   "genre": ["Aksi", "Horor", "Mystery", "Sci-Fi", "Thriller"],
    "release_date":"2026-08-06",
    "country":"Inggris Raya, Prancis, Amerika Serikat"
   },
@@ -95,7 +95,7 @@
    "image":"/banner/the-isolate-thief.webp",
    "iframe":"https://player.abyssplayer.com/oWXxXZKfOG",
    "sinopsis":"Seorang wanita muda berjuang untuk menyembunyikan emas curian dari penjahat brutal yang menguasai pos terpencilnya.",
-   "genre": ["Action", "Drama", "Western"],
+   "genre": ["Aksi", "Drama", "Western"],
    "release_date":"2026-07-10",
    "country":"Amerika Serikat"
   },
@@ -115,7 +115,7 @@
    "image":"/banner/mutiny.webp",
    "iframe":"https://player.abyssplayer.com/i2dil4ApQ",
    "sinopsis":"Cole Reed nekat menaiki kapal kargo dalam misi sendirian untuk membalas dendam.",
-   "genre": ["Action", "Crime", "Thriller"],
+   "genre": ["Aksi", "Crime", "Thriller"],
    "release_date":"2026-08-19",
    "country":"Amerika Serikat, Inggris Raya"
   },
@@ -125,7 +125,7 @@
    "image":"/banner/spider-man-brand-new-day.webp",
    "iframe":"https://player.abyssplayer.com/GoWNeR_Iy",
    "sinopsis":"Peter Parker yang terlupakan dan hidup seorang diri sebagai Spider-Man penuh waktu. Namun, tekanan yang meningkat memicu perubahan berbahaya dan munculnya musuh baru yang kuat, mengancam kehidupan dan identitasnya. Apakah Spider-Man bisa menghadapi tantangan ini?",
-   "genre": ["Action", "Adventure", "Sci-fi"],
+   "genre": ["Aksi", "Petualangan", "Sci-fi"],
    "release_date":"2026-07-28",
    "country":"Amerika Serikat, Kanada, Inggris Raya, Jerman"
   },
@@ -135,7 +135,7 @@
    "image":"/banner/rise-of-the-conqueror.webp",
    "iframe":"https://abyssplayer.com/n8hdfyxb1",
    "sinopsis":"Timur Barlas bangkit dari pengasingan demi menyatukan kerajaan Asia Tengah yang pecah akibat runtuhnya Mongol.",
-   "genre": ["Action","Adventure","War","History"],
+   "genre": ["Aksi","Petualangan","War","History"],
    "release_date":"2026-04-27",
    "country":"Amerika Serikat"
   },
@@ -146,7 +146,7 @@
    "image":"/banner/imundercover.webp",
    "iframe":"https://abyssplayer.com/ZBdSdEtp_",
    "sinopsis":"Detektif Huo Tao menyamar jadi pencopet geng kriminal demi biaya berobat putrinya dan bongkar rahasia bisnis.",
-   "genre": ["Action","Crime"],
+   "genre": ["Aksi","Crime"],
    "release_date":"2026-04-26",
    "country":"Tiongkok"
   },
@@ -156,7 +156,7 @@
    "image":"/banner/film-o-romeo-.webp",
    "iframe":"https://abyssplayer.com/qJSzRl8GM",
    "sinopsis":"Gangster Mumbai jatuh cinta, tapi dendam dan darah menyeretnya ke perang brutal.",
-   "genre": ["Action","Romance","Crime","Drama","Thriller"],
+   "genre": ["Aksi","Romansa","Crime","Drama","Thriller"],
    "release_date":"2026-04-26",
    "country":"India"
   },
@@ -166,7 +166,7 @@
    "image":"/banner/film-disolution-.webp",
    "iframe":"https://abyssplayer.com/eIW2qw7wo",
    "sinopsis":"Istri yang penuh dendam menggunakan ilmu hitam memindahkan kanker kekasih ke suami brutalnya.",
-   "genre": ["Romance","Thriller"],
+   "genre": ["Romansa","Thriller"],
    "release_date":"2026-04-24",
    "country":"Amerika Serikat"
   },
@@ -186,7 +186,7 @@
    "image":"/banner/bhanupriya-bhooter-hotel.webp",
    "iframe":"https://abyssplayer.com/BAGI_hxkM",
    "sinopsis":"Hotel angker warisan keluarga berubah kacau saat hantu jahil mulai meneror tamu.",
-   "genre": ["Comedy","Horor"],
+   "genre": ["Komedi","Horor"],
    "release_date":"2026-04-23",
    "country":"India"
   },
@@ -196,7 +196,7 @@
    "image":"/banner/to-philly-with-love.webp",
    "iframe":"https://abyssplayer.com/ccXQIvoT_",
    "sinopsis":"Perjalanan ke Philadelphia membuka luka lama dan menghadirkan cinta yang tak terduga.",
-   "genre": ["Drama","Romance"],
+   "genre": ["Drama","Romansa"],
    "release_date":"2026-04-23",
    "country":"Kanada"
   },
@@ -216,7 +216,7 @@
    "image":"/banner/kaa-the-forest.webp",
    "iframe":"https://abyssplayer.com/FQsmS5zpg",
    "sinopsis":"Hutan terlarang menyimpan teror mematikan saat sekelompok pemuda nekat memasukinya.",
-   "genre": ["Adventure","Thriller"],
+   "genre": ["Petualangan","Thriller"],
    "release_date":"2026-04-23",
    "country":"India"
   },
@@ -226,7 +226,7 @@
    "image":"/banner/film-bhartha-mahasayulaku-wignyapthi-.webp",
    "iframe":"https://abyssplayer.com/xX8fNs-db",
    "sinopsis":"Kehidupan para suami berubah kacau setelah rahasia besar mulai terbongkar satu per satu.",
-   "genre": ["Comedy"],
+   "genre": ["Komedi"],
    "release_date":"2026-04-23",
    "country":"India"
   },
@@ -236,7 +236,7 @@
    "image":"/banner/balls-up.webp",
    "iframe":"https://abyssplayer.com/Ljz-aXv0q",
    "sinopsis":"Turnamen liar berubah kacau saat sekelompok pemain terjebak permainan penuh tipu daya dan konflik.",
-   "genre": ["Comedy","Action","Adventure"],
+   "genre": ["Komedi","Aksi","Petualangan"],
    "release_date":"2026-04-15",
    "country":"Amerika Serikat"
   },
