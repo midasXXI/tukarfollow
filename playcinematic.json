@@ -5,7 +5,7 @@
    "image":"/banner/kalevala-the-story-of-kullervo.webp",
    "iframe":"https://playcinematic.com/video/ZOhrEyiNT5xQqag",
    "sinopsis":"Kullervo, yatim piatu korban pembantaian suku, jadi budak dan membalas dendam pada pembunuh keluarganya.",
-   "genre": ["Drama","Fantasi","History"],
+   "genre": ["Drama","Fantasi","Sejarah"],
    "release_date":"2026-04-27",
    "country":"Finlandia"
   },
@@ -35,9 +35,9 @@
    "image":"/banner/shake-rattle-roll-evil-origins.webp",
    "iframe":"https://playcinematic.com/video/xjyyE1Grbk2OHYd",
    "sinopsis":"Sidney Prescott kembali menghadapi Ghostface demi melindungi putrinya dari teror pembunuh baru.",
-   "genre": ["Crime", "Horror", "Mystery"],
+   "genre": ["Kejahatan", "Horror", "Mystery"],
    "release_date":"2026-02-25",
-   "country":"Canada, USA"
+   "country":"Kanada, USA"
   },
 	{
    "tmdb_id": 1510795,
@@ -55,7 +55,7 @@
    "image":"/banner/maternal-instinct.webp",
    "iframe":"https://playcinematic.com/video/zCOW2sEwc4jorSl",
    "sinopsis":"Pengakuan seorang wanita tentang bayi yang bukan miliknya mengungkap kebohongan dalam kasus kriminal nyata.",
-   "genre": ["Crime", "Documentary"],
+   "genre": ["Kejahatan", "Dokumenter"],
    "release_date":"2026-06-11",
    "country":"USA"
   },
@@ -75,9 +75,9 @@
    "image":"/banner/a-toxic-love-story.webp",
    "iframe":"https://playcinematic.com/video/mIt0sv2XpdGMdYh",
    "sinopsis":"Email ancaman memicu rencana balas dendam yang menyeret seorang marshal AS dan mantan kekasihnya.",
-   "genre": ["Documentary"],
+   "genre": ["Dokumenter"],
    "release_date":"2026-07-22",
-   "country":"United Kingdom"
+   "country":"Inggris Raya"
   },
 	{
    "tmdb_id": 1361774,
@@ -97,7 +97,7 @@
    "sinopsis":"Dua rekan kerja yang selamat dari kecelakaan pesawat harus bekerja sama demi bertahan hidup di pulau terpencil.",
    "genre": ["Komedi", "Horror", "Thriller"],
    "release_date":"2026-01-22",
-   "country":"Australia, Canada, Indonesia, Thailand, United Kingdom, USA"
+   "country":"Australia, Kanada, Indonesia, Thailand, Inggris Raya, USA"
   },
 	{
    "tmdb_id": 1009680,
@@ -105,9 +105,9 @@
    "image":"/banner/super-miss-saves-the-jungle.webp",   
    "iframe":"https://playcinematic.com/video/x9WbZR2wWhkvzmS",
    "sinopsis":"Super Miss berpetualang ke Amerika Selatan untuk menyelamatkan habitat burung beo dari pembangunan.",
-   "genre": ["Family"],
+   "genre": ["Keluarga"],
    "release_date":"2026-02-04",
-   "country":"Netherlands"
+   "country":"Belanda"
   },
 	{
    "tmdb_id": 1010755,
@@ -117,17 +117,17 @@
    "sinopsis":"Maya dan para Stranger menuju pertarungan tak terhindarkan yang menguji ikatan dan nasib mereka.",
    "genre": ["Horror", "Thriller"],
    "release_date":"2026-02-05",
-   "country":"Spain, USA"
+   "country":"Spanyol, USA"
   },
 	{
    "tmdb_id": 1265609,
-   "title":"War Machine",
-   "image":"/banner/war-machine.webp", 
+   "title":"Perang Machine",
+   "image":"/banner/Perang-machine.webp", 
    "iframe":"https://playcinematic.com/video/eB9lAsGBrX8HkWZ",
    "sinopsis":"Seorang insinyur tempur memimpin pasukannya melawan mesin pembunuh raksasa dari dunia lain.",
    "genre": ["Aksi", "Fiksi Ilmiah", "Thriller"],
    "release_date":"2026-02-12",
-   "country":"Australia, New Zealand, United Kingdom, USA"
+   "country":"Australia, Selandia Baru, Inggris Raya, USA"
   },
 	{
    "tmdb_id": 669356,
@@ -165,9 +165,9 @@
    "image":"/banner/shadows-of-a-woman.webp", 
    "iframe":"https://playcinematic.com/video/rknFTYTSM3gwfEH",
    "sinopsis":"Seorang wanita menghadapi pengkhianatan suaminya yang kaya, hingga pernikahan mereka di ambang kehancuran.",
-   "genre": ["Crime", "Drama", "Thriller"],
+   "genre": ["Kejahatan", "Drama", "Thriller"],
    "release_date":"2026-07-22",
-   "country":"Brazil"
+   "country":"Brasil"
   },
 {
    "tmdb_id": 1737860,
@@ -245,7 +245,7 @@
    "image":"/banner/instadocs-the-prediction-games.webp",
    "iframe":"https://playcinematic.com/video/IkXrHLSCsL9Yfqe",
    "sinopsis":"Dokumenter ini mengungkap pesatnya pasar prediksi global, dari olahraga hingga spekulasi ekstrem.",
-   "genre": ["Documentary"],
+   "genre": ["Dokumenter"],
    "release_date":"2026-07-26",
    "country":"USA"
   },
@@ -255,7 +255,7 @@
    "image":"/banner/the-gentleman-thief.webp",
    "iframe":"https://playcinematic.com/video/BK8FlcfEDJx9eNC",
    "sinopsis":"Mantan pencuri ulung harus menyelamatkan adiknya saat perampokan yacht berubah menjadi konspirasi mematikan.",
-   "genre": ["Aksi", "Crime", "Thriller"],
+   "genre": ["Aksi", "Kejahatan", "Thriller"],
    "release_date":"2026-07-31",
    "country":"USA"
   },
@@ -265,7 +265,7 @@
    "image":"/banner/72-hours.webp",
    "iframe":"https://playcinematic.com/video/nC804tIwVcCQH6j",
    "sinopsis":"Eksekutif iklan berusia 40 tahun ikut pesta bujangan liar demi menyelamatkan kariernya.",
-   "genre": ["Komedi", "Crime"],
+   "genre": ["Komedi", "Kejahatan"],
    "release_date":"2026-07-20",
    "country":"USA"
   },
@@ -311,7 +311,7 @@
   },
 	{
    "tmdb_id": 1380291,
-   "title":"Jack Ryan Ghost War",
+   "title":"Jack Ryan Ghost Perang",
    "image":"/banner/jack-ryan.webp",
    "iframe":"https://playcinematic.com/video/XvA78KjwZNRpLhi",
    "sinopsis":"Jack Ryan kembali beraksi untuk menggagalkan konspirasi mematikan dan unit operasi gelap berbahaya.",
@@ -395,7 +395,7 @@
    "image":"/banner/the-debt-collector.webp",
    "iframe":"https://playcinematic.com/video/L5rfArtSNTOmZcB",
    "sinopsis":"Mantan penagih utang kembali ke dunia kriminal untuk melindungi korban organisasi kekerasan.",
-   "genre": ["Aksi", "Crime", "Thriller"],
+   "genre": ["Aksi", "Kejahatan", "Thriller"],
    "release_date":"2026-07-20",
    "country":"Thailand"
   },	
@@ -427,7 +427,7 @@
    "sinopsis":"Saat anjingnya hilang, Conor memasuki dunia gim misterius yang mulai menyatu dengan kenyataan.",
    "genre": ["Petualangan", "Fantasi", "Horor"],
    "release_date":"2026-01-09",
-   "country":"United Kingdom, USA"
+   "country":"Inggris Raya, USA"
   },	
 	{
    "tmdb_id": 1559628,
@@ -437,17 +437,17 @@
    "sinopsis":"Sekelompok sahabat diteror ular anaconda raksasa saat liburan yang berubah menjadi mimpi buruk.",
    "genre": ["Horor"],
    "release_date":"2026-01-09",
-   "country":"United Kingdom"
+   "country":"Inggris Raya"
   },		
 	{
    "tmdb_id": 680493,
    "title":"Return To Silent Hill",
    "image":"/banner/return-to-silent-hill.webp",
    "iframe":"https://playcinematic.com/video/uWKFwX7kTdY61HJ",
-   "sinopsis":"James ke Silent Hill mencari Mary, hadapi monster dan rahasia yang menguji kewarasannya.",
+   "sinopsis":"James ke Silent Hill mencari Mary, hadapi monster dan rahasia yang menguji kePerangasannya.",
    "genre": ["Drama","Horor","Mystery"],
    "release_date":"2026-01-21",
-   "country":"Jerman, Serbia, United Kingdom"
+   "country":"Jerman, Serbia, Inggris Raya"
   },
 	{
    "tmdb_id": 1484913,
@@ -467,7 +467,7 @@
    "sinopsis":"Dr. Kelson terjebak hubungan berbahaya, Spike dihantui mimpi buruk bersama Jimmy Crystal.",
    "genre": ["Fiksi Ilmiah","Horor","Thriller"],
    "release_date":"2026-01-14",
-   "country":"Kanada, USA, United Kingdom"
+   "country":"Kanada, USA, Inggris Raya"
   },
 	{
    "tmdb_id": 1631208,
@@ -475,7 +475,7 @@
    "image":"/banner/sunset-strip-killers.webp",
    "iframe":"https://playcinematic.com/video/xnwxSZ7vTKMeLrx",
    "sinopsis":"Di LA 1980-an, perawat jatuh cinta pada pembunuh dan terjerat kejahatan berdarah.",
-   "genre": ["Crime","Horor","Thriller"],
+   "genre": ["Kejahatan","Horor","Thriller"],
    "release_date":"2026-07-10",
    "country":"USA"
   },
@@ -521,11 +521,11 @@
   },
 	{
    "tmdb_id": 1705729,
-   "title":"Man Of War",
-   "image":"/banner/man-of-war.webp",
+   "title":"Man Of Perang",
+   "image":"/banner/man-of-Perang.webp",
    "iframe":"https://playcinematic.com/video/5RI7uRER4RZG0JJ",
    "sinopsis":"Mantan Navy SEAL menembus Ukraina perang demi menyelamatkan pekerja bantuan yang hilang.",
-   "genre": ["Aksi","Thriller","War"],
+   "genre": ["Aksi","Thriller","Perang"],
    "release_date":"2026-07-03",
    "country":"USA"
   },
@@ -535,17 +535,17 @@
    "image":"/banner/colors-of-evil-black.webp",
    "iframe":"https://playcinematic.com/video/LFlMciFnd6QpcVp",
    "sinopsis":"Jaksa Bilski selidiki hilangnya anak-anak, hadapi legenda kelam di kota terpencil Polandia.",
-   "genre": ["Mystery","Thriller","Crime"],
+   "genre": ["Mystery","Thriller","Kejahatan"],
    "release_date":"2026-06-10",
    "country":"Prancis"
   },
 	{
    "tmdb_id": 1501018,
    "title":"Une Famille De Batards",
-   "image":"/banner/a-family-of-bastards.webp",
+   "image":"/banner/a-Keluarga-of-bastards.webp",
    "iframe":"https://playcinematic.com/video/DPMrzv2PIfMDQ66",
-   "sinopsis":"Setelah ayahnya wafat, Mohamed dan saudara tiri warisi bar penuh kriminal, narkoba, dan prostitusi.",
-   "genre": ["Komedi","Crime"],
+   "sinopsis":"Setelah ayahnya wafat, Mohamed dan saudara tiri Perangisi bar penuh kriminal, narkoba, dan prostitusi.",
+   "genre": ["Komedi","Kejahatan"],
    "release_date":"2026-06-12",
    "country":"Prancis"
   },
@@ -557,7 +557,7 @@
    "sinopsis":"Nick dan Noah jalani hidup baru penuh godaan, rahasia, dan pengkhianatan yang menguji ikatan mereka.",
    "genre": ["Drama","Romansa"],
    "release_date":"2026-06-17",
-   "country":"Spain"
+   "country":"Spanyol"
   },
 	{
    "tmdb_id": 1290821,
@@ -565,9 +565,9 @@
    "image":"/banner/shelter.webp",
    "iframe":"https://playcinematic.com/video/AXeGazyIhuMmqO8",
    "sinopsis":"Seorang pria di pulau terpencil menyelamatkan gadis kecil dari badai, memicu ancaman masa lalunya.",
-   "genre": ["Aksi","Crime","Thriller"],
+   "genre": ["Aksi","Kejahatan","Thriller"],
    "release_date":"2026-01-28",
-   "country":"USA, Kanada, United Kingdom"
+   "country":"USA, Kanada, Inggris Raya"
   },
 	{
    "tmdb_id": 1473878,
@@ -595,7 +595,7 @@
    "image":"/banner/badland-rising.webp",
    "iframe":"https://playcinematic.com/video/QoVHgi0PbVdmZnM",
    "sinopsis":"Pria biasa diserang dua penjahat brutal saat perjalanan pulang 19 jam. Bertahan hidup demi keluarga.",
-   "genre": ["Aksi","Crime"],
+   "genre": ["Aksi","Kejahatan"],
    "release_date":"2026-06-12",
    "country":"Australia"
   },
@@ -645,7 +645,7 @@
    "image":"/banner/avatar-aang-the-last-airbender.webp",
    "iframe":"https://playcinematic.com/video/no38hMkE8FXoI3b",
    "sinopsis":"Aang dewasa dan kawan-kawan menjelajah dunia demi menemukan kekuatan kuno sebelum direbut musuh.",
-   "genre": ["Aksi","Petualangan","Animation","Fantasi"],
+   "genre": ["Aksi","Petualangan","Animasi","Fantasi"],
    "release_date":"2026-09-09",
    "country":"USA"
   },
@@ -667,7 +667,7 @@
    "sinopsis":"Selamat dari komet Clarke, keluarga Garrity nekat seberangi Eropa yang hancur demi rumah baru.",
    "genre": ["Petualangan","Fiksi Ilmiah","Thriller"],
    "release_date":"2026-01-07",
-   "country":"United Kingdom, USA"
+   "country":"Inggris Raya, USA"
   },
 	{
    "tmdb_id": 1034716,
@@ -725,7 +725,7 @@
    "image":"/banner/ikkis.webp",
    "iframe":"https://playcinematic.com/video/Te1zc22IgY4z2ls",
    "sinopsis":"Gugur dalam perang 1971, kisah Arun Khetarpal ulas nestapa perang lewat reuni sang ayah di Pakistan.",
-   "genre": ["Drama","History","War"],
+   "genre": ["Drama","Sejarah","Perang"],
    "release_date":"2026-01-01",
    "country":"India"
   },
@@ -784,7 +784,7 @@
    "title":"Bharathanatyam 2 Mohiniyattam",
    "image":"/banner/bharathanatyam-2-mohiniyattam.webp",
    "iframe":"https://playcinematic.com/video/MbXSfwiLyLhxVCK",
-   "sinopsis":"Keluarga urus warisan mendiang di Sreekandapuram, tapi masa lalu memicu kriminalitas tak terduga.",
+   "sinopsis":"Keluarga urus Perangisan mendiang di Sreekandapuram, tapi masa lalu memicu kriminalitas tak terduga.",
    "genre": ["Komedi","Thriller"],
    "release_date":"2026-04-16",
    "country":"India"
@@ -805,9 +805,9 @@
    "image":"/banner/mother-mary.webp",
    "iframe":"https://playcinematic.com/video/01kFxxPBfwcFgqB",
    "sinopsis":"Luka lama terkoyak saat popstar Mother Mary reuni dengan desainer kostum lamanya jelang konser.",
-   "genre": ["Drama","Music","Thriller"],
+   "genre": ["Drama","Musik","Thriller"],
    "release_date":"2026-04-16",
-   "country":"Finlandia, Jerman, United Kingdom, USA"
+   "country":"Finlandia, Jerman, Inggris Raya, USA"
   },
   {
    "tmdb_id": 1623125,
@@ -815,9 +815,9 @@
    "image":"/banner/gorilla-story.webp",
    "iframe":"https://playcinematic.com/video/05Vg23HihQYYOpu",
    "sinopsis":"David Attenborough ungkap kisah kawanan gorila dari jumpa pertama tahun 70-an hingga saat ini.",
-   "genre": ["Documentary"],
+   "genre": ["Dokumenter"],
    "release_date":"2026-04-16",
-   "country":"United Kingdom"
+   "country":"Inggris Raya"
   },
   {
 	"tmdb_id": 1280300,
@@ -834,10 +834,10 @@
    "title":"Blood Witch",
    "image":"/banner/blood-witch.webp",
    "iframe":"https://playcinematic.com/video/XvrpsaFRJsdlCdp",
-   "sinopsis":"Abad usai dibunuh, ibu-anak penyihir bangkit balas dendam. Dua jurnalis selidiki warga yang hilang.",
+   "sinopsis":"Abad usai dibunuh, ibu-anak penyihir bangkit balas dendam. Dua jurnalis selidiki Perangga yang hilang.",
    "genre": ["Horor"],
    "release_date":"2026-04-17",
-   "country":"United Kingdom"
+   "country":"Inggris Raya"
   },
   {
 	"tmdb_id": 1665860,
@@ -855,7 +855,7 @@
    "image":"/banner/beyond-the-game.webp",
    "iframe":"https://playcinematic.com/video/hMbIKe7C9WCX1Fo",
    "sinopsis":"Tekanan juara, kalah mengejutkan, ruang ganti jujur. Kamera merekam realita tim Samurai Japan.",
-   "genre": ["Documentary"],
+   "genre": ["Dokumenter"],
    "release_date":"2026-04-20",
    "country":"Jepang"
   },
@@ -885,7 +885,7 @@
    "image":"/banner/orangutan.webp",
    "iframe":"https://playcinematic.com/video/KLtyoSdK9GVNGrg",
    "sinopsis":"Dinarasikan oleh Josh Gad, ikuti Indah seekor orangutan muda yang meninggalkan keluarganya di hutan hujan untuk hidup sendiri.",
-   "genre": ["Documentary","Family"],
+   "genre": ["Dokumenter","Keluarga"],
    "release_date":"2026-04-22",
    "country":"USA"
   },
@@ -905,7 +905,7 @@
    "image":"/banner/king-kaew.webp",
    "iframe":"https://playcinematic.com/video/LGoofDLSxJhMC73",
    "sinopsis":"Roh wanita muda menuntut keadilan atas eksekusi salah.",
-   "genre": ["Crime", "Drama", "Horror"],
+   "genre": ["Kejahatan", "Drama", "Horror"],
    "release_date":"2026-01-29",
    "country":"Thailand"
   },
@@ -915,9 +915,9 @@
    "image":"/banner/a-gangsters-life.webp",  
    "iframe":"https://playcinematic.com/video/7oL21z1P8HQb4px",
    "sinopsis":"Dua penipu kecil kabur ke Yunani setelah menipu mafia London, namun masalah terus memburu mereka.",
-   "genre": ["Komedi", "Crime"],
+   "genre": ["Komedi", "Kejahatan"],
    "release_date":"2026-01-09",
-   "country":"Australia, Inggris Raya"
+   "country":"Australia, Inggris Raya Raya"
   },	
 	{
    "tmdb_id": 1075797,
@@ -935,7 +935,7 @@
    "image":"/banner/dolphin-summer.webp",   
    "iframe":"https://playcinematic.com/video/dMtJjGG9083u64G",
    "sinopsis":"Sarah dan teman-temannya membuat siaran lumba-lumba demi menyelamatkan suaka laut di pulau mereka.",
-   "genre": ["Petualangan", "Family"],
+   "genre": ["Petualangan", "Keluarga"],
    "release_date":"2026-01-08",
    "country":"USA"
   },	
@@ -957,14 +957,14 @@
    "sinopsis":"Persaingan kerja antara Polina dan Roman berubah menjadi konflik, kedekatan, dan romansa.",
    "genre": ["Komedi"],
    "release_date":"2026-01-08",
-   "country":"Inggris Raya"
+   "country":"Inggris Raya Raya"
   },	
 	{
    "tmdb_id": 1454741,
    "title":"The Confession",
    "image":"/banner/the-confession.webp",   
    "iframe":"https://playcinematic.com/video/sRP2PTxweYfPmFF",
-   "sinopsis":"Seorang ibu melawan kekuatan jahat warisan keluarganya demi menyelamatkan putranya.",
+   "sinopsis":"Seorang ibu melawan kekuatan jahat Perangisan keluarganya demi menyelamatkan putranya.",
    "genre": ["Horor"],
    "release_date":"2026-01-08",
    "country":"USA"
@@ -975,7 +975,7 @@
    "image":"/banner/broken-bonds.webp",
    "iframe":"https://playcinematic.com/video/oAZDevUhiPiyVZ1",
    "sinopsis":"Tiga pelayan menyembunyikan uang ilegal usai baku tembak maut dan terjebak dalam pengkhianatan.",
-   "genre": ["Crime", "Mystery", "Thriller"],
+   "genre": ["Kejahatan", "Mystery", "Thriller"],
    "release_date":"2026-01-02",
    "country":"USA"
   },	
@@ -1044,8 +1044,8 @@
    "title":"The Kids",
    "image":"/banner/the-kids.webp", 
    "iframe":"https://playcinematic.com/video/Ug4INnX7oMZv1hE",
-   "sinopsis":"usai bebas dari penjara, Enzo terjebak dalam kriminalitas dan pilihan yang menentInggris Rayaan nasibnya.",
-   "genre": ["Aksi", "Crime", "Drama"],
+   "sinopsis":"usai bebas dari penjara, Enzo terjebak dalam kriminalitas dan pilihan yang menentInggris Raya Rayaan nasibnya.",
+   "genre": ["Aksi", "Kejahatan", "Drama"],
    "release_date":"2026-01-01",
    "country":"USA"
   },
@@ -1055,9 +1055,9 @@
    "image":"/banner/abuela-tremenda.webp",
    "iframe":"https://playcinematic.com/video/sUbbSQVU97gjsdq",
    "sinopsis":"Nenek eksentrik dan putrinya yang ambisius harus menghadapi konflik keluarga yang rumit.",
-   "genre": ["Komedi", "Family"],
+   "genre": ["Komedi", "Keluarga"],
    "release_date":"2026-01-01",
-   "country":"Spain"
+   "country":"Spanyol"
   },
 {
    "tmdb_id": 936075,
@@ -1065,7 +1065,7 @@
    "image":"/banner/michael.webp",
    "iframe":"https://playcinematic.com/video/8zeachyAZ71DETv",
    "sinopsis":"Perjalanan Michael Jackson dari Jackson Five hingga menjadi ikon musik dan penghibur dunia.",
-   "genre": ["Drama", "Music"],
+   "genre": ["Drama", "Musik"],
    "release_date":"2026-04-22",
    "country":"USA"
   },
@@ -1077,14 +1077,14 @@
    "sinopsis":"Maddie dan Trish terjebak di laguna terpencil, berjuang selamat dari paus pembunuh Ceto.",
    "genre": ["Aksi", "Horror", "Mystery", "Fiksi Ilmiah", "Thriller"],
    "release_date":"2026-01-16",
-   "country":"Australia, Russia, Inggris Raya, USA"
+   "country":"Australia, Russia, Inggris Raya Raya, USA"
   },
 	{
    "tmdb_id": 1193501,
    "title":"Whistle",
    "image":"/banner/wisther.webp", 
    "iframe":"https://playcinematic.com/video/UyNjb9Csoall897",
-   "sinopsis":"Siswa SMA menemInggris Rayaan peluit Aztec terkutInggris Raya yang memanggil kematian masa depan memburu mereka.",
+   "sinopsis":"Siswa SMA menemInggris Raya Rayaan peluit Aztec terkutInggris Raya Raya yang memanggil kematian masa depan memburu mereka.",
    "genre": ["Horor", "Mystery"],
    "release_date":"2026-01-20",
    "country":"Kanada, Irlandia, Indonesia"
@@ -1104,8 +1104,8 @@
    "title":"Hoppers",
    "image":"/banner/hoppers.webp",
    "iframe":"https://playcinematic.com/video/12Z1AKkWPXK610s",
-   "sinopsis":"Ilmuwan temInggris Rayaan cara pindah kesadaran ke hewan robot; Mabel ungkap misteri dunia hewan.",
-   "genre": ["Petualangan", "Animation", "Komedi", "Family", "Fiksi Ilmiah"],
+   "sinopsis":"Ilmuwan temInggris Raya Rayaan cara pindah kesadaran ke hewan robot; Mabel ungkap misteri dunia hewan.",
+   "genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fiksi Ilmiah"],
    "release_date":"2026-02-06",
    "country":"Indonesia, USA"
   },
@@ -1124,7 +1124,7 @@
    "title":"The Mandalorian And Grogu",
    "image":"/banner/the-mandalorian-and-grogu.webp",
    "iframe":"https://playcinematic.com/video/o1IZ227605fvYSS",
-   "sinopsis":"Din Djarin dan Grogu bantu Republik Baru hadapi sisa warlord Kekaisaran.",
+   "sinopsis":"Din Djarin dan Grogu bantu Republik Baru hadapi sisa Peranglord Kekaisaran.",
    "genre": ["Aksi", "Petualangan", "Fiksi Ilmiah"],
    "release_date":"2026-05-20",
    "country":"USA"
@@ -1184,7 +1184,7 @@
    "title":"40 Dates And 40 Nights",
    "image":"/banner/40-dates-and-40-nights.webp",  
    "iframe":"https://playcinematic.com/video/e45qUjjX9hS89f1",
-   "sinopsis":"Leah jalani 40 kencan demi sewa setahun, temInggris Rayaan cinta terbesar ada dalam dirinya.",
+   "sinopsis":"Leah jalani 40 kencan demi sewa setahun, temInggris Raya Rayaan cinta terbesar ada dalam dirinya.",
    "genre": ["Komedi", "Romansa"],
    "release_date":"2026-06-16",
    "country":"USA"
@@ -1194,8 +1194,8 @@
    "title":"Pickleball",
    "image":"/banner/pickleball.webp",
    "iframe":"https://playcinematic.com/video/JXrHeoyWLW5EZVv",
-   "sinopsis":"Pastor Joseph bentInggris Raya tim pickleball underdog demi selamatkan pusat komunitas dari legenda tenis.",
-   "genre": ["Komedi", "Family"],
+   "sinopsis":"Pastor Joseph bentInggris Raya Raya tim pickleball underdog demi selamatkan pusat komunitas dari legenda tenis.",
+   "genre": ["Komedi", "Keluarga"],
    "release_date":"2026-06-19",
    "country":"USA"
   },
@@ -1204,17 +1204,17 @@
    "title":"Underland",
    "image":"/banner/underland.webp",
    "iframe":"https://playcinematic.com/video/8gbiXg4EpSIvHwR",
-   "sinopsis":"Perjalanan sinematis menyingkap dunia tersembunyi di bawah permInggris Rayaaan bumi.",
-   "genre": ["Documentary"],
+   "sinopsis":"Perjalanan sinematis menyingkap dunia tersembunyi di bawah permInggris Raya Rayaaan bumi.",
+   "genre": ["Dokumenter"],
    "release_date":"2026-03-27",
-   "country":"Inggris Raya"
+   "country":"Inggris Raya Raya"
   },
 	{
    "tmdb_id": 1609125,
    "title":"Shou Zhe Tian",
    "image":"/banner/the-butcher-s-blade.webp",
    "iframe":"https://playcinematic.com/video/8J5DsJs9r2a2Jln",
-   "sinopsis":"Xue Buyi difitnah korupsi dana, harus pilih bersihkan nama atau tegakkan hInggris Rayaum.",
+   "sinopsis":"Xue Buyi difitnah korupsi dana, harus pilih bersihkan nama atau tegakkan hInggris Raya Rayaum.",
    "genre": ["Aksi"],
    "release_date":"2026-01-08",
    "country":"Tiongkok"
@@ -1234,8 +1234,8 @@
    "title":"The NOAH Flood",
    "image":"/banner/the-noah-flood.webp",
    "iframe":"https://playcinematic.com/video/q6dJ0vaz40M9ikb",
-   "sinopsis":"Dokumenter menelusuri banjir Nuh lewat bInggris Rayati geologi, fosil, dan analisis sejarah.",
-   "genre": ["Documentary", "Fantasi"],
+   "sinopsis":"Dokumenter menelusuri banjir Nuh lewat bInggris Raya Rayati geologi, fosil, dan analisis sejarah.",
+   "genre": ["Dokumenter", "Fantasi"],
    "release_date":"2026-06-01",
    "country":"USA"
   },
@@ -1244,7 +1244,7 @@
    "title":"Disclosure Day",
    "image":"/banner/disclosure-day.webp",
    "iframe":"https://playcinematic.com/video/VYVe1ZMbB6yRBm4",
-   "sinopsis":"Ahli siber jadi pelapor rahasia alien, bersekutu dengan meteorolog demi bInggris Rayati kehidupan.",
+   "sinopsis":"Ahli siber jadi pelapor rahasia alien, bersekutu dengan meteorolog demi bInggris Raya Rayati kehidupan.",
    "genre": ["Fiksi Ilmiah", "Thriller"],
    "release_date":"2026-06-10",
    "country":"USA"
@@ -1294,7 +1294,7 @@
    "title":"Farm House",
    "image":"/banner/farm-house.webp",
    "iframe":"https://playcinematic.com/video/YX2rkmNoSaCsowB",
-   "sinopsis":"Menjaga rumah berubah teror, kasus pembunuhan berantai Warren County ungkap tragedi Amerika.",
+   "sinopsis":"Menjaga rumah berubah teror, kasus pembunuhan berantai Perangren County ungkap tragedi Amerika.",
    "genre": ["Horor"],
    "release_date":"2026-07-07",
    "country":"USA"
@@ -1314,7 +1314,7 @@
    "title":"The Hoodoos",
    "image":"/banner/the-hoodoos.webp",
    "iframe":"https://playcinematic.com/video/7TwVzCmsrhhnfVK",
-   "sinopsis":"Kru kriminal memburu emas terkutInggris Raya, menghadapi voodoo dan boneka hidup di perkebunan.",
+   "sinopsis":"Kru kriminal memburu emas terkutInggris Raya Raya, menghadapi voodoo dan boneka hidup di perkebunan.",
    "genre": ["Horor"],
    "release_date":"2026-07-07",
    "country":"USA"
@@ -1325,7 +1325,7 @@
    "image":"/banner/the-welcome-table.webp",
    "iframe":"https://playcinematic.com/video/x2NN3qFVYRajs2f",
    "sinopsis":"Pengungsi iklim dari enam benua berbagi kisah hidup di garis depan krisis iklim.",
-   "genre": ["Documentary"],
+   "genre": ["Dokumenter"],
    "release_date":"2026-06-23",
    "country":"USA"
   },
@@ -1345,7 +1345,7 @@
    "image":"/banner/enola-holmes-3.webp",  
    "iframe":"https://playcinematic.com/video/u509Ubx7vwb7uRo",
    "sinopsis":"Detektif Enola ke Malta, rencana nikah buyar saat Sherlock hilang dan kasus berbahaya muncul.",
-   "genre": ["Petualangan","Crime","Mystery"],
+   "genre": ["Petualangan","Kejahatan","Mystery"],
    "release_date":"2026-06-30",
    "country":"USA"
   },
@@ -1375,9 +1375,9 @@
    "image":"/banner/nightmare-at-sea.webp",
    "iframe":"https://playcinematic.com/video/UAtoREbv7xJ7xfI",
    "sinopsis":"Rekaman dan kisah korban menyingkap karam kapal pesiar mewah 2012 dalam dokumenter imersif.",
-   "genre": ["Documentary"],
+   "genre": ["Dokumenter"],
    "release_date":"2026-07-10",
-   "country":"Inggris Raya"
+   "country":"Inggris Raya Raya"
   },
 	{
    "tmdb_id": 1468683,
@@ -1387,14 +1387,14 @@
    "sinopsis":"Tahun ajaran baru, Nick dan Charlie hadapi cinta dan masa depan bersama Truham-Higgs.",
    "genre": ["Romansa", "Drama"],
    "release_date":"2026-07-14",
-   "country":"Inggris Raya"
+   "country":"Inggris Raya Raya"
   },
 	{
    "tmdb_id": 1703103,
    "title":"Addicted To Change",
    "image":"/banner/addicted-to-change.webp",   
    "iframe":"https://playcinematic.com/video/EItBNq8jQeUeVcC",
-   "sinopsis":"Tiga pekerja magang menciptakan obat pintar dan menjadi buruan pemerintah di Inggris Raya masa depan.",
+   "sinopsis":"Tiga pekerja magang menciptakan obat pintar dan menjadi buruan pemerintah di Inggris Raya Raya masa depan.",
    "genre": ["Aksi", "Fiksi Ilmiah", "Drama"],
    "release_date":"2026-07-30",
    "country":"USA"
@@ -1404,7 +1404,7 @@
    "title":"The Death Of Robin Hood",
    "image":"/banner/the-death-of-robin-hood.webp",   
    "iframe":"https://playcinematic.com/video/p8GUfOlmV1P8Pv3",
-   "sinopsis":"Robin Hood terlInggris Rayaa, diselamatkan wanita misterius yang menawarkan jalan penebusan.",
+   "sinopsis":"Robin Hood terlInggris Raya Rayaa, diselamatkan wanita misterius yang menaPerangkan jalan penebusan.",
    "genre": ["Aksi", "Petualangan", "Drama"],
    "release_date":"2026-06-18",
    "country":"USA"
@@ -1423,11 +1423,11 @@
    "tmdb_id": 1320756,
    "title":"Doctor Plague",
    "image":"/banner/doctor-plague.webp",   
-   "iframe":"https://playcinematic.com/video/ryfW0SZ2BC2fNInggris Raya",
+   "iframe":"https://playcinematic.com/video/ryfW0SZ2BC2fNInggris Raya Raya",
    "sinopsis":"Detektif Verney memburu kultus Dokter Wabah, rahasia berdarah yang mengancam keluarganya.",
-   "genre": ["Crime", "Horor", "Thriller"],
+   "genre": ["Kejahatan", "Horor", "Thriller"],
    "release_date":"2026-01-12",
-   "country":"Inggris Raya"
+   "country":"Inggris Raya Raya"
   },
 	{
    "tmdb_id": 1180417,
@@ -1454,8 +1454,8 @@
    "title":"Mockbuster",
    "image":"/banner/mockbuster.webp",
    "iframe":"https://playcinematic.com/video/631EJbBUUCCvdkW",
-   "sinopsis":"Kesempatan sutradara muda berubah kacau saat Asylum menawarinya proyek mockbuster.",
-   "genre": ["Documentary"],
+   "sinopsis":"Kesempatan sutradara muda berubah kacau saat Asylum menaPeranginya proyek mockbuster.",
+   "genre": ["Dokumenter"],
    "release_date":"2026-07-10",
    "country":"Australia"
   },
@@ -1524,7 +1524,7 @@
    "title":"Apex",
    "image":"/banner/film-apex-.webp",
    "iframe":"https://playcinematic.com/video/nwS4wWxzB24U6Xy",
-   "sinopsis":"Pendaki berdInggris Rayaa diburu pembunuh sadis di hutan Australia, bertahan hidup jadi taruhan.",
+   "sinopsis":"Pendaki berdInggris Raya Rayaa diburu pembunuh sadis di hutan Australia, bertahan hidup jadi taruhan.",
    "genre": ["Aksi","Thriller"],
    "release_date":"2026-04-24",
    "country":"Kanada, Australia, USA"
@@ -1535,7 +1535,7 @@
    "image":"/banner/film-dirty-hands-.webp",
    "iframe":"https://playcinematic.com/video/U69BqPSnn0GZRBI",
    "sinopsis":"Transaksi narkoba gagal di Chicago, Denton bersaudara harus bertahan hidup dari kejaran mafia.",
-   "genre": ["Aksi","Crime","Thriller"],
+   "genre": ["Aksi","Kejahatan","Thriller"],
    "release_date":"2026-04-24",
    "country":"USA"
   },
@@ -1545,7 +1545,7 @@
     "image": "/banner/finding-satoshi.webp",
     "iframe": "https://playcinematic.com/video/y1jtYxIYH5mjarj",
     "sinopsis": "Investigasi 4 tahun mengungkap Satoshi Nakamoto, pencipta Bitcoin yang ternyata hasil kolaborasi 2 orang.",
-    "genre": ["Documentary"],
+    "genre": ["Dokumenter"],
     "release_date": "2026-04-22",
     "country": "USA"
   },
@@ -1555,7 +1555,7 @@
     "image": "/banner/band-punk.webp",
     "iframe": "https://playcinematic.com/video/BGuSOsB9jKn4MI0",
     "sinopsis": "Kisah band punk wanita Lunachicks melawan industri yang diskriminatif hingga reuni emosional setelah 20 tahun.",
-    "genre": ["Documentary", "Music"],
+    "genre": ["Dokumenter", "Musik"],
     "release_date": "2026-04-24",
     "country": "USA"
   },
@@ -1604,7 +1604,7 @@
     "title": "Remarkably Bright Creatures",
     "image": "/banner/remarkably-bright-creatures.webp",
     "iframe": "https://playcinematic.com/video/OODEjol4AYyQIoR",
-    "sinopsis": "Seorang janda yang berdInggris Rayaa menemInggris Rayaan kembali kebahagiaan melalui persahabatan unik dengan seekor gurita yang cerdas.",
+    "sinopsis": "Seorang janda yang berdInggris Raya Rayaa menemInggris Raya Rayaan kembali kebahagiaan melalui persahabatan unik dengan seekor gurita yang cerdas.",
     "genre": ["Drama", "Misteri"],
     "release_date": "2026-05-07",
     "country": "USA"
@@ -1614,7 +1614,7 @@
     "title": "Who's Watching",
     "image": "/banner/who-s-watching.webp",
     "iframe": "https://playcinematic.com/video/tRKYI1YuNO8eEQE",
-    "sinopsis": "Seorang pria yang terganggu secara emosional mengamInggris Raya dan membahayakan orang lain, lalu mengungkap rahasia kelamnya.",
+    "sinopsis": "Seorang pria yang terganggu secara emosional mengamInggris Raya Raya dan membahayakan orang lain, lalu mengungkap rahasia kelamnya.",
     "genre": ["Horor"],
     "release_date": "2026-03-12",
     "country": "USA"
@@ -1644,7 +1644,7 @@
     "title": "Another Man's Wife",
     "image": "/banner/another-mans-wife.webp",
     "iframe": "https://playcinematic.com/video/djz3W55thB3QmFo",
-    "sinopsis": "Sebuah keluarga yang tampak harmonis mulai goyah. Seorang miliarder misterius muncul dan membawa tawaran yang mengejutkan.",
+    "sinopsis": "Sebuah keluarga yang tampak harmonis mulai goyah. Seorang miliarder misterius muncul dan membawa taPerangan yang mengejutkan.",
     "genre": ["Drama", "Romansa"],
     "release_date": "2026-01-01",
     "country": "USA"
@@ -1653,7 +1653,7 @@
     "tmdb_id": 1620034,
     "title": "Marty, Life Is Short",
     "image": "/banner/marty-life-is-short.webp",
-    "iframe": "https://playcinematic.com/video/xi0PCS5ZdysInggris RayayH",
+    "iframe": "https://playcinematic.com/video/xi0PCS5ZdysInggris Raya RayayH",
     "sinopsis": "Perjalanan hidup Martin Short yang penuh tawa, kenangan, dan kisah hangat yang menginspirasi.",
     "genre": ["Dokumenter"],
     "release_date": "2026-05-11",
@@ -1664,10 +1664,10 @@
     "title": "In the Grey",
     "image": "/banner/in-the-grey.webp",
     "iframe": "https://playcinematic.com/video/Zfhod2E7bxd3ygN",
-    "sinopsis": "Tim operasi rahasia elit harus keluar dari persembunyian untInggris Raya menghadapi penguasa kejam yang mencuri kekayaan bernilai miliaran dolar.",
+    "sinopsis": "Tim operasi rahasia elit harus keluar dari persembunyian untInggris Raya Raya menghadapi penguasa kejam yang mencuri kekayaan bernilai miliaran dolar.",
     "genre": ["Drama", "Aksi", "Thriller"],
     "release_date": "2026-05-13",
-    "country": "Inggris Raya"
+    "country": "Inggris Raya Raya"
   },
   {
     "tmdb_id": 1662317,
@@ -1677,7 +1677,7 @@
     "sinopsis": "Seorang remaja menabrakkan mobilnya ke sebuah bangunan dan menewaskan pacarnya serta teman pacarnya. Apa yang tampak sebagai kecelakaan tragis ternyata adalah kasus pembunuhan.",
     "genre": ["Kejahatan", "Dokumenter"],
     "release_date": "2026-05-14",
-    "country": "Inggris Raya"
+    "country": "Inggris Raya Raya"
   },
   {
     "tmdb_id": 1628367,
@@ -1697,14 +1697,14 @@
     "sinopsis": "Frank Castle memburu para penjahat kejam demi membalas dendam atas kematian keluarganya.",
     "genre": ["Aksi", "Petualangan", "Kejahatan", "Drama", "Thriller"],
     "release_date": "2026-05-12",
-    "country": "Inggris Raya"
+    "country": "Inggris Raya Raya"
   },
   {
     "tmdb_id": 1257868,
     "title": "Couples Weekend",
     "image": "/banner/couples-weekend.png",
     "iframe": "https://playcinematic.com/video/Ci8TpCF0AN0sijr",
-    "sinopsis": "Liburan tahun baru bersama dua pasangan berubah menjadi mimpi burInggris Raya saat rahasia perselingkuhan dan kebohongan mulai terungkap.",
+    "sinopsis": "Liburan tahun baru bersama dua pasangan berubah menjadi mimpi burInggris Raya Raya saat rahasia perselingkuhan dan kebohongan mulai terungkap.",
     "genre": ["Komedi", "Drama"],
     "release_date": "2026-05-08",
     "country": "USA"
@@ -1714,7 +1714,7 @@
     "title": "Broad Trip",
     "image": "/banner/broad-trip.webp",
     "iframe": "https://playcinematic.com/video/7ubq8zQM49eYYEI",
-    "sinopsis": "Empat sahabat melakInggris Rayaan perjalanan jauh melintasi kota, namun rahasia dan kekacauan mengubah liburan mereka menjadi hal yang tak terduga.",
+    "sinopsis": "Empat sahabat melakInggris Raya Rayaan perjalanan jauh melintasi kota, namun rahasia dan kekacauan mengubah liburan mereka menjadi hal yang tak terduga.",
     "genre": ["Komedi", "Drama"],
     "release_date": "2026-05-08",
     "country": "Kanada, USA"
@@ -1724,7 +1724,7 @@
     "title": "My Dearest Assassin",
     "image": "/banner/my-dearest-assassin.webp",
     "iframe": "https://playcinematic.com/video/aTbaAbxVvID9Pc7",
-    "sinopsis": "Seorang gadis dengan darah yang langka diburu oleh musuh, lalu dilatih oleh keluarga pembunuh untInggris Raya membalas dendam.",
+    "sinopsis": "Seorang gadis dengan darah yang langka diburu oleh musuh, lalu dilatih oleh keluarga pembunuh untInggris Raya Raya membalas dendam.",
     "genre": ["Aksi", "Drama", "Romansa", "Thriller"],
     "release_date": "2026-05-07",
     "country": "Thailand"
@@ -1734,7 +1734,7 @@
     "title": "Swapped",
     "image": "/banner/swapped.webp",
     "iframe": "https://playcinematic.com/video/uYsnadxeigC6US2",
-    "sinopsis": "Dua hewan yang saling bermusuhan bertInggris Rayaar tubuh dan harus bekerja sama untInggris Raya bertahan hidup.",
+    "sinopsis": "Dua hewan yang saling bermusuhan bertInggris Raya Rayaar tubuh dan harus bekerja sama untInggris Raya Raya bertahan hidup.",
     "genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fantasi"],
     "release_date": "2026-05-04",
     "country": "Tiongkok"
@@ -1744,7 +1744,7 @@
     "title": "Lee Cronin's The Mummy",
     "image": "/banner/the-mummy.webp",
     "iframe": "https://playcinematic.com/video/vPhZhNVJvnw9XEf",
-    "sinopsis": "Seorang anak perempuan yang hilang selama 8 tahun kembali membawa kutInggris Rayaan kuno mumi yang membawa teror ke rumah keluarganya.",
+    "sinopsis": "Seorang anak perempuan yang hilang selama 8 tahun kembali membawa kutInggris Raya Rayaan kuno mumi yang membawa teror ke rumah keluarganya.",
     "genre": ["Horor", "Misteri"],
     "release_date": "2026-04-17",
     "country": "Irlandia, USA, Spanyol, Kanada, Indonesia"
@@ -1754,7 +1754,7 @@
     "title": "Panda Plan 2: The Magical Tribe",
     "image": "/banner/panda-plan-2.webp",
     "iframe": "https://playcinematic.com/video/WYqUtGFnV9PeVfM",
-    "sinopsis": "Jackie Chan dan seekor panda bernama Hu Hu terjebak di sebuah sInggris Rayau misterius kuno dan harus menyelamatkan mereka dari bencana yang mengancam.",
+    "sinopsis": "Jackie Chan dan seekor panda bernama Hu Hu terjebak di sebuah sInggris Raya Rayau misterius kuno dan harus menyelamatkan mereka dari bencana yang mengancam.",
     "genre": ["Aksi", "Komedi", "Keluarga"],
     "release_date": "2026-04-28",
     "country": "Tiongkok"
@@ -1764,7 +1764,7 @@
     "title": "Brothers Under Fire",
     "image": "/banner/brothers-under-fire.webp",
     "iframe": "https://playcinematic.com/video/mytYHNPFkOvDZTX",
-    "sinopsis": "Dua saudara yang terpisah akibat perang harus bersatu untInggris Raya bertahan hidup dan menyelamatkan keluarga mereka.",
+    "sinopsis": "Dua saudara yang terpisah akibat perang harus bersatu untInggris Raya Raya bertahan hidup dan menyelamatkan keluarga mereka.",
     "genre": ["Aksi", "Misteri", "Drama", "Thriller"],
     "release_date": "2026-04-23",
     "country": "Kolombia, USA"
@@ -1774,7 +1774,7 @@
     "title": "The Super Mario Galaxy Movie",
     "image": "/banner/the-super-mario-galaxy-movie.webp",
     "iframe": "https://playcinematic.com/video/bNRDabIGvk22A63",
-    "sinopsis": "Mario menjelajahi galaksi untInggris Raya menghentikan ancaman dari luar angkasa yang membahayakan seluruh dunia.",
+    "sinopsis": "Mario menjelajahi galaksi untInggris Raya Raya menghentikan ancaman dari luar angkasa yang membahayakan seluruh dunia.",
     "genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fantasi"],
     "release_date": "2026-04-18",
     "country": "Jepang, USA"
@@ -1784,7 +1784,7 @@
     "title": "Kill Code",
     "image": "/banner/kill-code.webp",
     "iframe": "https://playcinematic.com/video/XvTGf69O45QGnA9",
-    "sinopsis": "Sebuah program pembunuh rahasia lepas kendali, memaksa seorang agen terbaik bertindak untInggris Raya menghentikannya.",
+    "sinopsis": "Sebuah program pembunuh rahasia lepas kendali, memaksa seorang agen terbaik bertindak untInggris Raya Raya menghentikannya.",
     "genre": ["Aksi", "Fiksi Ilmiah", "Thriller"],
     "release_date": "2026-04-16",
     "country": "USA"
@@ -1824,7 +1824,7 @@
     "title": "Beast",
     "image": "/banner/beast.webp",
     "iframe": "https://playcinematic.com/video/jBo1Uqq4AWzHklh",
-    "sinopsis": "Seorang pria terjebak di tengah kekacauan kota saat makhlInggris Raya mengerikan yang tak dikenal mulai memangsa manusia tanpa ampun.",
+    "sinopsis": "Seorang pria terjebak di tengah kekacauan kota saat makhlInggris Raya Raya mengerikan yang tak dikenal mulai memangsa manusia tanpa ampun.",
     "genre": ["Aksi", "Drama"],
     "release_date": "2026-04-10",
     "country": "USA, Australia"
@@ -1834,7 +1834,7 @@
     "title": "Infiltrate",
     "image": "/banner/infiltrate.webp",
     "iframe": "https://playcinematic.com/video/h1dmRO7FCUOLY0E",
-    "sinopsis": "Seorang agen rahasia menyusup ke organisasi kriminal internasional untInggris Raya membongkar konspirasi besar yang mengancam dunia.",
+    "sinopsis": "Seorang agen rahasia menyusup ke organisasi kriminal internasional untInggris Raya Raya membongkar konspirasi besar yang mengancam dunia.",
     "genre": ["Aksi", "Thriller"],
     "release_date": "2026-04-10",
     "country": "Kanada"
@@ -1854,7 +1854,7 @@
     "title": "Sniper: No Nation",
     "image": "/banner/sniper-no-nation.webp",
     "iframe": "https://playcinematic.com/video/pCoXwWUyHjZnWK1",
-    "sinopsis": "Dituduh sebagai teroris, Brandon Beckett dan ayahnya melawan pasInggris Rayaan tentara bayaran dalam misi penyelamatan yang mustahil.",
+    "sinopsis": "Dituduh sebagai teroris, Brandon Beckett dan ayahnya melawan pasInggris Raya Rayaan tentara bayaran dalam misi penyelamatan yang mustahil.",
     "genre": ["Aksi", "Thriller"],
     "release_date": "2026-04-07",
     "country": "USA"
@@ -1864,7 +1864,7 @@
     "title": "Outcome",
     "image": "/banner/outcome.webp",
     "iframe": "https://playcinematic.com/video/PRdrpABzyr0gLWQ",
-    "sinopsis": "Diancam dengan pemerasan, seorang aktor terkenal keliling dunia meminta maaf demi menemInggris Rayaan pelaku yang mengancamnya.",
+    "sinopsis": "Diancam dengan pemerasan, seorang aktor terkenal keliling dunia meminta maaf demi menemInggris Raya Rayaan pelaku yang mengancamnya.",
     "genre": ["Komedi", "Drama"],
     "release_date": "2026-04-06",
     "country": "USA"
@@ -1874,7 +1874,7 @@
     "title": "Hell Hath No Fury",
     "image": "/banner/hell-hath-no-fury.webp",
     "iframe": "https://playcinematic.com/video/kDmj8hoalzcOLPK",
-    "sinopsis": "Seorang psikiater yang sedang berdInggris Rayaa dihadapi oleh seorang wanita misterius, sementara pembunuhan berantai mengungkap rahasia kuno yang mengejutkan.",
+    "sinopsis": "Seorang psikiater yang sedang berdInggris Raya Rayaa dihadapi oleh seorang wanita misterius, sementara pembunuhan berantai mengungkap rahasia kuno yang mengejutkan.",
     "genre": ["Thriller", "Drama"],
     "release_date": "2026-04-04",
     "country": "USA"
@@ -1887,7 +1887,7 @@
    "sinopsis":"Hubungan kelam Kraven dengan ayah gangster mendorongnya jadi pemburu paling ditakuti.",
    "genre": ["Aksi", "Petualangan", "Thriller"],
    "release_date":"2024-12-11",
-   "country":"Kanada, Inggris, USA, Islandia"
+   "country":"Kanada, Inggris Raya, USA, Islandia"
   },
   {
    "tmdb_id": 816949,
@@ -1897,7 +1897,7 @@
    "sinopsis":"Ilmuwan saraf ciptakan alat pelepas iblis dalam dirinya demi balas dendam kejam pada musuh.",
    "genre": ["Horor","Thriller"],
    "release_date":"2024-10-29",
-   "country":"Inggris, Indonesia, USA"
+   "country":"Inggris Raya, Indonesia, USA"
   },
   {
    "tmdb_id": 814889,
@@ -1915,7 +1915,7 @@
    "image":"/banner/joachim-and-the-apocalypse.webp",
    "iframe":"https://playcinematic.com/video/Efqpv7DDjmC1gdF",
    "sinopsis":"Dalam era Perang Salib, Joachim menerima penglihatan mistis dan nubuat ilahi, berjuang melawan kiamat lewat cinta dan pencarian akan Tuhan.",
-   "genre": ["Drama","History"],
+   "genre": ["Drama","Sejarah"],
    "release_date":"2024-12-05",
    "country":"Italia, USA"
   }
@@ -1946,7 +1946,7 @@
    "image":"/banner/the-spongebob-movie-search-for-squarepants.webp",
    "iframe":"https://playcinematic.com/video/ktGa8svVA9U9oX5",
    "sinopsis":"SpongeBob mengikuti Flying Dutchman dalam petualangan laut demi membuktikan keberaniannya.",
-   "genre": ["Petualangan", "Animation", "Komedi", "Family", "Fantasi"],
+   "genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fantasi"],
    "release_date":"2025-12-16",
    "country":"Indonesia, USA"
   },
@@ -1962,11 +1962,11 @@
   },
 	{
    "tmdb_id": 938150,
-   "title":"Wardriver",
-   "image":"/banner/wardriver.webp",
+   "title":"Perangdriver",
+   "image":"/banner/Perangdriver.webp",
    "iframe":"https://playcinematic.com/video/1kjfITKoPDDJgme",
    "sinopsis":"Peretas pencuri uang bank terjebak dalam bahaya saat uang hasil aksinya memicu kekerasan mematikan.",
-   "genre": ["Crime", "Thriller"],
+   "genre": ["Kejahatan", "Thriller"],
    "release_date":"2025-03-04",
    "country":"USA, Jerman"
   },
@@ -1976,7 +1976,7 @@
    "image":"/banner/zootopia-2.webp",
    "iframe":"https://playcinematic.com/video/FMYX1tx9JMDSbYG",
    "sinopsis":"Judy dan Nick menyelidiki misteri baru di Zootopia yang menguji kemitraan mereka hingga batasnya.",
-   "genre": ["Petualangan", "Animation", "Komedi", "Family", "Mystery"],
+   "genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Mystery"],
    "release_date":"2025-11-26",
    "country":"USA, Indonesia"
   },
@@ -1986,14 +1986,14 @@
    "image":"/banner/mammoth-hunters.webp",
    "iframe":"https://playcinematic.com/video/gP7mIbnRms8Qh6E",
    "sinopsis":"Penemuan bayi mammoth utuh di Yukon 2022 bangkitkan kembali rasa ingin tahu ilmiah.",
-   "genre": ["Documentary"],
+   "genre": ["Dokumenter"],
    "release_date":"2025-08-01",
    "country":"Kanada"
   },
 	{
 	"tmdb_id": 755898,
-   "title":"War Of The Worlds Revival",
-   "image":"/banner/war-of-the-worlds.webp",
+   "title":"Perang Of The Worlds Revival",
+   "image":"/banner/Perang-of-the-worlds.webp",
    "iframe":"https://playcinematic.com/video/oUqRFUetq2QB8Ln",
    "sinopsis":"Analis Homeland Security Will Radford menemukan serangan misterius dan rahasia pemerintah.",
    "genre": ["Fiksi Ilmiah","Thriller"],
@@ -2028,7 +2028,7 @@
    "sinopsis":"Arkeolog berjuang menyelamatkan putrinya dari rasukan Dewi Perang Pagan setelah makam kuno Irlandia terbuka.",
    "genre": ["Horor"],
    "release_date":"2025-04-09",
-   "country":"Inggris"
+   "country":"Inggris Raya"
   },
   {
    "tmdb_id": 1317288,
@@ -2046,7 +2046,7 @@
    "image":"/banner/yadang-the-snitch.webp",
    "iframe":"https://playcinematic.com/video/JQ3jxCgrKnlt9Fr",
    "sinopsis":"Informan narkoba terjebak konspirasi maut jetset, kini ia harus bertahan hidup dan menang.",
-   "genre": ["Aksi","Crime"],
+   "genre": ["Aksi","Kejahatan"],
    "release_date":"2025-04-16",
    "country":"Korea Selatan, Indonesia"
   },
@@ -2068,7 +2068,7 @@
    "sinopsis":"Kisah nyata para DJ Kuba bagai kunang-kunang, hidupkan musik elektronik malam hari di tengah realita",
    "genre": ["Komedi"],
    "release_date":"2025-01-01",
-   "country":"Mexico"
+   "country":"Meksiko"
   },
   {
    "tmdb_id": 1317149,
@@ -2076,9 +2076,9 @@
    "image":"/banner/I%20Swear.webp",
    "iframe":"https://playcinematic.com/video/HtbjZSTbdoe1UV1",
    "sinopsis":"Didiagnosis Tourette usia 15, John Davidson berjuang lewati masa sulit demi temukan tujuan hidup.",
-   "genre": ["Drama","History"],
+   "genre": ["Drama","Sejarah"],
    "release_date":"2025-09-22",
-   "country":"usai, Inggris"
+   "country":"usai, Inggris Raya"
   },
   {
    "tmdb_id": 1245532,
@@ -2098,7 +2098,7 @@
    "sinopsis":"Massa mengamuk. Glinda & Elphaba harus bersatu dengan empati demi mengubah masa depan Oz selamanya.",
    "genre": ["Petualangan","Fantasi","Romansa"],
    "release_date":"2025-11-19",
-   "country":"Australia, Canada, usai, USA"
+   "country":"Australia, Kanada, usai, USA"
   },
   {
    "tmdb_id": 1340206,
@@ -2106,9 +2106,9 @@
    "image":"/banner/tuner-2025.webp",
    "iframe":"https://playcinematic.com/video/9OCD7aRRjA96kus",
    "sinopsis":"Seorang penyetel piano berbakat menemukan bakat mengejutkan membuka brankas, mengubah hidupnya secara tak terduga.",
-   "genre": ["Crime","Drama","Thriller"],
+   "genre": ["Kejahatan","Drama","Thriller"],
    "release_date":"2025-05-21",
-   "country":"Canada"
+   "country":"Kanada"
   },
   {
    "tmdb_id": 650524,
@@ -2156,7 +2156,7 @@
    "image":"/banner/chapter-51.webp",
    "iframe":"https://playcinematic.com/video/CEjYmXpLoLIhmzt",
    "sinopsis":"Kasus Hollywood Killer, 3 aktris tewas; mantan agen FBI buka kembali misteri kelam.",
-   "genre": ["Komedi","Crime","Mystery"],
+   "genre": ["Komedi","Kejahatan","Mystery"],
    "release_date":"2025-06-23",
    "country":"USA"
   },
@@ -2166,7 +2166,7 @@
    "image":"/banner/in-the-hand-of-dante.webp",
    "iframe":"https://playcinematic.com/video/7rfrIdftfjF0yl9",
    "sinopsis":"Pastor Vatikan temukan naskah asli Dante, penulis mencuri, kisah paralel lahirnya mahakarya.",
-   "genre": ["Crime","Drama"],
+   "genre": ["Kejahatan","Drama"],
    "release_date":"2025-06-12",
    "country":"USA"
   },
@@ -2186,7 +2186,7 @@
    "image":"/banner/huo-zhe-yan.webp",
    "iframe":"https://playcinematic.com/video/pqBkDUUKjkV27Nf",
    "sinopsis":"Wang Wei dan jurnalis Navin bersekutu, melawan penculik demi putri dan dendam.",
-   "genre": ["Thriller","Aksi","Crime"],
+   "genre": ["Thriller","Aksi","Kejahatan"],
    "release_date":"2025-06-10",
    "country":"Tiongkok"
   }
@@ -2196,7 +2196,7 @@
    "image":"/banner/kesari.webp",
    "iframe":"https://playcinematic.com/video/9bEeRlSQNCk6UsK",
    "sinopsis":"21 Sikh bertahan melawan 10.000 Afghan demi mempertahankan benteng Saragarhi.",
-   "genre": ["Aksi", "Drama", "History", "War"],
+   "genre": ["Aksi", "Drama", "Sejarah", "Perang"],
    "release_date":"2019-03-21",
    "country":"India"
   },
@@ -2228,7 +2228,7 @@
    "sinopsis":"Enam tentara dikirim dalam misi bunuh diri untuk mengantarkan paket misterius melintasi wilayah berbahaya. ",
    "genre": ["Aksi", "Thriller"],
    "release_date":"2022-03-18",
-   "country":"Sweden"
+   "country":"Swedia"
   },
   {
    "tmdb_id": 299534,
@@ -2246,7 +2246,7 @@
    "image":"/banner/debt-collectors.webp",
    "iframe":"https://playcinematic.com/video/o10Zgq9szh9Y8Xd",
    "sinopsis":"Dua penagih utang terjebak situasi berbahaya, memburu penjahat sambil lari dari bos dendam.",
-   "genre": ["Aksi", "Komedi", "Crime"],
+   "genre": ["Aksi", "Komedi", "Kejahatan"],
    "release_date":"2020-05-29",
    "country":"USA"
   },
@@ -2255,7 +2255,7 @@
    "title":"Assault on Wall Street",
    "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsCpwC5btCsx9JdIi5iOl8971PWIu6Q0OY_lO4bhXUH6JwbOoILC8O4a6yb195rZewbc9LPs2W5Maaq21k1zz3r6oax6-zxP-1C6i-t-4SYCWgA8JKhsUkpP5YABYxFWRToaISizr7WKIpoBisGovTAN4t0Sa_TrDK5d9-OEXg3Ks00nXjZyWc7vqXyxE/s300/caturbangunsentosa.blogspot.com-assault-on-wall-street.webp",
    "iframe":"https://playcinematic.com/video/imOwlFBpmnfFquV",
-   "sinopsis":"Jim adalah warga New York biasa yang menjalani kehidupan damai dengan pekerjaan bergaji tinggi dan keluarga yang penuh kasih sayang. Tiba-tiba, semuanya berubah ketika ekonomi runtuh, menyebabkan Jim kehilangan segalanya. Dipenuhi amarah dan kemarahan, Jim kehilangan kendali dan melakukan tindakan ekstrem untuk membalas dendam atas kehidupan yang telah direnggut darinya.",
+   "sinopsis":"Jim adalah Perangga New York biasa yang menjalani kehidupan damai dengan pekerjaan bergaji tinggi dan keluarga yang penuh kasih sayang. Tiba-tiba, semuanya berubah ketika ekonomi runtuh, menyebabkan Jim kehilangan segalanya. Dipenuhi amarah dan kemarahan, Jim kehilangan kendali dan melakukan tindakan ekstrem untuk membalas dendam atas kehidupan yang telah direnggut darinya.",
    "genre": ["Aksi", "Drama", "Thriller"],
    "release_date":"2013-06-30",
    "country":"Kanada"
@@ -2276,7 +2276,7 @@
    "image":"/banner/generation-iron.webp",
    "iframe":"https://playcinematic.com/video/36h1g78uI7lDUQB",
    "sinopsis":"Kisah 7 binaraga top dunia berlatih demi panggung Mr. Olympia. Intip kompetisi otot paling bergengsi.",
-   "genre": ["Documentary"],
+   "genre": ["Dokumenter"],
    "release_date":"2013-09-20",
    "country":"USA"
   },
@@ -2295,10 +2295,10 @@
    "title":"The Isle",
    "image":"/banner/The%20Isle%202019.webp",
    "iframe":"https://playcinematic.com/video/V7F50XOlO7ZWhuk",
-   "sinopsis":"1840: Kapal karam di pulau Skotlandia. 3 pelaut selamat & ditolong warga, lalu kuak misteri pulau.",
+   "sinopsis":"1840: Kapal karam di pulau Skotlandia. 3 pelaut selamat & ditolong Perangga, lalu kuak misteri pulau.",
    "genre": ["Petualangan","Fantasi","Horor","Thriller"],
    "release_date":"2019-02-08",
-   "country":"Inggris"
+   "country":"Inggris Raya"
   },
   {
    "tmdb_id": 458576,
@@ -2308,7 +2308,7 @@
    "sinopsis":"Kapten Artemis dan tim masuk dunia monster, hadapi bahaya bersama pemburu misterius.",
    "genre": ["Aksi","Petualangan","Fantasi"],
    "release_date":"2020-12-03",
-   "country":"China"
+   "country":"Tiongkok"
   },
   {
    "tmdb_id": 629176,
@@ -2316,7 +2316,7 @@
    "image":"/banner/samaritan.webp",
    "iframe":"https://playcinematic.com/video/jZoVrAk8VX6mtya",
    "sinopsis":"Sam (13) curiga tetangganya adalah Samaritan, pahlawan yang dikira sudah tewas, demi selamatkan kota.",
-   "genre": ["Aksi","Fiksi Ilmiah","Crime"],
+   "genre": ["Aksi","Fiksi Ilmiah","Kejahatan"],
    "release_date":"2022-08-25",
    "country":"USA"
   },
@@ -2336,7 +2336,7 @@
    "image":"/banner/The%20Sea%20Beast.webp",
    "iframe":"https://playcinematic.com/video/2IG9Z85pgRXIPzz",
    "sinopsis":"Era monster laut, pemburu dipuji. Jacob Holland terkejut saat anak yatim Maisie menyelinap ke kapal.",
-   "genre": ["Petualangan","Fantasi","Family","Animation"],
+   "genre": ["Petualangan","Fantasi","Keluarga","Animasi"],
    "release_date":"2022-06-24",
    "country":"USA"
   },
@@ -2366,7 +2366,7 @@
    "image":"/banner/emancipation.webp",
    "iframe":"https://playcinematic.com/video/85u8h43qtPNO2QY",
    "sinopsis":"Kisah nyata budak bernama Peter yang pertaruhkan nyawa demi kabur dan kembali pada keluarganya.",
-   "genre": ["Drama","History","War"],
+   "genre": ["Drama","Sejarah","Perang"],
    "release_date":"2022-12-02",
    "country":"USA"
   }
