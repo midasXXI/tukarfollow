@@ -131,28 +131,7 @@
    "release_date":"2026-08-19",
    "country":"USA, United Kingdom"
   },
-	 {
-   "tmdb_id": 1450527,
-   "title":"Forbidden Fruits",
-   "image":"/banner/forbidden-fruits.webp",
-   "iframe":"",
-   "iframe2":"https://playcinematic.com/video/UX5iJmuleR7ZHka",
-   "sinopsis":"Free Eden: Apple diam-diam memimpin pemujaan gaib di ruang bawah toko mal bersama Cherry & Fig. Saat karyawan baru Pumpkin menantang persaudaraan palsu mereka, mereka harus hadapi keburukan diri atau binasa tragis.",
-   "genre": ["Comedy", "Horor"],
-   "release_date":"2019-03-26",
-   "country":"Canada"
-  },
-	{
-   "tmdb_id": 1543151,
-   "title":"King Kaew",
-   "image":"/banner/king-kaew.webp",
-   "iframe":"",
-   "iframe2":"https://playcinematic.com/video/LGoofDLSxJhMC73",
-   "sinopsis":"Roh wanita muda menuntut keadilan atas eksekusi salah.",
-   "genre": ["Crime", "Drama", "Horror"],
-   "release_date":"2026-01-29",
-   "country":"Thailand"
-  },
+	 
 	{
    "tmdb_id": 969681,
    "title":"Spider-Man: Brand New Day",
