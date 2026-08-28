@@ -1,5 +1,15 @@
 [
 	{
+   "tmdb_id": 1339713,
+   "title":"Obsession",
+   "image":"/banner/obsession.webp",
+   "iframe":"https://player.abyssplayer.com/-DfXGCZI6Q",
+   "sinopsis":"Seorang pecinta yang putus asa melakukan kesalahan fatal dengan mematahkan - One Wish Willow",
+   "genre": ["Romansa", "Horor","Thriller"],
+   "release_date":"2026-05-13",
+   "country":"Amerika Serikat"
+  },
+	{
    "tmdb_id": 1516698,
    "title":"The Last Sunrise",
    "image":"/banner/the-last-sunrise.webp",
