@@ -1,5 +1,15 @@
 [
   {
+  "tmdb_id": 1628123,
+  "title": "BTS the Comeback Live: Arirang",
+  "image": "/banner/bts-comeback-live-arirang.webp",
+  "iframe": "https://player.abyssplayer.com/BeiKl47uR",
+  "sinopsis": " BTS kembali dengan penampilan live epik dari Seoul. Mereka merayakan album studio kelima mereka,",
+  "genre": ["Musik"],
+  "release_date": "2026-03-21",
+  "country": "Korea Selatan"
+},
+  {
   "tmdb_id": 1630433,
   "title": "The Red Line",
   "image": "/banner/the-red-line.webp",
