@@ -1,5 +1,15 @@
 [
   {
+    "tmdb_id": 1628524,
+    "title": "A Royal Setting",
+    "image": "/banner/a-royal-setting.webp",
+    "iframe": "https://player.abyssplayer.com/H9oXuAyZd",
+    "sinopsis": "Seorang ahli perhiasan terkenal, yang dipekerjakan oleh Pangeran Luca untuk mengembalikan kilau mahkota kerajaan.",
+    "genre": ["Romansa"],
+    "release_date": "2026-03-28",
+    "country": "Kanada"
+  },
+  {
     "tmdb_id": 1049471,
     "title": "Outcome",
     "image": "/banner/outcome.webp",
