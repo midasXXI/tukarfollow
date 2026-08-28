@@ -1,5 +1,15 @@
 [
   {
+    "tmdb_id": 1189885,
+    "title": "The Morrigan",
+    "image": "/banner/the-morrigan.webp",
+    "iframe": "https://player.abyssplayer.com/nvkXId6NU",
+    "sinopsis": "Seorang arkeolog bernama Dr. Emma melakukan ekspedisi ke Irlandia untuk menggali makam kuno yang terkubur selama berabad-abad.",
+    "genre": ["Horor"],
+    "release_date": "2026-04-09",
+    "country": "Inggris Raya"
+  },
+  {
     "tmdb_id": 1472951,
     "title": "Infiltrate",
     "image": "/banner/infiltrate.webp",
