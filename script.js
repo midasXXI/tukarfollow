@@ -1,7 +1,6 @@
 const API_KEY = 'c000d7b8b0f5ee16b98b6103009745d8';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_URL = 'https://image.tmdb.org/t/p/w780';
-// 📁 Alamat file data film kamu
 const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies.json';
 const JSON_FILES = [
     'https://midasxxi.github.io/tukarfollow/movies.json',
@@ -22,10 +21,10 @@ let activeMovieIndex = 0;
 let currentPage = 1;
 let currentActiveSection = null;
 let isDesktop = false;
-// 🔑 Kunci penyimpanan posisi gulir
 const SCROLL_POS_KEY = 'feedScrollPosition';
+
 // ==============================================
-// 📱 Fungsi Deteksi Perangkat
+// 📱 Deteksi Perangkat
 // ==============================================
 function detectDevice() {
     isDesktop = window.innerWidth >= 1024;
@@ -34,8 +33,9 @@ function detectDevice() {
         if (arrow) arrow.style.display = isDesktop ? 'flex' : 'none';
     });
 }
+
 // ==============================================
-// 💾 Simpan & KEMBALIKAN Posisi Gulir
+// 💾 Simpan & Pulihkan Posisi Gulir
 // ==============================================
 function simpanPosisiGulir() {
     if (feedContainer) {
@@ -50,8 +50,9 @@ function pulihkanPosisiGulir() {
         }
     }
 }
+
 // ==============================================
-// 🚀 Modul Selebaran Promosi
+// 🚀 Notifier Promosi
 // ==============================================
 function initPromoNotifier() {
     const notifier = document.getElementById('desktopNotifier');
@@ -85,28 +86,24 @@ function initPromoNotifier() {
             tampilkanFlyer();
         })
         .catch(err => {
-            console.warn("⚠️ Membaca movies.json gagal/kosong → pakai data default", err);
+            console.warn("⚠️ movies.json gagal → pakai data default", err);
             tampilkanFlyer();
         });
     function tampilkanFlyer() {
-        if (latestMovie.image) {
-            promoCard.style.backgroundImage = `url('${latestMovie.image}')`;
-        }
+        if (latestMovie.image) promoCard.style.backgroundImage = `url('${latestMovie.image}')`;
         if (promoTitle) promoTitle.textContent = latestMovie.title || 'Judul Film';
         if (promoCountry) {
             const tahun = latestMovie.release_date ? latestMovie.release_date.split('-')[0] : '';
             promoCountry.textContent = `${latestMovie.country || 'Unknown'} • ${tahun}`;
         }
         if (promoSinopsis) promoSinopsis.textContent = latestMovie.sinopsis || 'Tidak ada sinopsis.';
-        if (promoGenres) {
+        if (promoGenres && latestMovie.genre) {
             promoGenres.innerHTML = '';
-            if (latestMovie.genre && Array.isArray(latestMovie.genre)) {
-                latestMovie.genre.forEach(g => {
-                    const span = document.createElement('span');
-                    span.textContent = g;
-                    promoGenres.appendChild(span);
-                });
-            }
+            latestMovie.genre.forEach(g => {
+                const span = document.createElement('span');
+                span.textContent = g;
+                promoGenres.appendChild(span);
+            });
         }
         if (promoWatchBtn) {
             promoWatchBtn.onclick = function() {
@@ -115,11 +112,9 @@ function initPromoNotifier() {
                 if (targetedId) {
                     simpanPosisiGulir();
                     playMovie(targetedId);
-                } else if (latestMovie.iframe) {
-                    if (videoPlayerContainer && playerArea) {
-                        videoPlayerContainer.style.display = 'block';
-                        playerArea.innerHTML = `<iframe src="${latestMovie.iframe}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;
-                    }
+                } else if (latestMovie.iframe && videoPlayerContainer && playerArea) {
+                    videoPlayerContainer.style.display = 'block';
+                    playerArea.innerHTML = `<iframe src="${latestMovie.iframe}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;
                 }
             };
         }
@@ -141,8 +136,9 @@ function closeNotifier() {
         }, 300);
     }
 }
+
 // ==============================================
-// 🎯 Fungsi Gulir Daftar Film
+// 🎯 Gulir Halaman
 // ==============================================
 function scrollFeed(direction) {
     if (!feedContainer) return;
@@ -152,8 +148,9 @@ function scrollFeed(direction) {
         behavior: 'smooth'
     });
 }
+
 // ==============================================
-// 🎬 Ambil Data Film Populer dari TMDB
+// 🎬 Ambil Data Film dari TMDB
 // ==============================================
 async function fetchMovies(page = 1) {
     try {
@@ -167,12 +164,13 @@ async function fetchMovies(page = 1) {
         }
         renderFeed(moviesData);
     } catch (error) {
-        console.warn('⚠️ Gagal terhubung ke TMDB, gunakan data cadangan:', error);
+        console.warn('⚠️ Gagal hubung TMDB → pakai data cadangan:', error);
         loadFallbackData();
     }
 }
+
 // ==============================================
-// 📂 Data Cadangan Jika Server Sibuk
+// 📂 Data Cadangan
 // ==============================================
 function loadFallbackData() {
     const fallback = [
@@ -183,8 +181,9 @@ function loadFallbackData() {
     else moviesData = [...moviesData, ...fallback];
     renderFeed(moviesData);
 }
+
 // ==============================================
-// 🖼️ Tampilkan Daftar Film ke Halaman
+// 🖼️ Tampilkan Daftar Film
 // ==============================================
 function renderFeed(movies) {
     if (!feedContainer) return;
@@ -232,6 +231,15 @@ function renderFeed(movies) {
     });
     if (window.lucide) lucide.createIcons();
 }
+
+// ==============================================
+// ➡️ Muat Halaman Berikutnya
+// ==============================================
+function loadNextPage() {
+    currentPage++;
+    fetchMovies(currentPage);
+}
+
 // ==============================================
 // ℹ️ Panel Info Samping
 // ==============================================
@@ -282,8 +290,9 @@ async function toggleSection(event, index, section) {
         panelContentArea.innerHTML = `<p style="color:#ff6b6b;">Gagal memuat detail.</p>`;
     }
 }
+
 // ==============================================
-// 🔍 Fungsi Cek & Arahkan ke watch.html
+// 🔍 Putar / Arahkan ke Halaman Tonton
 // ==============================================
 async function playMovie(tmdbId) {
     if (!tmdbId) return;
@@ -298,12 +307,7 @@ async function playMovie(tmdbId) {
                     return String(f.tmdb_id).trim() === String(tmdbId).trim() || Number(f.tmdb_id) === Number(tmdbId);
                 });
                 if (ketemu && ketemu.title) {
-                    judulUrl = ketemu.title
-                        .trim()
-                        .toLowerCase()
-                        .replace(/\s+/g, '-')
-                        .replace(/[^a-z0-9-]/g, '')
-                        .substring(0, 50);
+                    judulUrl = ketemu.title.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '').substring(0, 50);
                     break;
                 }
             }
@@ -314,8 +318,9 @@ async function playMovie(tmdbId) {
     if (!judulUrl) judulUrl = 'unknown';
     window.location.href = `watch.html?id=${String(tmdbId).trim()}/${judulUrl}`;
 }
+
 // ==============================================
-// ⌨️ Bagian Pencarian Film
+// ⌨️ Pencarian Film
 // ==============================================
 let searchResultsLayer = document.getElementById('searchResultsLayer');
 if (!searchResultsLayer) {
@@ -367,8 +372,9 @@ if (searchInput) {
         }
     });
 }
+
 // ==============================================
-// 🧭 Navigasi
+// 🧭 Navigasi & GULIR OTOMATIS MUAT FILM
 // ==============================================
 const navSearch = document.getElementById('navSearch');
 const navHome = document.getElementById('navHome');
@@ -393,6 +399,9 @@ if (navHome) {
         sessionStorage.removeItem(SCROLL_POS_KEY);
     });
 }
+
+// ✅ BAGIAN PENTING: GULIR SAMPAI BAWAH → OTOMATIS MUAT HALAMAN BERIKUTNYA
+let sedangMemuat = false; // Cegah pemanggilan ganda
 if (feedContainer) {
     feedContainer.addEventListener('scroll', () => {
         const idx = Math.round(feedContainer.scrollTop / window.innerHeight);
@@ -401,8 +410,18 @@ if (feedContainer) {
             if (infoPanel) infoPanel.classList.remove('show');
             currentActiveSection = null;
         }
+
+        // 👇 OTOMATIS MUAT FILM TAMBAHAN SAAT DEKAT BAWAH
+        const sisaJarak = feedContainer.scrollHeight - feedContainer.scrollTop - feedContainer.clientHeight;
+        if (sisaJarak < 300 && !sedangMemuat) {
+            sedangMemuat = true;
+            loadNextPage();
+            // Beri jeda sebentar agar tidak dipanggil berkali-kali
+            setTimeout(() => { sedangMemuat = false; }, 1500);
+        }
     });
 }
+
 const closePlayerBtn = document.getElementById('closePlayerBtn');
 if (closePlayerBtn) {
     closePlayerBtn.addEventListener('click', () => {
@@ -410,29 +429,21 @@ if (closePlayerBtn) {
         if (playerArea) playerArea.innerHTML = '';
     });
 }
+
 // ==============================================
 // 🚀 JALANKAN SEMUA
 // ==============================================
-window.addEventListener('DOMContentLoaded', () => {
-    detectDevice();
-});
+window.addEventListener('DOMContentLoaded', detectDevice);
 window.addEventListener('load', () => {
     fetchMovies();
-    setTimeout(() => {
-        pulihkanPosisiGulir();
-    }, 100);
-    setTimeout(() => {
-        initPromoNotifier();
-    }, 400);
+    setTimeout(pulihkanPosisiGulir, 100);
+    setTimeout(initPromoNotifier, 400);
 });
 window.addEventListener('pageshow', (e) => {
-    if (e.persisted) {
-        setTimeout(pulihkanPosisiGulir, 50);
-    } else {
-        setTimeout(pulihkanPosisiGulir, 150);
-    }
+    setTimeout(pulihkanPosisiGulir, e.persisted ? 50 : 150);
 });
 window.addEventListener('resize', detectDevice);
+
 // PWA
 let deferredPrompt;
 const installBtn = document.getElementById('installPwaBtn');
@@ -456,6 +467,4 @@ window.addEventListener('appinstalled', () => {
     if (installBtn) installBtn.style.display = 'none';
     console.log('PWA sudah terpasang');
 });
-if (typeof lucide !== 'undefined') {
-    lucide.createIcons();
-}
+if (typeof lucide !== 'undefined') lucide.createIcons();
