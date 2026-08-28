@@ -1,7 +1,6 @@
 const API_KEY = 'c000d7b8b0f5ee16b98b6103009745d8';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_URL = 'https://image.tmdb.org/t/p/w780';
-
 // 📁 Alamat file data film kamu
 const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies.json';
 const JSON_FILES = [
@@ -10,7 +9,6 @@ const JSON_FILES = [
     'https://midasxxi.github.io/tukarfollow/movies2024.json',
     'https://midasxxi.github.io/tukarfollow/moviesclassic.json'
 ];
-
 const feedContainer = document.getElementById('feedContainer');
 const searchContainer = document.getElementById('searchContainer');
 const searchInput = document.getElementById('searchInput');
@@ -18,17 +16,14 @@ const infoPanel = document.getElementById('infoPanel');
 const panelContentArea = document.getElementById('panelContentArea');
 const videoPlayerContainer = document.getElementById('videoPlayerContainer');
 const playerArea = document.getElementById('playerArea');
-
 let moviesData = [];
 let semuaFilm = [];
 let activeMovieIndex = 0;
 let currentPage = 1;
 let currentActiveSection = null;
 let isDesktop = false;
-
 // 🔑 Kunci penyimpanan posisi gulir
 const SCROLL_POS_KEY = 'feedScrollPosition';
-
 // ==============================================
 // 📱 Fungsi Deteksi Perangkat
 // ==============================================
@@ -39,16 +34,14 @@ function detectDevice() {
         if (arrow) arrow.style.display = isDesktop ? 'flex' : 'none';
     });
 }
-
 // ==============================================
-// 💾 Simpan & KEMBALIKAN Posisi Gulir — INI SOLUSINYA BRO!
+// 💾 Simpan & KEMBALIKAN Posisi Gulir
 // ==============================================
 function simpanPosisiGulir() {
     if (feedContainer) {
         sessionStorage.setItem(SCROLL_POS_KEY, feedContainer.scrollTop);
     }
 }
-
 function pulihkanPosisiGulir() {
     if (feedContainer) {
         const posisi = sessionStorage.getItem(SCROLL_POS_KEY);
@@ -57,7 +50,6 @@ function pulihkanPosisiGulir() {
         }
     }
 }
-
 // ==============================================
 // 🚀 Modul Selebaran Promosi
 // ==============================================
@@ -69,9 +61,7 @@ function initPromoNotifier() {
     const promoGenres = document.getElementById('promoGenres');
     const promoSinopsis = document.getElementById('promoSinopsis');
     const promoWatchBtn = document.getElementById('promoWatchBtn');
-
     if (!notifier || !promoCard) return;
-
     let latestMovie = {
         title: "Avatar: The Way of Water",
         country: "US",
@@ -81,7 +71,6 @@ function initPromoNotifier() {
         image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1000",
         tmdb_id: 76600
     };
-
     fetch(MOVIES_JSON_PATH)
         .then(response => {
             if (!response.ok) throw new Error('movies.json tidak merespon');
@@ -99,7 +88,6 @@ function initPromoNotifier() {
             console.warn("⚠️ Membaca movies.json gagal/kosong → pakai data default", err);
             tampilkanFlyer();
         });
-
     function tampilkanFlyer() {
         if (latestMovie.image) {
             promoCard.style.backgroundImage = `url('${latestMovie.image}')`;
@@ -125,7 +113,7 @@ function initPromoNotifier() {
                 closeNotifier();
                 const targetedId = latestMovie.tmdb_id || latestMovie.id;
                 if (targetedId) {
-                    simpanPosisiGulir(); // ✅ Simpan posisi sebelum pindah
+                    simpanPosisiGulir();
                     playMovie(targetedId);
                 } else if (latestMovie.iframe) {
                     if (videoPlayerContainer && playerArea) {
@@ -142,7 +130,6 @@ function initPromoNotifier() {
         if (window.lucide) lucide.createIcons();
     }
 }
-
 function closeNotifier() {
     const notifier = document.getElementById('desktopNotifier');
     if (notifier) {
@@ -154,7 +141,6 @@ function closeNotifier() {
         }, 300);
     }
 }
-
 // ==============================================
 // 🎯 Fungsi Gulir Daftar Film
 // ==============================================
@@ -166,7 +152,6 @@ function scrollFeed(direction) {
         behavior: 'smooth'
     });
 }
-
 // ==============================================
 // 🎬 Ambil Data Film Populer dari TMDB
 // ==============================================
@@ -175,7 +160,6 @@ async function fetchMovies(page = 1) {
         const response = await fetch(`${BASE_URL}/movie/popular?api_key=${API_KEY}&language=id-ID&page=${page}`);
         if (!response.ok) throw new Error('Gagal memuat data');
         const data = await response.json();
-
         if (page === 1) {
             moviesData = data.results;
         } else {
@@ -187,7 +171,6 @@ async function fetchMovies(page = 1) {
         loadFallbackData();
     }
 }
-
 // ==============================================
 // 📂 Data Cadangan Jika Server Sibuk
 // ==============================================
@@ -200,7 +183,6 @@ function loadFallbackData() {
     else moviesData = [...moviesData, ...fallback];
     renderFeed(moviesData);
 }
-
 // ==============================================
 // 🖼️ Tampilkan Daftar Film ke Halaman
 // ==============================================
@@ -248,23 +230,8 @@ function renderFeed(movies) {
         `;
         feedContainer.appendChild(card);
     });
-
-    const lastCard = feedContainer.lastChild;
-    if (lastCard) {
-        const loadMoreDiv = document.createElement('div');
-        loadMoreDiv.className = 'inline-load-more';
-        loadMoreDiv.innerHTML = `<button class="load-more-btn-inline" onclick="loadNextPage()"><i data-lucide="plus" size="16"></i> Muat Lebih Banyak (Halaman ${currentPage + 1})</button>`;
-        const mainContent = lastCard.querySelector('.main-content');
-        if (mainContent) mainContent.appendChild(loadMoreDiv);
-    }
     if (window.lucide) lucide.createIcons();
 }
-
-function loadNextPage() {
-    currentPage++;
-    fetchMovies(currentPage);
-}
-
 // ==============================================
 // ℹ️ Panel Info Samping
 // ==============================================
@@ -273,7 +240,6 @@ async function toggleSection(event, index, section) {
     if (!infoPanel || !panelContentArea) return;
     const movie = moviesData[index];
     if (!movie) return;
-
     if (infoPanel.classList.contains('show') && currentActiveSection === section) {
         infoPanel.classList.remove('show');
         currentActiveSection = null;
@@ -282,7 +248,6 @@ async function toggleSection(event, index, section) {
     currentActiveSection = section;
     panelContentArea.innerHTML = `<div style="padding:20px; color:#fff;">Memuat...</div>`;
     infoPanel.classList.add('show');
-
     try {
         const resDetail = await fetch(`${BASE_URL}/movie/${movie.id}?api_key=${API_KEY}&language=id-ID`);
         const detailData = await resDetail.json();
@@ -317,7 +282,6 @@ async function toggleSection(event, index, section) {
         panelContentArea.innerHTML = `<p style="color:#ff6b6b;">Gagal memuat detail.</p>`;
     }
 }
-
 // ==============================================
 // 🔍 Fungsi Cek & Arahkan ke watch.html
 // ==============================================
@@ -350,7 +314,6 @@ async function playMovie(tmdbId) {
     if (!judulUrl) judulUrl = 'unknown';
     window.location.href = `watch.html?id=${String(tmdbId).trim()}/${judulUrl}`;
 }
-
 // ==============================================
 // ⌨️ Bagian Pencarian Film
 // ==============================================
@@ -368,18 +331,15 @@ if (!searchResultsLayer) {
     `;
     document.body.appendChild(searchResultsLayer);
 }
-
 function tutupPencarian() {
     searchResultsLayer.classList.remove('active');
     if (searchInput) searchInput.value = '';
 }
-
 async function cariFilm(kata) {
     if (!kata || kata.trim().length < 2) return;
     const searchContent = document.getElementById('searchContent');
     if (searchContent) searchContent.innerHTML = `<div style="padding:30px; color:#fff; text-align:center;">Mencari...</div>`;
     searchResultsLayer.classList.add('active');
-
     try {
         const res = await fetch(`${BASE_URL}/search/movie?api_key=${API_KEY}&language=id-ID&query=${encodeURIComponent(kata)}&page=1&include_adult=false`);
         const data = await res.json();
@@ -399,7 +359,6 @@ async function cariFilm(kata) {
         if (searchContent) searchContent.innerHTML = `<div style="padding:40px; color:#ff6b6b; text-align:center;">Gagal terhubung</div>`;
     }
 }
-
 if (searchInput) {
     searchInput.addEventListener('keydown', (e) => {
         if (e.key === 'Enter') {
@@ -408,13 +367,11 @@ if (searchInput) {
         }
     });
 }
-
 // ==============================================
 // 🧭 Navigasi
 // ==============================================
 const navSearch = document.getElementById('navSearch');
 const navHome = document.getElementById('navHome');
-
 if (navSearch) {
     navSearch.addEventListener('click', (e) => {
         e.stopPropagation();
@@ -427,17 +384,15 @@ if (navSearch) {
         }
     });
 }
-
 if (navHome) {
     navHome.addEventListener('click', () => {
         if (searchInput) searchInput.value = '';
         tutupPencarian();
         if (searchContainer) searchContainer.classList.remove('show');
         if (feedContainer) feedContainer.scrollTop = 0;
-        sessionStorage.removeItem(SCROLL_POS_KEY); // Hapus posisi jika ke halaman atas sengaja
+        sessionStorage.removeItem(SCROLL_POS_KEY);
     });
 }
-
 if (feedContainer) {
     feedContainer.addEventListener('scroll', () => {
         const idx = Math.round(feedContainer.scrollTop / window.innerHeight);
@@ -448,7 +403,6 @@ if (feedContainer) {
         }
     });
 }
-
 const closePlayerBtn = document.getElementById('closePlayerBtn');
 if (closePlayerBtn) {
     closePlayerBtn.addEventListener('click', () => {
@@ -456,35 +410,29 @@ if (closePlayerBtn) {
         if (playerArea) playerArea.innerHTML = '';
     });
 }
-
 // ==============================================
 // 🚀 JALANKAN SEMUA
 // ==============================================
 window.addEventListener('DOMContentLoaded', () => {
     detectDevice();
 });
-
 window.addEventListener('load', () => {
     fetchMovies();
     setTimeout(() => {
-        pulihkanPosisiGulir(); // ✅ KEMBALIKAN posisi setelah halaman dimuat
+        pulihkanPosisiGulir();
     }, 100);
     setTimeout(() => {
         initPromoNotifier();
     }, 400);
 });
-
 window.addEventListener('pageshow', (e) => {
-    // ✅ Khusus saat tombol BACK ditekan browser
     if (e.persisted) {
         setTimeout(pulihkanPosisiGulir, 50);
     } else {
         setTimeout(pulihkanPosisiGulir, 150);
     }
 });
-
 window.addEventListener('resize', detectDevice);
-
 // PWA
 let deferredPrompt;
 const installBtn = document.getElementById('installPwaBtn');
@@ -493,7 +441,6 @@ window.addEventListener('beforeinstallprompt', (e) => {
     deferredPrompt = e;
     if (installBtn) installBtn.style.display = 'flex';
 });
-
 if (installBtn) {
     installBtn.addEventListener('click', async () => {
         if (!deferredPrompt) return;
@@ -504,13 +451,11 @@ if (installBtn) {
         installBtn.style.display = 'none';
     });
 }
-
 window.addEventListener('appinstalled', () => {
     deferredPrompt = null;
     if (installBtn) installBtn.style.display = 'none';
     console.log('PWA sudah terpasang');
 });
-
 if (typeof lucide !== 'undefined') {
     lucide.createIcons();
 }
