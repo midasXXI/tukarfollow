@@ -1,5 +1,15 @@
 [
   {
+    "tmdb_id": 1472951,
+    "title": "Infiltrate",
+    "image": "/banner/infiltrate.webp",
+    "iframe": "https://player.abyssplayer.com/AlS5ot6KQ",
+    "sinopsis": "Seorang wanita biasa terjebak dalam dunia kejahatan terorganisir setelah suaminya diculik.",
+    "genre": ["Aksi"],
+    "release_date": "2026-04-10",
+    "country": "Kanada"
+  },
+  {
     "tmdb_id": 1130948,
     "title": "Rosebush Pruning",
     "image": "/banner/rosebush-pruning.webp",
