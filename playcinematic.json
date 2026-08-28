@@ -1,4 +1,14 @@
 [
+	  {
+	"tmdb_id": 1414413,
+   "title":"Brothers Under Fire",
+   "image":"/banner/film-brothers-under-fire-.webp",
+   "iframe":"https://playcinematic.com/video/mytYHNPFkOvDZTX",
+   "sinopsis":"Dua saudara terpisah perang harus bersatu demi bertahan hidup dan menyelamatkan keluarga.",
+   "genre": ["Action","Mystery","Drama","Thriller"],
+   "release_date":"2026-04-23",
+   "country":"Kolombia, USA"
+  },
     {
 	"tmdb_id": 1226863,
    "title":"The Super Mario Galaxy Movie",
