@@ -1,4 +1,154 @@
 [
+	{
+   "tmdb_id": 1715492,
+   "title":"Shipwrecked: Nightmare at Sea",
+   "image":"/banner/nightmare-at-sea.webp",
+   "iframe":"https://playcinematic.com/video/UAtoREbv7xJ7xfI",
+   "sinopsis":"Rekaman dan kisah korban menyingkap karam kapal pesiar mewah 2012 dalam dokumenter imersif.",
+   "genre": ["Documentary"],
+   "release_date":"2026-07-10",
+   "country":"United Kingdom"
+  },
+	{
+   "tmdb_id": 1468683,
+   "title":"Heartstopper Forever",
+   "image":"/banner/heartstopper-forever.webp",  
+   "iframe":"https://playcinematic.com/video/Jmu7YGZ4GVpWAGz",
+   "sinopsis":"Tahun ajaran baru, Nick dan Charlie hadapi cinta dan masa depan bersama Truham-Higgs.",
+   "genre": ["Romance", "Drama"],
+   "release_date":"2026-07-14",
+   "country":"United Kingdom"
+  },
+	{
+   "tmdb_id": 1703103,
+   "title":"Addicted To Change",
+   "image":"/banner/addicted-to-change.webp",   
+   "iframe":"https://playcinematic.com/video/EItBNq8jQeUeVcC",
+   "sinopsis":"Tiga pekerja magang menciptakan obat pintar dan menjadi buruan pemerintah di United Kingdom masa depan.",
+   "genre": ["Action", "Sci-Fi", "Drama"],
+   "release_date":"2026-07-30",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1284465,
+   "title":"The Death Of Robin Hood",
+   "image":"/banner/the-death-of-robin-hood.webp",   
+   "iframe":"https://playcinematic.com/video/p8GUfOlmV1P8Pv3",
+   "sinopsis":"Robin Hood terluka, diselamatkan wanita misterius yang menawarkan jalan penebUSAn.",
+   "genre": ["Action", "Adventure", "Drama"],
+   "release_date":"2026-06-18",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1593151,
+   "title":"Stepfather",
+   "image":"/banner/stepfather.webp",   
+   "iframe":"https://playcinematic.com/video/q8XODnxt4orokYh",
+   "sinopsis":"Darnell memburu keluarga sempurna, rahasia mematikan terungkap saat Asia dan putrinya melawan.",
+   "genre": ["Drama", "Thriller"],
+   "release_date":"2026-06-19",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1320756,
+   "title":"Doctor Plague",
+   "image":"/banner/doctor-plague.webp",   
+   "iframe":"https://playcinematic.com/video/ryfW0SZ2BC2fNuk",
+   "sinopsis":"Detektif Verney memburu kultus Dokter Wabah, rahasia berdarah yang mengancam keluarganya.",
+   "genre": ["Crime", "Horor", "Thriller"],
+   "release_date":"2026-01-12",
+   "country":"United Kingdom"
+  },
+	{
+   "tmdb_id": 1180417,
+   "title":"The Dutchman",
+   "image":"/banner/the-dutchman.webp",   
+   "iframe":"https://playcinematic.com/video/QBV9asvkEY7FAOX",
+   "sinopsis":"PengUSAha kulit hitam terjebak permainan psikologis dengan wanita misterius di subway NYC.",
+   "genre": ["Drama", "Thriller"],
+   "release_date":"2026-01-02",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1426546,
+   "title":"Her Sey Yolunda",
+   "image":"/banner/her-sey-yolunda.webp",
+   "iframe":"https://playcinematic.com/video/waJvihRO0n4tyuy",
+   "sinopsis":"Dua wanita bertarung melawan kejahatan setelah perampokan bank penuh aksi.",
+   "genre": ["Comedy"],
+   "release_date":"2026-01-24",
+   "country":"Turki"
+  },
+	{
+   "tmdb_id": 1497325,
+   "title":"Mockbuster",
+   "image":"/banner/mockbuster.webp",
+   "iframe":"https://playcinematic.com/video/631EJbBUUCCvdkW",
+   "sinopsis":"Kesempatan sutradara muda berubah kacau saat Asylum menawarinya proyek mockbuster.",
+   "genre": ["Documentary"],
+   "release_date":"2026-07-10",
+   "country":"Australia"
+  },
+	{
+   "tmdb_id": 1727780,
+   "title":"Borderline",
+   "image":"/banner/borderline.webp",
+   "iframe":"https://playcinematic.com/video/vaWBNLl1sajkfZs",
+   "sinopsis":"Agen AS culik geng Meksiko, chaos politik memicu ancaman demokrasi.",
+   "genre": ["Thriller"],
+   "release_date":"2026-07-17",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1711175,
+   "title":"Summerween",
+   "image":"/banner/summerween.webp",   
+   "iframe":"https://playcinematic.com/video/a0R2wNA0C4I9ai1",
+   "sinopsis":"Badut kabur dari RS jiwa, remaja pesta Summerween, ayah polisi harus selamatkan putrinya.",
+   "genre": ["Horor","Thriller"],
+   "release_date":"2026-06-26",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 284054,
+   "title":"Black Panther",
+   "image":"/banner/Black Panther.webp",   
+   "iframe":"https://playcinematic.com/video/4izmEY5O19FNjAa",
+   "sinopsis":"T’Challa kembali ke Wakanda, jadi Black Panther, hadapi perebutan takhta dan ancaman perang.",
+   "genre": ["Action","Sci-Fi","Adventure"],
+   "release_date":"2026-02-13",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1314481,
+   "title":"The Devil Wears Prada 2",
+   "image":"/banner/the-devil-wears-prada-2.webp",   
+   "iframe":"https://playcinematic.com/video/cNXqTvfmjZBTjSv",
+   "sinopsis":"Andy kembali ke Runway, Miranda hadapi media baru, Emily bawa harapan selamatkan majalah.",
+   "genre": ["Comedy","Drama"],
+   "release_date":"2026-04-29",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1558796,
+   "title":"Never Change",
+   "image":"/banner/never-change-.webp",   
+   "iframe":"https://playcinematic.com/video/R2m7t0yYZWOTHKW",
+   "sinopsis":"Alumni North Meadows dipaksa kembali ke SMA 20 tahun setelah tornado hancurkan masa remaja mereka.",
+   "genre": ["Comedy"],
+   "release_date":"2026-06-09",
+   "country":"USA"
+  },
+	{
+   "tmdb_id": 1397385,
+   "title":"Little Brother",
+   "image":"/banner/little-brother.webp",   
+   "iframe":"https://playcinematic.com/video/bb9ILI5JwnnY7TG",
+   "sinopsis":"Hidup rapi sang agen properti kacau saat adik kecilnya yang chaos kembali muncul.",
+   "genre": ["Comedy"],
+   "release_date":"2026-06-18",
+   "country":"USA"
+  },
     {
 	"tmdb_id": 1318447,
    "title":"Apex",
