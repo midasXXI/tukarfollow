@@ -1,5 +1,15 @@
 [
   {
+    "tmdb_id": 1630433,
+    "title": "The Red Line",
+    "image": "/banner/the-red-line.webp",
+    "iframe": "https://player.abyssplayer.com/JhGHsEIQU",
+    "sinopsis": "Korban penipuan telepon yang kejam. Untuk membalas dendam, mereka memutuskan melawan jaringan kriminal.",
+    "genre": ["Kejahatan", "Drama", "Thriller"],
+    "release_date": "2026-03-22",
+    "country": "Thailand"
+  },
+  {
     "tmdb_id": 1628524,
     "title": "A Royal Setting",
     "image": "/banner/a-royal-setting.webp",
