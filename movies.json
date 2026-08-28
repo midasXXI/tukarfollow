@@ -1,5 +1,16 @@
 [
 	{
+   "tmdb_id": 1130948,
+   "title":"Rosebush Pruning",
+   "image":"/banner/rosebush-pruning.webp",
+   "video":"",
+   "iframe":"https://player.abyssplayer.com/dWnf3ASMm",
+   "sinopsis":"Sebuah keluarga harus berjuang menghadapi dampak dari penyakit genetik yang menimpa mereka.",
+   "genre": ["Comedy", "Drama", "Thriller"],
+   "release_date":"2026-04-23",
+   "country":"Germany, Italy, Spain, United Kingdom, United States, Canada"
+  },
+	{
    "tmdb_id": 1212763,
    "title":"Evil Dead Burn",
    "image":"/banner/evil-dead-burn.webp",
