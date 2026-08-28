@@ -35,7 +35,7 @@
    "image":"/banner/facing-el-chapo.webp",
    "iframe":"https://player.abyssplayer.com/-gFMjxZYs",
    "sinopsis":"Dua petugas polisi yang beroperasi rutin menghentikan mobil curian tanpa sengaja bertemu dengan salah satu buronan.",
-   "genre": ["Aksi", "Crime"],
+   "genre": ["Aksi", "Kejahatan"],
    "release_date":"2026-08-21",
    "country":"Meksiko"
   },
@@ -45,7 +45,7 @@
    "image":"/banner/atlas-king.webp",
    "iframe":"https://player.abyssplayer.com/yJsIi2u70",
    "sinopsis":"Di balik duka mendalam atas kematian sahabatnya, seorang mantan petarung kembali ke tanah kelahirannya.",
-   "genre": ["Aksi", "Crime", "Thriller", "Drama"],
+   "genre": ["Aksi", "Kejahatan", "Thriller", "Drama"],
    "release_date":"2026-07-21",
    "country":"Amerika Serikat"
   },
@@ -55,7 +55,7 @@
    "image":"/banner/soulm8te.webp",
    "iframe":"https://player.abyssplayer.com/SrvqAiSaJB",
    "sinopsis":"Seorang pria yang berduka atas kematian istrinya, menciptakan android pintar untuk mengisi kekosongan.",
-   "genre": ["Sci-Fi", "Thriller", "Horor"],
+   "genre": ["Fiksi Ilmiah", "Thriller", "Horor"],
    "release_date":"2026-07-31",
    "country":"Amerika Serikat"
   },
@@ -65,7 +65,7 @@
    "image":"/banner/toy-story-5.webp",
    "iframe":"https://player.abyssplayer.com/Luf481jXP",
    "sinopsis":"Ketika mereka diperkenalkan pada perangkat elektronik, menjadi ancaman baru bagi waktu bermain mereka.",
-   "genre": ["Petualangan", "Komedi", "Drama", "Family", "Fantasy"],
+   "genre": ["Petualangan", "Komedi", "Drama", "Keluarga", "Fantasi"],
    "release_date":"2026-06-17",
    "country":"Amerika Serikat"
   },
@@ -75,7 +75,7 @@
    "image":"/banner/minions-monsters.webp",
    "iframe":"https://player.abyssplayer.com/QZqqkScB6",
    "sinopsis":"Minions mencari makhluk menakutkan untuk film monster mereka di Hollywood 1920-an dan bertemu dengan makhluk hijau yang tak terduga.",
-   "genre": ["Komedi", "Animation", "Family", "Petualangan"],
+   "genre": ["Komedi", "Animasi", "Keluarga", "Petualangan"],
    "release_date":"2026-06-24",
    "country":"Amerika Serikat"
   },
@@ -85,7 +85,7 @@
    "image":"/banner/the-last-house.webp",
    "iframe":"https://player.abyssplayer.com/kZoGUFHC7",
    "sinopsis":"Sebuah keluarga terjebak dalam rumah mereka tanpa jalan keluar. Mereka harus bekerja sama untuk bertahan hidup.",
-   "genre": ["Aksi", "Horor", "Mystery", "Sci-Fi", "Thriller"],
+   "genre": ["Aksi", "Horor", "Misteri", "Fiksi Ilmiah", "Thriller"],
    "release_date":"2026-08-06",
    "country":"Inggris Raya, Prancis, Amerika Serikat"
   },
@@ -95,7 +95,7 @@
    "image":"/banner/the-isolate-thief.webp",
    "iframe":"https://player.abyssplayer.com/oWXxXZKfOG",
    "sinopsis":"Seorang wanita muda berjuang untuk menyembunyikan emas curian dari penjahat brutal yang menguasai pos terpencilnya.",
-   "genre": ["Aksi", "Drama", "Western"],
+   "genre": ["Aksi", "Drama", "Barat"],
    "release_date":"2026-07-10",
    "country":"Amerika Serikat"
   },
@@ -105,7 +105,7 @@
    "image":"/banner/pinocchio-unstrung.webp",
    "iframe":"https://player.abyssplayer.com/oWXxXZKfOG",
    "sinopsis":"Perjalanan mengerikan boneka ikonik tersebut dalam upayanya menjadi manusia sungguhan.",
-   "genre": ["Fantasy", "Horor", "Thriller"],
+   "genre": ["Fantasi", "Horor", "Thriller"],
    "release_date":"2026-07-22",
    "country":"Amerika Serikat, Inggris Raya"
   },
@@ -115,7 +115,7 @@
    "image":"/banner/mutiny.webp",
    "iframe":"https://player.abyssplayer.com/i2dil4ApQ",
    "sinopsis":"Cole Reed nekat menaiki kapal kargo dalam misi sendirian untuk membalas dendam.",
-   "genre": ["Aksi", "Crime", "Thriller"],
+   "genre": ["Aksi", "Kejahatan", "Thriller"],
    "release_date":"2026-08-19",
    "country":"Amerika Serikat, Inggris Raya"
   },
@@ -125,7 +125,7 @@
    "image":"/banner/spider-man-brand-new-day.webp",
    "iframe":"https://player.abyssplayer.com/GoWNeR_Iy",
    "sinopsis":"Peter Parker yang terlupakan dan hidup seorang diri sebagai Spider-Man penuh waktu. Namun, tekanan yang meningkat memicu perubahan berbahaya dan munculnya musuh baru yang kuat, mengancam kehidupan dan identitasnya. Apakah Spider-Man bisa menghadapi tantangan ini?",
-   "genre": ["Aksi", "Petualangan", "Sci-fi"],
+   "genre": ["Aksi", "Petualangan", "Fiksi Ilmiah"],
    "release_date":"2026-07-28",
    "country":"Amerika Serikat, Kanada, Inggris Raya, Jerman"
   },
@@ -135,7 +135,7 @@
    "image":"/banner/rise-of-the-conqueror.webp",
    "iframe":"https://abyssplayer.com/n8hdfyxb1",
    "sinopsis":"Timur Barlas bangkit dari pengasingan demi menyatukan kerajaan Asia Tengah yang pecah akibat runtuhnya Mongol.",
-   "genre": ["Aksi","Petualangan","War","History"],
+   "genre": ["Aksi","Petualangan","Perang","Sejarah"],
    "release_date":"2026-04-27",
    "country":"Amerika Serikat"
   },
@@ -146,7 +146,7 @@
    "image":"/banner/imundercover.webp",
    "iframe":"https://abyssplayer.com/ZBdSdEtp_",
    "sinopsis":"Detektif Huo Tao menyamar jadi pencopet geng kriminal demi biaya berobat putrinya dan bongkar rahasia bisnis.",
-   "genre": ["Aksi","Crime"],
+   "genre": ["Aksi","Kejahatan"],
    "release_date":"2026-04-26",
    "country":"Tiongkok"
   },
@@ -156,7 +156,7 @@
    "image":"/banner/film-o-romeo-.webp",
    "iframe":"https://abyssplayer.com/qJSzRl8GM",
    "sinopsis":"Gangster Mumbai jatuh cinta, tapi dendam dan darah menyeretnya ke perang brutal.",
-   "genre": ["Aksi","Romansa","Crime","Drama","Thriller"],
+   "genre": ["Aksi","Romansa","Kejahatan","Drama","Thriller"],
    "release_date":"2026-04-26",
    "country":"India"
   },
@@ -185,7 +185,7 @@
    "title":"Bhanupriya Bhooter Hotel",
    "image":"/banner/bhanupriya-bhooter-hotel.webp",
    "iframe":"https://abyssplayer.com/BAGI_hxkM",
-   "sinopsis":"Hotel angker warisan keluarga berubah kacau saat hantu jahil mulai meneror tamu.",
+   "sinopsis":"Hotel angker Perangisan keluarga berubah kacau saat hantu jahil mulai meneror tamu.",
    "genre": ["Komedi","Horor"],
    "release_date":"2026-04-23",
    "country":"India"
@@ -206,7 +206,7 @@
    "image":"/banner/candy-and-the-pizza-ggirl.webp",
    "iframe":"https://abyssplayer.com/SteVGMEsM",
    "sinopsis":"Gadis pengantar pizza dan Candy terjebak petualangan liar penuh cinta dan kekacauan kota.",
-   "genre": ["Fantasy"],
+   "genre": ["Fantasi"],
    "release_date":"2026-04-23",
    "country":"India"
   },
@@ -242,11 +242,11 @@
   },
   {
 	"tmdb_id": 1573375,
-   "title":"Wasiat Warisan",
-   "image":"/banner/wasiatwarisan.webp",
+   "title":"Wasiat Perangisan",
+   "image":"/banner/wasiatPerangisan.webp",
    "iframe":"https://abyssplayer.com/q_0n7dISU",
-   "sinopsis":"3 saudara berjuang menyelamatkan hotel warisan di Toba dari ancaman sita akibat utang orang tua.",
-   "genre": ["Family"],
+   "sinopsis":"3 saudara berjuang menyelamatkan hotel Perangisan di Toba dari ancaman sita akibat utang orang tua.",
+   "genre": ["Keluarga"],
    "release_date":"2026-04-09",
    "country":"Indonesia"
   }
