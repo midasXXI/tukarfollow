@@ -1,5 +1,15 @@
 [
   {
+  "tmdb_id": 1560520,
+  "title": "Batman: Knightfall - Part 1: Knightfall",
+  "image": "/banner/batman-knightfall-part-1-knightfall.webp",
+  "iframe": "https://player.abyssplayer.com/q_edE7vNY",
+  "sinopsis": "Arkham Asylum telah hancur dan seluruh narapidana berbahaya berhasil meloloskan diri ke Gotham City.",
+  "genre": ["Aksi","Animasi","Petualangan","Kejahatan","Drama","Thriller"],
+  "release_date": "2026-06-23",
+  "country": "Amerika Serikat, Korea Selatan"
+},
+  {
   "tmdb_id": 1284465,
   "title": "The Death of Robin Hood",
   "image": "/banner/death-robin-hood.webp",
