@@ -1,10 +1,20 @@
 [
   {
+  "tmdb_id": 1275779,
+  "title": "Disclosure Day",
+  "image": "/banner/disclosure-day.webp",
+  "iframe": "https://player.abyssplayer.com/FSaVOzNz0",
+  "sinopsis": "Ketika sebuah kelompok ilmuwan menemukan bukti keberadaan makhluk lain di luar bumi.",
+  "genre": ["Aksi","Drama","Fiksi Ilmiah","Thriller"],
+  "release_date": "2026-06-10",
+  "country": "Amerika Serikat, Selandia Baru, Kanada, Jepang"
+},
+  {
   "tmdb_id": 1628123,
   "title": "BTS the Comeback Live: Arirang",
   "image": "/banner/bts-comeback-live-arirang.webp",
   "iframe": "https://player.abyssplayer.com/BeiKl47uR",
-  "sinopsis": " BTS kembali dengan penampilan live epik dari Seoul. Mereka merayakan album studio kelima mereka,",
+  "sinopsis": "BTS kembali dengan penampilan live epik dari Seoul. Mereka merayakan album studio kelima mereka.",
   "genre": ["Musik"],
   "release_date": "2026-03-21",
   "country": "Korea Selatan"
