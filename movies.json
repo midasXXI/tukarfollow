@@ -1,5 +1,15 @@
 [
   {
+  "tmdb_id": 1523145,
+  "title": "Your Heart Will Be Broken",
+  "image": "/banner/your-heart-will-be-broken.webp",
+  "iframe": "https://player.abyssplayer.com/ONPIdlvzw",
+  "sinopsis": "Seorang siswa baru membuat kesepakatan berisiko dengan penindas sekolah",
+  "genre": ["Drama","Romansa"],
+  "release_date": "2026-01-01",
+  "country": "Rusia"
+},
+  {
   "tmdb_id": 1273221,
   "title": "Scary Movie",
   "image": "/banner/scary-movie.webp",
