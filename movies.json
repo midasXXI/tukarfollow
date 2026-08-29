@@ -1,5 +1,15 @@
 [
   {
+  "tmdb_id": 1273221,
+  "title": "Scary Movie",
+  "image": "/banner/scary-movie.webp",
+  "iframe": "https://player.abyssplayer.com/Ir4mdXCAT",
+  "sinopsis": "Kekacauan yang lebih mengerikan ketika pembunuh, monster, dan makhluk supernatural kembali meneror mereka.",
+  "genre": ["Komedi","Horor"],
+  "release_date": "2026-06-03",
+  "country": "Amerika Serikat"
+},
+  {
   "tmdb_id": 1368337,
   "title": "The Odyssey",
   "image": "/banner/odyssey.webp",
