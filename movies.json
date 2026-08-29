@@ -1,5 +1,15 @@
 [
   {
+  "tmdb_id": 1284465,
+  "title": "The Death of Robin Hood",
+  "image": "/banner/death-robin-hood.webp",
+  "iframe": "https://player.abyssplayer.com/BOUnsv1_B",
+  "sinopsis": "Robin Hood yang terluka parah harus menghadapi masa lalunya yang kelam.",
+  "genre": ["Aksi","Petualangan","Drama"],
+  "release_date": "2026-06-18",
+  "country": "Amerika Serikat"
+},
+  {
   "tmdb_id": 1083381,
   "title": "Backrooms",
   "image": "/banner/backrooms.webp",
