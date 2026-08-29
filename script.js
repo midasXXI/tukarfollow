@@ -2,11 +2,13 @@ const API_KEY = 'c000d7b8b0f5ee16b98b6103009745d8';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_URL = 'https://image.tmdb.org/t/p/w780';
 const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies.json';
+// ✅ DITAMBAH playcinematic.json → TOTAL 5 FILE
 const JSON_FILES = [
     'https://midasxxi.github.io/tukarfollow/movies.json',
     'https://midasxxi.github.io/tukarfollow/movies2025.json',
     'https://midasxxi.github.io/tukarfollow/movies2024.json',
-    'https://midasxxi.github.io/tukarfollow/moviesclassic.json'
+    'https://midasxxi.github.io/tukarfollow/moviesclassic.json',
+    'https://midasxxi.github.io/tukarfollow/playcinematic.json' // ← BARU
 ];
 const feedContainer = document.getElementById('feedContainer');
 const searchContainer = document.getElementById('searchContainer');
@@ -22,7 +24,6 @@ let currentPage = 1;
 let currentActiveSection = null;
 let isDesktop = false;
 const SCROLL_POS_KEY = 'feedScrollPosition';
-
 // ==============================================
 // 📱 Deteksi Perangkat
 // ==============================================
@@ -33,7 +34,6 @@ function detectDevice() {
         if (arrow) arrow.style.display = isDesktop ? 'flex' : 'none';
     });
 }
-
 // ==============================================
 // 💾 Simpan & Pulihkan Posisi Gulir
 // ==============================================
@@ -50,7 +50,6 @@ function pulihkanPosisiGulir() {
         }
     }
 }
-
 // ==============================================
 // 🚀 Notifier Promosi
 // ==============================================
@@ -136,7 +135,6 @@ function closeNotifier() {
         }, 300);
     }
 }
-
 // ==============================================
 // 🎯 Gulir Halaman
 // ==============================================
@@ -148,7 +146,6 @@ function scrollFeed(direction) {
         behavior: 'smooth'
     });
 }
-
 // ==============================================
 // 🎬 Ambil Data Film dari TMDB
 // ==============================================
@@ -168,7 +165,6 @@ async function fetchMovies(page = 1) {
         loadFallbackData();
     }
 }
-
 // ==============================================
 // 📂 Data Cadangan
 // ==============================================
@@ -181,7 +177,6 @@ function loadFallbackData() {
     else moviesData = [...moviesData, ...fallback];
     renderFeed(moviesData);
 }
-
 // ==============================================
 // 🖼️ Tampilkan Daftar Film
 // ==============================================
@@ -231,7 +226,6 @@ function renderFeed(movies) {
     });
     if (window.lucide) lucide.createIcons();
 }
-
 // ==============================================
 // ➡️ Muat Halaman Berikutnya
 // ==============================================
@@ -239,7 +233,6 @@ function loadNextPage() {
     currentPage++;
     fetchMovies(currentPage);
 }
-
 // ==============================================
 // ℹ️ Panel Info Samping
 // ==============================================
@@ -290,7 +283,6 @@ async function toggleSection(event, index, section) {
         panelContentArea.innerHTML = `<p style="color:#ff6b6b;">Gagal memuat detail.</p>`;
     }
 }
-
 // ==============================================
 // 🔍 Putar / Arahkan ke Halaman Tonton
 // ==============================================
@@ -318,7 +310,6 @@ async function playMovie(tmdbId) {
     if (!judulUrl) judulUrl = 'unknown';
     window.location.href = `watch.html?id=${String(tmdbId).trim()}/${judulUrl}`;
 }
-
 // ==============================================
 // ⌨️ Pencarian Film
 // ==============================================
@@ -372,7 +363,6 @@ if (searchInput) {
         }
     });
 }
-
 // ==============================================
 // 🧭 Navigasi & GULIR OTOMATIS MUAT FILM
 // ==============================================
@@ -399,7 +389,6 @@ if (navHome) {
         sessionStorage.removeItem(SCROLL_POS_KEY);
     });
 }
-
 // ✅ BAGIAN PENTING: GULIR SAMPAI BAWAH → OTOMATIS MUAT HALAMAN BERIKUTNYA
 let sedangMemuat = false; // Cegah pemanggilan ganda
 if (feedContainer) {
@@ -410,7 +399,6 @@ if (feedContainer) {
             if (infoPanel) infoPanel.classList.remove('show');
             currentActiveSection = null;
         }
-
         // 👇 OTOMATIS MUAT FILM TAMBAHAN SAAT DEKAT BAWAH
         const sisaJarak = feedContainer.scrollHeight - feedContainer.scrollTop - feedContainer.clientHeight;
         if (sisaJarak < 300 && !sedangMemuat) {
@@ -421,7 +409,6 @@ if (feedContainer) {
         }
     });
 }
-
 const closePlayerBtn = document.getElementById('closePlayerBtn');
 if (closePlayerBtn) {
     closePlayerBtn.addEventListener('click', () => {
@@ -429,7 +416,6 @@ if (closePlayerBtn) {
         if (playerArea) playerArea.innerHTML = '';
     });
 }
-
 // ==============================================
 // 🚀 JALANKAN SEMUA
 // ==============================================
@@ -443,7 +429,6 @@ window.addEventListener('pageshow', (e) => {
     setTimeout(pulihkanPosisiGulir, e.persisted ? 50 : 150);
 });
 window.addEventListener('resize', detectDevice);
-
 // PWA
 let deferredPrompt;
 const installBtn = document.getElementById('installPwaBtn');
