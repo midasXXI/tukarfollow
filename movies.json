@@ -1,5 +1,15 @@
 [
   {
+    "tmdb_id": 1421552,
+    "title": "Panda Plan 2: The Magical Tribe",
+    "image": "/banner/panda-plan-2.webp",
+    "iframe": "https://player.abyssplayer.com/cm1Zimajo",
+    "sinopsis": "Jackie Chan dan seekor panda bernama Hu Hu terjebak di sebuah sInggris Raya Rayau misterius kuno dan harus menyelamatkan mereka dari bencana yang mengancam.",
+    "genre": ["Aksi", "Komedi", "Keluarga"],
+    "release_date": "2026-04-28",
+    "country": "Tiongkok"
+  },
+  {
     "tmdb_id": 1304313,
     "title": "Lee Cronin's The Mummy",
     "image": "/banner/the-mummy.webp",
