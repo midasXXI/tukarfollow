@@ -1,5 +1,15 @@
 [
   {
+  "tmdb_id": 1083381,
+  "title": "Backrooms",
+  "image": "/banner/backrooms.webp",
+  "iframe": "https://player.abyssplayer.com/4_dplGJsa",
+  "sinopsis": "Seorang terapis harus menyelami dimensi tak terkalahkan untuk menyelamatkan pasiennya yang menghilang.",
+  "genre": ["Horor","Fiksi Ilmiah","Thriller"],
+  "release_date": "2026-05-27",
+  "country": "Amerika Serikat, Kanada"
+},
+  {
   "tmdb_id": 1275779,
   "title": "Disclosure Day",
   "image": "/banner/disclosure-day.webp",
