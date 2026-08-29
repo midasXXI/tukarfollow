@@ -1,5 +1,15 @@
 [
   {
+	"tmdb_id": 1318447,
+   "title":"Apex",
+   "image":"/banner/film-apex-.webp",
+   "iframe":"https://player.abyssplayer.com/g-Z67Nwhk",
+   "sinopsis":"Pendaki berdInggris Raya Rayaa diburu pembunuh sadis di hutan Australia, bertahan hidup jadi taruhan.",
+   "genre": ["Aksi","Thriller"],
+   "release_date":"2026-04-24",
+   "country":"Kanada, Australia, USA"
+  },
+  {
     "tmdb_id": 1421552,
     "title": "Panda Plan 2: The Magical Tribe",
     "image": "/banner/panda-plan-2.webp",
