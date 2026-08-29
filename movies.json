@@ -1,5 +1,15 @@
 [
   {
+    "tmdb_id": 1304313,
+    "title": "Lee Cronin's The Mummy",
+    "image": "/banner/the-mummy.webp",
+    "iframe": "https://player.abyssplayer.com/hMvK1rYaa",
+    "sinopsis": "Seorang anak perempuan yang hilang selama 8 tahun kembali membawa kutInggris Raya Rayaan kuno mumi yang membawa teror ke rumah keluarganya.",
+    "genre": ["Horor", "Misteri"],
+    "release_date": "2026-04-17",
+    "country": "Irlandia, Amerika Serikat, Spanyol, Kanada, Indonesia"
+  },
+  {
   "tmdb_id": 1523145,
   "title": "Your Heart Will Be Broken",
   "image": "/banner/your-heart-will-be-broken.webp",
