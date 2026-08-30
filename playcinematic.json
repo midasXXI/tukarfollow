@@ -3,16 +3,7 @@
 	
 	
 	
-	{
-		"tmdb_id": 1265609,
-		"title": "War Machine",
-		"image": "/banner/war-machine.webp",
-		"iframe": "https://playcinematic.com/video/eB9lAsGBrX8HkWZ",
-		"sinopsis": "Seorang insinyur tempur memimpin pasukannya melawan mesin pembunuh raksasa dari dunia lain.",
-		"genre": ["Aksi", "Fiksi Ilmiah", "Thriller"],
-		"release_date": "2026-02-12",
-		"country": "Australia, Selandia Baru, Inggris Raya, USA"
-	},
+	
 	{
 		"tmdb_id": 669356,
 		"title": "You Can't Win",
