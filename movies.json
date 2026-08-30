@@ -1,4 +1,14 @@
 [
+	{
+		"tmdb_id": 1713962,
+		"title": "Night Of Blood",
+		"image": "/banner/night-of-blood.webp",
+		"iframe": "https://playcinematic.com/video/PWxf9bX5akH35Xx",
+		"sinopsis": "Enam orang ikut tantangan hotel berhantu, menghadapi teror supranatural yang nyata.",
+		"genre": ["Horror"],
+		"release_date": "2026-06-16",
+		"country": "Amerika Serikat"
+	},
   {
 		"tmdb_id": 1715543,
 		"title": "A Sense Of Dread",
