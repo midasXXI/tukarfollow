@@ -1,5 +1,15 @@
 [
 	{
+		"tmdb_id": 1723460,
+		"title": "A Toxic Love Story",
+		"image": "/banner/a-toxic-love-story.webp",
+		"iframe": "https://playcinematic.com/video/mIt0sv2XpdGMdYh",
+		"sinopsis": "Email ancaman memicu rencana balas dendam yang menyeret seorang marshal AS dan mantan kekasihnya.",
+		"genre": ["Dokumenter"],
+		"release_date": "2026-07-22",
+		"country": "Inggris Raya"
+	},
+	{
 		"tmdb_id": 1659155,
 		"title": "The Truthers",
 		"image": "/banner/the-truthers.webp",
