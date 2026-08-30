@@ -1,5 +1,15 @@
 [
 	{
+		"tmdb_id": 669356,
+		"title": "You Can't Win",
+		"image": "/banner/you-cant-win.webp",
+		"iframe": "https://playcinematic.com/video/So3bqoIFKY2sgXs",
+		"sinopsis": "Kisah nyata Jack Black, penjahat legendaris yang memoarnya menginspirasi generasi penulis kontra budaya.",
+		"genre": ["Drama"],
+		"release_date": "2026-02-17",
+		"country": "Amerika Serikat"
+	},
+	{
 		"tmdb_id": 1265609,
 		"title": "War Machine",
 		"image": "/banner/war-machine.webp",
