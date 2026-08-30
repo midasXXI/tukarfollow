@@ -1,5 +1,15 @@
 [
   {
+   "tmdb_id": 715931,
+   "title":"Emancipation",
+   "image":"/banner/emancipation.webp",
+   "iframe":"https://playcinematic.com/video/85u8h43qtPNO2QY",
+   "sinopsis":"Kisah nyata budak bernama Peter yang pertaruhkan nyawa demi kabur dan kembali pada keluarganya.",
+   "genre": ["Drama","Sejarah","Perang"],
+   "release_date":"2022-12-02",
+   "country":"Amerika Serikat"
+  }
+  {
     "tmdb_id": 119283,
     "title": "Parker",
     "image": "/banner/parker.webp",
