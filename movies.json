@@ -1,5 +1,15 @@
 [
   {
+    "tmdb_id": 1491920,
+    "title": "Kung Fu Soccer",
+    "image": "/banner/kung-fu-soccer.webp",
+    "iframe": "https://player.abyssplayer.com/g-Z67Nwhk",
+    "sinopsis": "Tim Emei yang dipimpin kapten Shuangshuang ambil bagian dalam Liga Champions Wanita Asia.",
+    "genre": ["Aksi", "Komedi","Olahraga"],
+    "release_date": "2026-07-11",
+    "country": "Tiongkok, Hong Kong"
+  },
+  {
     "tmdb_id": 1318447,
     "title": "Apex",
     "image": "/banner/film-apex-.webp",
