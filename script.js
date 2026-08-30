@@ -2,20 +2,12 @@ const API_KEY = 'c000d7b8b0f5ee16b98b6103009745d8';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_URL = 'https://image.tmdb.org/t/p/w780';
 const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies.json';
-// ✅ TOTAL 5 FILE JSON (termasuk playcinematic.json)
 const JSON_FILES = [
     'https://midasxxi.github.io/tukarfollow/movies.json',
     'https://midasxxi.github.io/tukarfollow/movies2025.json',
     'https://midasxxi.github.io/tukarfollow/movies2024.json',
-    'https://midasxxi.github.io/tukarfollow/moviesclassic.json',
-    'https://midasxxi.github.io/tukarfollow/playcinematic.json'
+    'https://midasxxi.github.io/tukarfollow/moviesclassic.json'
 ];
-// ✅ Indeks khusus agar bisa deteksi dari file mana saja ketemu
-const JSON_SOURCES = {
-    UTAMA: 0,   // movies.json
-    PLAYCINEMATIC: 4  // playcinematic.json
-};
-
 const feedContainer = document.getElementById('feedContainer');
 const searchContainer = document.getElementById('searchContainer');
 const searchInput = document.getElementById('searchInput');
@@ -300,21 +292,13 @@ async function toggleSection(event, index, section) {
 }
 
 // ==============================================
-// 🔍 PUTAR / ARAHKAN KE HALAMAN TONTON — DIPERBAIKI ✅
+// 🔍 Putar / Arahkan ke Halaman Tonton
 // ==============================================
 async function playMovie(tmdbId) {
     if (!tmdbId) return;
     let judulUrl = '';
-    // ✅ TANDAI DARI FILE MANA SAJA KETEMU
-    const sumberKetemu = {
-        utama: false,        // movies.json dkk
-        playcinematic: false // playcinematic.json
-    };
-
     try {
-        // ✅ BACA SEMUA FILE — TIDAK BERHENTI SAAT KETEMU!
-        for (let i = 0; i < JSON_FILES.length; i++) {
-            const file = JSON_FILES[i];
+        for (const file of JSON_FILES) {
             const res = await fetch(file, { cache: "no-store" });
             if (res.ok) {
                 const daftarFilm = await res.json();
@@ -322,31 +306,16 @@ async function playMovie(tmdbId) {
                     if (!f.tmdb_id) return false;
                     return String(f.tmdb_id).trim() === String(tmdbId).trim() || Number(f.tmdb_id) === Number(tmdbId);
                 });
-                if (ketemu) {
-                    // ✅ Catat sumbernya
-                    if (i === JSON_SOURCES.PLAYCINEMATIC) {
-                        sumberKetemu.playcinematic = true;
-                    } else {
-                        sumberKetemu.utama = true;
-                    }
-                    // Ambil judul kalau belum ada
-                    if (!judulUrl && ketemu.title) {
-                        judulUrl = ketemu.title.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '').substring(0, 50);
-                    }
-                    // ❌ TIDAK ADA break! Lanjut baca file berikutnya!
+                if (ketemu && ketemu.title) {
+                    judulUrl = ketemu.title.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '').substring(0, 50);
+                    break;
                 }
             }
         }
     } catch (err) {
         console.warn('⚠️ Gagal baca file JSON:', err);
     }
-
     if (!judulUrl) judulUrl = 'unknown';
-
-    // ✅ KIRIM DATA SUMBER KE WATCH.HTML lewat sessionStorage
-    sessionStorage.setItem('sumberFilm', JSON.stringify(sumberKetemu));
-
-    // Buka halaman tonton
     window.location.href = `watch.html?id=${String(tmdbId).trim()}/${judulUrl}`;
 }
 
@@ -431,8 +400,8 @@ if (navHome) {
     });
 }
 
-// ✅ GULIR SAMPAI BAWAH → OTOMATIS MUAT HALAMAN BERIKUTNYA
-let sedangMemuat = false;
+// ✅ BAGIAN PENTING: GULIR SAMPAI BAWAH → OTOMATIS MUAT HALAMAN BERIKUTNYA
+let sedangMemuat = false; // Cegah pemanggilan ganda
 if (feedContainer) {
     feedContainer.addEventListener('scroll', () => {
         const idx = Math.round(feedContainer.scrollTop / window.innerHeight);
@@ -441,10 +410,13 @@ if (feedContainer) {
             if (infoPanel) infoPanel.classList.remove('show');
             currentActiveSection = null;
         }
+
+        // 👇 OTOMATIS MUAT FILM TAMBAHAN SAAT DEKAT BAWAH
         const sisaJarak = feedContainer.scrollHeight - feedContainer.scrollTop - feedContainer.clientHeight;
         if (sisaJarak < 300 && !sedangMemuat) {
             sedangMemuat = true;
             loadNextPage();
+            // Beri jeda sebentar agar tidak dipanggil berkali-kali
             setTimeout(() => { sedangMemuat = false; }, 1500);
         }
     });
