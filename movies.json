@@ -1,5 +1,15 @@
 [
 	{
+		"tmdb_id": 1510795,
+		"title": "Shake Rattle Roll Evil Origins",
+		"image": "/banner/shake-rattle-roll-evil-origins.webp",
+		"iframe": "https://playcinematic.com/video/ihoFemQftPZcRpz",
+		"sinopsis": "Tiga era berbeda terhubung oleh teror supranatural yang mengancam Filipina dari masa ke masa.",
+		"genre": ["Horor"],
+		"release_date": "2026-06-05",
+		"country": "Filipina"
+	},
+	{
 		"tmdb_id": 1159559,
 		"title": "Scream 7",
 		"image": "/banner/scream-7.webp",
