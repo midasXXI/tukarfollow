@@ -1,14 +1,5 @@
 [
-	{
-		"tmdb_id": 1016024,
-		"title": "Kalevala: The Story Of Kullervo",
-		"image": "/banner/kalevala-the-story-of-kullervo.webp",
-		"iframe": "https://playcinematic.com/video/ZOhrEyiNT5xQqag",
-		"sinopsis": "Kullervo, yatim piatu korban pembantaian suku, jadi budak dan membalas dendam pada pembunuh keluarganya.",
-		"genre": ["Drama","Fantasi","Sejarah"],
-		"release_date": "2026-04-27",
-		"country": "Finlandia"
-	},
+	
 	{
 		"tmdb_id": 1715543,
 		"title": "A Sense Of Dread",
