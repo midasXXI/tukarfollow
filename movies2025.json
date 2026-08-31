@@ -1,5 +1,65 @@
 [
 	{
+   "tmdb_id": 1422052,
+   "title":"Descendent",
+   "image":"/banner/descendent.webp",
+   "iframe":"https://playcinematic.com/video/ASuqI5rCLoiUyZy",
+   "sinopsis":"Setelah cedera otak, seorang calon ayah dihantui visi alien dan berjuang melindungi keluarganya.",
+   "genre": ["Drama", "Horror", "Mystery", "Fiksi Ilmiah"],
+   "release_date":"2025-08-08",
+   "country":"Amerika Serikat"
+  },
+	{
+   "tmdb_id": 1547301,
+   "title":"Prompt",
+   "image":"/banner/prompt.webp",
+   "iframe":"https://playcinematic.com/video/fMWVMPkiAd33s9n",
+   "sinopsis":"Seorang wanita terobsesi pada AI hingga pencariannya membawanya pada kebenaran yang mengejutkan.",
+   "genre": ["Fiksi Ilmiah", "Thriller"],
+   "release_date":"2025-12-05",
+   "country":"Amerika Serikat"
+  },
+	{
+   "tmdb_id": 991494,
+   "title":"The SpongeBob Movie Search For SquarePants",
+   "image":"/banner/the-spongebob-movie-search-for-squarepants.webp",
+   "iframe":"https://playcinematic.com/video/ktGa8svVA9U9oX5",
+   "sinopsis":"SpongeBob mengikuti Flying Dutchman dalam petualangan laut demi membuktikan keberaniannya.",
+   "genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fantasi"],
+   "release_date":"2025-12-16",
+   "country":"Indonesia, Amerika Serikat"
+  },
+	{
+   "tmdb_id": 1026532,
+   "title":"The Hermit",
+   "image":"/banner/the-hermit.webp",
+   "iframe":"https://playcinematic.com/video/FJR9hfdMKNjgQxb",
+   "sinopsis":"Dua remaja berjuang melawan petani babi kanibal yang memburu mereka di hutan terpencil.",
+   "genre": ["Horor,", "Thriller"],
+   "release_date":"2025-02-13",
+   "country":"Amerika Serikat"
+  },
+	{
+   "tmdb_id": 938150,
+   "title":"Wardriver",
+   "image":"/banner/Wardriver.webp",
+   "iframe":"https://playcinematic.com/video/1kjfITKoPDDJgme",
+   "sinopsis":"Peretas pencuri uang bank terjebak dalam bahaya saat uang hasil aksinya memicu kekerasan mematikan.",
+   "genre": ["Kejahatan", "Thriller"],
+   "release_date":"2025-03-04",
+   "country":"Amerika Serikat, Jerman"
+  },
+	{
+   "tmdb_id": 1084242,
+   "title":"Zootopia 2",
+   "image":"/banner/zootopia-2.webp",
+   "iframe":"https://playcinematic.com/video/FMYX1tx9JMDSbYG",
+   "sinopsis":"Judy dan Nick menyelidiki misteri baru di Zootopia yang menguji kemitraan mereka hingga batasnya.",
+   "genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Mystery"],
+   "release_date":"2025-11-26",
+   "country":"Amerika Serikat, Indonesia"
+  },
+	{
    "tmdb_id": 1625328,
    "title":"Mammoth Hunters",
    "image":"/banner/mammoth-hunters.webp",
@@ -12,7 +72,27 @@
 	{
 	"tmdb_id": 755898,
    "title":"War Of The Worlds Revival",
-   "image":"/banner/Perang-of-the-worlds.webp",
+   "image":"/banner/War-of-the-worlds.webp",
+   "iframe":"https://playcinematic.com/video/oUqRFUetq2QB8Ln",
+   "sinopsis":"Analis Homeland Security Will Radford menemukan serangan misterius dan rahasia pemerintah.",
+   "genre": ["Fiksi Ilmiah","Thriller"],
+   "release_date":"2025-07-29",
+   "country":"Jerman, Amerika Serikat"
+  },
+	{
+   "tmdb_id": 1625328,
+   "title":"Mammoth Hunters",
+   "image":"/banner/mammoth-hunters.webp",
+   "iframe":"https://playcinematic.com/video/gP7mIbnRms8Qh6E",
+   "sinopsis":"Penemuan bayi mammoth utuh di Yukon 2022 bangkitkan kembali rasa ingin tahu ilmiah.",
+   "genre": ["Dokumenter"],
+   "release_date":"2025-08-01",
+   "country":"Kanada"
+  },
+	{
+	"tmdb_id": 755898,
+   "title":"War Of The Worlds Revival",
+   "image":"/banner/War-of-the-worlds.webp",
    "iframe":"https://playcinematic.com/video/oUqRFUetq2QB8Ln",
    "sinopsis":"Analis Homeland Security Will Radford menemukan serangan misterius dan rahasia pemerintah.",
    "genre": ["Fiksi Ilmiah","Thriller"],
@@ -44,7 +124,7 @@
    "title":"The Morrigan",
    "image":"/banner/film-morrigan-2025.webp",
    "iframe":"https://playcinematic.com/video/9b0NwffhUQVupSe",
-   "sinopsis":"Arkeolog berjuang menyelamatkan putrinya dari rasukan Dewi Perang Pagan setelah makam kuno Irlandia terbuka.",
+   "sinopsis":"Arkeolog berjuang menyelamatkan putrinya dari rasukan Dewi War Pagan setelah makam kuno Irlandia terbuka.",
    "genre": ["Horor"],
    "release_date":"2025-04-09",
    "country":"Inggris Raya"
