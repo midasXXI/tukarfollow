@@ -1,5 +1,45 @@
 [
   {
+   "tmdb_id": 763285,
+   "title":"Ambulance",
+   "image":"/banner/ambulance.webp",
+   "iframe":"https://playcinematic.com/video/TLQFuwfgWPuahWP",
+   "sinopsis":"Will Sharp, veteran perang yang butuh biaya medis istri, diajak saudaranya merampok bank $32 juta.",
+   "genre": ["Aksi","Drama","Thriller"],
+   "release_date":"2022-03-16",
+   "country":"Amerika Serikat"
+  },
+  {
+   "tmdb_id": 560057,
+   "title":"The Sea Beast",
+   "image":"/banner/The%20Sea%20Beast.webp",
+   "iframe":"https://playcinematic.com/video/2IG9Z85pgRXIPzz",
+   "sinopsis":"Era monster laut, pemburu dipuji. Jacob Holland terkejut saat anak yatim Maisie menyelinap ke kapal.",
+   "genre": ["Petualangan","Fantasi","Keluarga","Animasi"],
+   "release_date":"2022-06-24",
+   "country":"Amerika Serikat"
+  },
+  {
+   "tmdb_id": 726888,
+   "title":"Heartbeast",
+   "image":"/banner/heartbeast.webp",
+   "iframe":"https://playcinematic.com/video/oQp4DbVfKfTrVsP",
+   "sinopsis":"Elina, rapper Finlandia, jatuh cinta pada Sofia, saudari tiri balerina di Prancis.",
+   "genre": ["Drama","Thriller"],
+   "release_date":"2022-11-04",
+   "country":"Finlandia"
+  },
+  {
+   "tmdb_id": 76600,
+   "title":"Avatar: The Way of Water",
+   "image":"/banner/avatar-the-way-of-water.webp",
+   "iframe":"https://playcinematic.com/video/CLeCYk9EQtiLK9R",
+   "sinopsis":"Satu dekade setelah film pertama, keluarga Sully berjuang demi keselamatan dari tragedi.",
+   "genre": ["Aksi","Fiksi Ilmiah","Petualangan"],
+   "release_date":"2022-12-14",
+   "country":"Amerika Serikat"
+  }
+  {
    "tmdb_id": 715931,
    "title":"Emancipation",
    "image":"/banner/emancipation.webp",
