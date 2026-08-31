@@ -1,4 +1,25 @@
 [
+	
+	 {
+	"tmdb_id": 1243741,
+   "title":"Ballistic",
+   "image":"/banner/ballistic-2025.webp",
+   "iframe":"https://playcinematic.com/video/Pv7b7cWEiqzbYZT",
+   "sinopsis":"Ibu tentara tahu peluru pembunuh anaknya dibuat di pabriknya bekerja, ia pun menuntut balas.",
+   "genre": ["Drama","Thriller"],
+   "release_date":"2026-04-17",
+   "country":"Australia, Kanada, USA"
+  },
+	{
+	"tmdb_id": 1398050,
+   "title":"Driver’s Ed",
+   "image":"/banner/film-drivers-ed-2025.webp",
+   "iframe":"https://playcinematic.com/video/rV27dmVj4XOOSDF",
+   "sinopsis":"Sekelompok remaja mencuri mobil kursus mengemudi, lalu petualangan liar, cinta, dan kejaran polisi mengubah hidup mereka.",
+   "genre": ["Komedi"],
+   "release_date":"2026-05-14",
+   "country":"USA"
+  },
 	{
 		"tmdb_id": 1159831,
 		"title": "The Bride",
