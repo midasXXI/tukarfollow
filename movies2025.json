@@ -1,5 +1,15 @@
 [
 	{
+		"tmdb_id": 1473505,
+		"title": "Kill Trip",
+		"image": "/banner/kill-trip.webp",
+		"iframe": "https://playcinematic.com/video/A1iAfsNPTYSK6bz",
+		"sinopsis": "Perjalanan ke festival musik berubah mencekam saat teman-teman mulai menghilang satu per satu.",
+		"genre": ["Horor", "Thriller"],
+		"release_date": "2025-07-17",
+		"country": "Amerika Serikat"
+	},
+	{
    "tmdb_id": 1468417,
    "title":"First Moon",
    "image":"/banner/first-moon.webp",
