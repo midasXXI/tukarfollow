@@ -1,4 +1,14 @@
 [
+	 {
+	"tmdb_id": 1398050,
+   "title":"Driver’s Ed",
+   "image":"/banner/film-drivers-ed-2025.webp",
+   "iframe":"https://playcinematic.com/video/rV27dmVj4XOOSDF",
+   "sinopsis":"Sekelompok remaja mencuri mobil kursus mengemudi, lalu petualangan liar, cinta, dan kejaran polisi mengubah hidup mereka.",
+   "genre": ["Komedi"],
+   "release_date":"2026-05-14",
+   "country":"USA"
+  },
 	  {
     "tmdb_id": 1365448,
     "title": "Hell Hath No Fury",
