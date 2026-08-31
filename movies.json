@@ -1,15 +1,5 @@
 [
 	 {
-	"tmdb_id": 1398050,
-   "title":"Driver’s Ed",
-   "image":"/banner/film-drivers-ed-2025.webp",
-   "iframe":"https://playcinematic.com/video/rV27dmVj4XOOSDF",
-   "sinopsis":"Sekelompok remaja mencuri mobil kursus mengemudi, lalu petualangan liar, cinta, dan kejaran polisi mengubah hidup mereka.",
-   "genre": ["Komedi"],
-   "release_date":"2026-05-14",
-   "country":"USA"
-  },
-	  {
     "tmdb_id": 1365448,
     "title": "Hell Hath No Fury",
     "image": "/banner/hell-hath-no-fury.webp",
@@ -18,16 +8,6 @@
     "genre": ["Thriller", "Drama"],
     "release_date": "2026-04-04",
     "country": "Amerika Serikat"
-  },
-  {
-	"tmdb_id": 1243741,
-   "title":"Ballistic",
-   "image":"/banner/ballistic-2025.webp",
-   "iframe":"https://playcinematic.com/video/Pv7b7cWEiqzbYZT",
-   "sinopsis":"Ibu tentara tahu peluru pembunuh anaknya dibuat di pabriknya bekerja, ia pun menuntut balas.",
-   "genre": ["Drama","Thriller"],
-   "release_date":"2026-04-17",
-   "country":"Australia, Kanada, Amerika Serikat"
   },
 		{
 		"tmdb_id": 1487861,
@@ -498,16 +478,6 @@
    "genre": ["Drama","Vivamax"],
    "release_date":"2026-05-01",
    "country":"Philipina"
-  },
-  {
-   "tmdb_id": 1083381,
-   "title":"Backrooms",
-   "image":"/banner/film-backrooms-.webp",
-   "iframe":"https://playcinematic.com/video/FHjMMowdDi8osJ2",
-   "sinopsis":"Sebuah pintu aneh muncul di ruang bawah tanah sebuah ruang pamer furnitur.",
-   "genre": ["Horor","Fiksi Ilmiah","Thriller"],
-   "release_date":"2026-05-27",
-   "country":"Amerika Serikat"
   },
 	{
    "tmdb_id": 980431,
@@ -980,16 +950,6 @@
    "country":"Indonesia, Amerika Serikat"
   },
 	{
-   "tmdb_id": 1523145,
-   "title":"Tvoyo Serdtse Budet Razbito",
-   "image":"/banner/your-heart-will-be-broken.webp",
-   "iframe":"https://playcinematic.com/video/7xPfOMWz2lmtPT4",
-   "sinopsis":"Polina buat kesepakatan dengan Bars, pura-pura pacaran hingga tumbuh cinta terlarang.",
-   "genre": ["Romansa"],
-   "release_date":"2026-05-26",
-   "country":"Rusia"
-  },
-	{
    "tmdb_id": 1228710,
    "title":"The Mandalorian And Grogu",
    "image":"/banner/the-mandalorian-and-grogu.webp",
@@ -1008,16 +968,6 @@
    "genre": ["Petualangan", "Fiksi Ilmiah"],
    "release_date":"2026-05-15",
    "country":"Amerika Serikat, Indonesia"
-  },
-	{
-   "tmdb_id": 1273221,
-   "title":"Scary Movie",
-   "image":"/banner/scary-movie.webp",  
-   "iframe":"https://playcinematic.com/video/C52MSDIbfZOq4Fv",
-   "sinopsis":"26 tahun kemudian, Core Four kembali diburu pembunuh bertopeng, horor jadi taruhan.",
-   "genre": ["Komedi"],
-   "release_date":"2026-06-03",
-   "country":"Amerika Serikat"
   },
 	{
    "tmdb_id": 1511549,
@@ -1107,16 +1057,6 @@
    "sinopsis":"Dokumenter menelusuri banjir Nuh lewat bInggris Raya Rayati geologi, fosil, dan analisis sejarah.",
    "genre": ["Dokumenter", "Fantasi"],
    "release_date":"2026-06-01",
-   "country":"Amerika Serikat"
-  },
-	{
-   "tmdb_id": 1275779,
-   "title":"Disclosure Day",
-   "image":"/banner/disclosure-day.webp",
-   "iframe":"https://playcinematic.com/video/VYVe1ZMbB6yRBm4",
-   "sinopsis":"Ahli siber jadi pelapor rahasia alien, bersekutu dengan meteorolog demi bInggris Raya Rayati kehidupan.",
-   "genre": ["Fiksi Ilmiah", "Thriller"],
-   "release_date":"2026-06-10",
    "country":"Amerika Serikat"
   },
 	{
@@ -1270,16 +1210,6 @@
    "country":"Amerika Serikat"
   },
 	{
-   "tmdb_id": 1284465,
-   "title":"The Death Of Robin Hood",
-   "image":"/banner/the-death-of-robin-hood.webp",   
-   "iframe":"https://playcinematic.com/video/p8GUfOlmV1P8Pv3",
-   "sinopsis":"Robin Hood terlInggris Raya Rayaa, diselamatkan wanita misterius yang menaWarkan jalan penebAmerika Serikatn.",
-   "genre": ["Aksi", "Petualangan", "Drama"],
-   "release_date":"2026-06-18",
-   "country":"Amerika Serikat"
-  },
-	{
    "tmdb_id": 1593151,
    "title":"Stepfather",
    "image":"/banner/stepfather.webp",   
@@ -1388,16 +1318,6 @@
    "genre": ["Komedi"],
    "release_date":"2026-06-18",
    "country":"Amerika Serikat"
-  },
-    {
-	"tmdb_id": 1318447,
-   "title":"Apex",
-   "image":"/banner/film-apex-.webp",
-   "iframe":"https://playcinematic.com/video/nwS4wWxzB24U6Xy",
-   "sinopsis":"Pendaki berdInggris Raya Rayaa diburu pembunuh sadis di hutan Australia, bertahan hidup jadi taruhan.",
-   "genre": ["Aksi","Thriller"],
-   "release_date":"2026-04-24",
-   "country":"Kanada, Australia, Amerika Serikat"
   },
   {
 	"tmdb_id": 1364137,
@@ -1607,26 +1527,6 @@
     "sinopsis": "Dua hewan yang saling bermusuhan bertInggris Raya Rayaar tubuh dan harus bekerja sama untInggris Raya Raya bertahan hidup.",
     "genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fantasi"],
     "release_date": "2026-05-04",
-    "country": "Tiongkok"
-  },
-  {
-    "tmdb_id": 1304313,
-    "title": "Lee Cronin's The Mummy",
-    "image": "/banner/the-mummy.webp",
-    "iframe": "https://playcinematic.com/video/vPhZhNVJvnw9XEf",
-    "sinopsis": "Seorang anak perempuan yang hilang selama 8 tahun kembali membawa kutInggris Raya Rayaan kuno mumi yang membawa teror ke rumah keluarganya.",
-    "genre": ["Horor", "Misteri"],
-    "release_date": "2026-04-17",
-    "country": "Irlandia, Amerika Serikat, Spanyol, Kanada, Indonesia"
-  },
-  {
-    "tmdb_id": 1421552,
-    "title": "Panda Plan 2: The Magical Tribe",
-    "image": "/banner/panda-plan-2.webp",
-    "iframe": "https://playcinematic.com/video/WYqUtGFnV9PeVfM",
-    "sinopsis": "Jackie Chan dan seekor panda bernama Hu Hu terjebak di sebuah sInggris Raya Rayau misterius kuno dan harus menyelamatkan mereka dari bencana yang mengancam.",
-    "genre": ["Aksi", "Komedi", "Keluarga"],
-    "release_date": "2026-04-28",
     "country": "Tiongkok"
   },
   {
