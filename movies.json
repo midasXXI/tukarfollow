@@ -1,5 +1,15 @@
 [
 	{
+		"tmdb_id": 1589248,
+    	"title": "My Best Friend, His Girlfriend and Me",
+    	"image": "/banner/my-best-friend-his-girlfriend-and-me.webp",
+    	"iframe": "https://playcinematic.com/video/FYHLdRnFBVPmPUs",
+    	"sinopsis": "Sahabat Olli & Matze merencanakan keliling dunia, hingga cinta Matze pada Rebecca mengubah segalanya.",
+    	"genre": ["Komedi"],
+    	"release_date": "2026-08-14",
+    	"country": "Jerman"
+		}	
+	{
 		"tmdb_id": 1490260,
     	"title": "Whitmer Thomas: Terminal Crew of Dudes",
     	"image": "/banner/whitmer-thomas-terminal-crew-of-dudes.webp",
