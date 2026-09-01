@@ -1,5 +1,15 @@
 [
-  {
+	{
+		"tmdb_id": 1490260,
+    	"title": "Whitmer Thomas: Terminal Crew of Dudes",
+    	"image": "/banner/whitmer-thomas-terminal-crew-of-dudes.webp",
+    	"iframe": "https://playcinematic.com/video/WFRl8RNv9XYu5g5",
+    	"sinopsis": "Whitmer Thomas, komedian-musisi-aktor, menelusuri masa kecil Alabama dan obsesinya jadi keren.",
+    	"genre": ["Komedi", "Musik"],
+    	"release_date": "2026-08-04",
+    	"country": "Amerika Serikat"
+		}
+	{
 		"tmdb_id": 1365448,
     	"title": "Hell Hath No Fury",
     	"image": "/banner/hell-hath-no-fury.webp",
