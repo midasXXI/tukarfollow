@@ -1,5 +1,15 @@
 [
 	{
+		"tmdb_id": 1361969,
+    	"title": "All Night Wrong",
+    	"image": "/banner/all-night-wrong.webp",
+    	"iframe": "https://playcinematic.com/video/qyUXxobhXc6iQlG",
+    	"sinopsis": "Gary & Ell bertemu di kencan buta, lalu mencuri mobil pembunuh berisi mayat dan uang $40.000.",
+    	"genre": ["Komedi", "Kejahatan", "Thriller"],
+    	"release_date": "2026-08-14",
+    	"country": "Inggris Raya"
+		}
+	{
 		"tmdb_id": 1589248,
     	"title": "My Best Friend, His Girlfriend and Me",
     	"image": "/banner/my-best-friend-his-girlfriend-and-me.webp",
