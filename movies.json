@@ -1,15 +1,15 @@
 [
-	 {
-    "tmdb_id": 1365448,
-    "title": "Hell Hath No Fury",
-    "image": "/banner/hell-hath-no-fury.webp",
-    "iframe": "https://playcinematic.com/video/kDmj8hoalzcOLPK",
-    "sinopsis": "Seorang psikiater yang sedang berdiri sendiri dihadapi oleh seorang wanita misterius, sementara pembunuhan berantai mengungkap rahasia kuno yang mengejutkan.",
-    "genre": ["Thriller", "Drama"],
-    "release_date": "2026-04-04",
-    "country": "Amerika Serikat"
-  },
-		{
+	{
+		"tmdb_id": 1365448,
+    	"title": "Hell Hath No Fury",
+    	"image": "/banner/hell-hath-no-fury.webp",
+    	"iframe": "https://playcinematic.com/video/kDmj8hoalzcOLPK",
+    	"sinopsis": "Seorang psikiater yang sedang berdiri sendiri dihadapi oleh seorang wanita misterius, sementara pembunuhan berantai mengungkap rahasia kuno yang mengejutkan.",
+    	"genre": ["Thriller", "Drama"],
+    	"release_date": "2026-04-04",
+    	"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 1487861,
 		"title": "Elize: Shadows of a Woman",
 		"image": "/banner/shadows-of-a-woman.webp",
@@ -18,7 +18,7 @@
 		"genre": ["Kejahatan", "Drama", "Thriller"],
 		"release_date": "2026-07-22",
 		"country": "Brasil"
-	},
+		},
 	{
 		"tmdb_id": 1737860,
 		"title": "Aria Remix",
@@ -28,7 +28,7 @@
 		"genre": ["Komedi", "Fantasi", "Horor", "Romansa"],
 		"release_date": "2026-06-17",
 		"country": "Amerika Serikat"
-	},
+		},
 	{
 		"tmdb_id": 1509599,
 		"title": "Gatta Kusthi 2",
@@ -38,7 +38,7 @@
 		"genre": ["Komedi", "Drama"],
 		"release_date": "2026-07-03",
 		"country": "India"
-	},
+		},
 	{
 		"tmdb_id": 1443961,
 		"title": "Rao Bahadur",
@@ -48,87 +48,87 @@
 		"genre": ["Thriller", "Drama"],
 		"release_date": "2026-06-19",
 		"country": "India"
-	},
-{
-   "tmdb_id": 1722576,
-   "title":"Tales From The Shiny DIner",
-   "image":"/banner/tales-from-the-shiny-diner.webp", 
-   "iframe":"https://playcinematic.com/video/bbj6sr71siHRW1j",
-   "sinopsis":"Antologi horor berisi kisah monster, zombie, badut, dan teror Natal karya Alan Watkins.",
-   "genre": ["Horor"],
-   "release_date":"2026-07-02",
-   "country":"Amerika Serikat"
-  },
-{
-   "tmdb_id": 1410937,
-   "title":"Balan The Boy",
-   "image":"/banner/balan-the-boy.webp", 
-   "iframe":"https://playcinematic.com/video/qiD7VaGs2KOBrOH",
-   "sinopsis":"Seorang remaja mencari ibunya yang hilang sambil mengungkap kebenaran kelam tentang masa lalunya.",
-   "genre": ["Thriller", "Drama"],
-   "release_date":"2026-06-19",
-   "country":"India"
-  },
+		},
 	{
-   "tmdb_id": 1127384,
-   "title":"Deep Water",
-   "image":"/banner/deep-water.webp",
-   "iframe":"https://playcinematic.com/video/AuyxjVxKGDwF8wJ",
-   "sinopsis":"Penumpang pesawat yang jatuh di laut penuh hiu harus bersatu untuk bertahan hidup dan melarikan diri.",
-   "genre": ["Thriller", "Horor"],
-   "release_date":"2026-04-30",
-   "country":"Amerika Serikat"
-  },
+   		"tmdb_id": 1722576,
+   		"title":"Tales From The Shiny DIner",
+   		"image":"/banner/tales-from-the-shiny-diner.webp", 
+   		"iframe":"https://playcinematic.com/video/bbj6sr71siHRW1j",
+   		"sinopsis":"Antologi horor berisi kisah monster, zombie, badut, dan teror Natal karya Alan Watkins.",
+   		"genre": ["Horor"],
+   		"release_date":"2026-07-02",
+   		"country":"Amerika Serikat"
+  		},
 	{
-   "tmdb_id": 1741339,
-   "title":"I Hate Found Footage",
-   "image":"/banner/i%20hate%20found%20footage.webp",  
-   "iframe":"https://playcinematic.com/video/RxzHO2DBSwlCY8M",
-   "sinopsis":"Dua teman sekamar membuat film di hutan, lalu berjuang bertahan hidup setelah menemukan teror tak terduga.",
-   "genre": ["Komedi", "Horor"],
-   "release_date":"2026-07-24",
-   "country":"Amerika Serikat"
-  },
+   		"tmdb_id": 1410937,
+   		"title":"Balan The Boy",
+   		"image":"/banner/balan-the-boy.webp", 
+   		"iframe":"https://playcinematic.com/video/qiD7VaGs2KOBrOH",
+   		"sinopsis":"Seorang remaja mencari ibunya yang hilang sambil mengungkap kebenaran kelam tentang masa lalunya.",
+   		"genre": ["Thriller", "Drama"],
+   		"release_date":"2026-06-19",
+   		"country":"India"
+  		},
 	{
-   "tmdb_id": 1736916,
-   "title":"Instadocs The Prediction Games",
-   "image":"/banner/instadocs-the-prediction-games.webp",
-   "iframe":"https://playcinematic.com/video/IkXrHLSCsL9Yfqe",
-   "sinopsis":"Dokumenter ini mengungkap pesatnya pasar prediksi global, dari olahraga hingga spekulasi ekstrem.",
-   "genre": ["Dokumenter"],
-   "release_date":"2026-07-26",
-   "country":"Amerika Serikat"
-  },
+   		"tmdb_id": 1127384,
+   		"title":"Deep Water",
+   		"image":"/banner/deep-water.webp",
+   		"iframe":"https://playcinematic.com/video/AuyxjVxKGDwF8wJ",
+   		"sinopsis":"Penumpang pesawat yang jatuh di laut penuh hiu harus bersatu untuk bertahan hidup dan melarikan diri.",
+   		"genre": ["Thriller", "Horor"],
+   		"release_date":"2026-04-30",
+   		"country":"Amerika Serikat"
+  		},
 	{
-   "tmdb_id": 1458215,
-   "title":"The Gentleman Thief",
-   "image":"/banner/the-gentleman-thief.webp",
-   "iframe":"https://playcinematic.com/video/BK8FlcfEDJx9eNC",
-   "sinopsis":"Mantan pencuri ulung harus menyelamatkan adiknya saat perampokan yacht berubah menjadi konspirasi mematikan.",
-   "genre": ["Aksi", "Kejahatan", "Thriller"],
-   "release_date":"2026-07-31",
-   "country":"Amerika Serikat"
-  },
+   		"tmdb_id": 1741339,
+   		"title":"I Hate Found Footage",
+   		"image":"/banner/i%20hate%20found%20footage.webp",  
+   		"iframe":"https://playcinematic.com/video/RxzHO2DBSwlCY8M",
+   		"sinopsis":"Dua teman sekamar membuat film di hutan, lalu berjuang bertahan hidup setelah menemukan teror tak terduga.",
+   		"genre": ["Komedi", "Horor"],
+   		"release_date":"2026-07-24",
+   		"country":"Amerika Serikat"
+  		},
 	{
-   "tmdb_id": 949838,
-   "title":"72 Hours",
-   "image":"/banner/72-hours.webp",
-   "iframe":"https://playcinematic.com/video/nC804tIwVcCQH6j",
-   "sinopsis":"Eksekutif iklan berusia 40 tahun ikut pesta bujangan liar demi menyelamatkan kariernya.",
-   "genre": ["Komedi", "Kejahatan"],
-   "release_date":"2026-07-20",
-   "country":"Amerika Serikat"
-  },
+   		"tmdb_id": 1736916,
+   		"title":"Instadocs The Prediction Games",
+   		"image":"/banner/instadocs-the-prediction-games.webp",
+   		"iframe":"https://playcinematic.com/video/IkXrHLSCsL9Yfqe",
+   		"sinopsis":"Dokumenter ini mengungkap pesatnya pasar prediksi global, dari olahraga hingga spekulasi ekstrem.",
+   		"genre": ["Dokumenter"],
+   		"release_date":"2026-07-26",
+   		"country":"Amerika Serikat"
+  		},
 	{
-   "tmdb_id": 1564614,
-   "title":"Leviticus",
-   "image":"/banner/leviticus.webp",
-   "iframe":"https://playcinematic.com/video/B5oRtQkZF2wlBfR",
-   "sinopsis":"Dua remaja diburu entitas mematikan yang menjelma menjadi orang yang paling mereka dambakan.",
-   "genre": ["Horor", "Romansa"],
-   "release_date":"2026-06-17",
-   "country":"Australia"
-  },
+   		"tmdb_id": 1458215,
+   		"title":"The Gentleman Thief",
+   		"image":"/banner/the-gentleman-thief.webp",
+   		"iframe":"https://playcinematic.com/video/BK8FlcfEDJx9eNC",
+   		"sinopsis":"Mantan pencuri ulung harus menyelamatkan adiknya saat perampokan yacht berubah menjadi konspirasi mematikan.",
+   		"genre": ["Aksi", "Kejahatan", "Thriller"],
+   		"release_date":"2026-07-31",
+   		"country":"Amerika Serikat"
+  		},
+	{
+   		"tmdb_id": 949838,
+   		"title":"72 Hours",
+   		"image":"/banner/72-hours.webp",
+   		"iframe":"https://playcinematic.com/video/nC804tIwVcCQH6j",
+   		"sinopsis":"Eksekutif iklan berusia 40 tahun ikut pesta bujangan liar demi menyelamatkan kariernya.",
+   		"genre": ["Komedi", "Kejahatan"],
+   		"release_date":"2026-07-20",
+   		"country":"Amerika Serikat"
+  		},
+	{
+   		"tmdb_id": 1564614,
+   		"title":"Leviticus",
+   		"image":"/banner/leviticus.webp",
+   		"iframe":"https://playcinematic.com/video/B5oRtQkZF2wlBfR",
+   		"sinopsis":"Dua remaja diburu entitas mematikan yang menjelma menjadi orang yang paling mereka dambakan.",
+   		"genre": ["Horor", "Romansa"],
+   		"release_date":"2026-06-17",
+   		"country":"Australia"
+ 		},
 	{
    "tmdb_id": 1081003,
    "title":"Supergirl",
@@ -594,7 +594,7 @@
    "title":"18th Rose",
    "image":"/banner/18th-rose.webp",
    "iframe":"https://playcinematic.com/video/pdREm8FPpC7ZMDD",
-   "sinopsis":"Remaja ceria pemimpi debut ideal bersekutu dengan pendatang baru, namun rasa cinta merAmerika Serikatk rencana.",
+   "sinopsis":"Remaja ceria pemimpi debut ideal bersekutu dengan pendatang baru, namun rasa cinta	.",
    "genre": ["Drama","Romansa"],
    "release_date":"2026-04-09",
    "country":"Filipina"
