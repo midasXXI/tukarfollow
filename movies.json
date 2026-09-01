@@ -1,2 +1,12 @@
 [
-]
+  {
+		"tmdb_id": 1365448,
+    	"title": "Hell Hath No Fury",
+    	"image": "/banner/hell-hath-no-fury.webp",
+    	"iframe": "https://playcinematic.com/video/kDmj8hoalzcOLPK",
+    	"sinopsis": "Seorang psikiater yang sedang berdiri sendiri dihadapi oleh seorang wanita misterius, sementara pembunuhan berantai mengungkap rahasia kuno yang mengejutkan.",
+    	"genre": ["Thriller", "Drama"],
+    	"release_date": "2026-04-04",
+    	"country": "Amerika Serikat"
+		}
+  ]
