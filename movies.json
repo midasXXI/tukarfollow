@@ -1589,17 +1589,7 @@
     "release_date": "2026-04-10",
     "country": "Amerika Serikat, Australia"
   },
-  {
-    "tmdb_id": 1290417,
-    "title": "Thrash",
-    "image": "/banner/thrash.webp",
-    "iframe": "https://playcinematic.com/video/ZYWOdYZG1Y7ISoo",
-    "sinopsis": "Badai dahsyat membawa hiu-hiu ganas ke kota yang terendam banjir, memaksa para penyintas berjuang mati-matian agar selamat.",
-    "genre": ["Horor", "Thriller"],
-    "release_date": "2026-04-10",
-    "country": "Australia, Amerika Serikat"
-  },
-  {
+	{
     "tmdb_id": 1641319,
     "title": "Sniper: No Nation",
     "image": "/banner/sniper-no-nation.webp",
@@ -2059,6 +2049,7 @@
     "release_date": "2026-08-06",
     "country": "Inggris Raya, Prancis, Amerika Serikat"
   },
+  [
   {
     "tmdb_id": 1404304,
     "title": "The Isolate Thief",
@@ -2069,6 +2060,17 @@
     "release_date": "2026-07-10",
     "country": "Amerika Serikat"
   },
+  {
+    "tmdb_id": 1290417,
+    "title": "Thrash",
+    "image": "/banner/thrash.webp",
+    "iframe": "https://playcinematic.com/video/ZYWOdYZG1Y7ISoo",
+    "sinopsis": "Badai dahsyat membawa hiu-hiu ganas ke kota yang terendam banjir, memaksa para penyintas berjuang mati-matian agar selamat.",
+    "genre": ["Horor", "Thriller"],
+    "release_date": "2026-04-10",
+    "country": "Australia, Amerika Serikat"
+  }
+]
   {
     "tmdb_id": 1232569,
     "title": "Pinocchio: Unstrung",
