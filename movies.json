@@ -8,7 +8,7 @@
     	"genre": ["Komedi", "Kejahatan", "Thriller"],
     	"release_date": "2026-08-14",
     	"country": "Inggris Raya"
-		}
+		},
 	{
 		"tmdb_id": 1589248,
     	"title": "My Best Friend, His Girlfriend and Me",
@@ -18,7 +18,7 @@
     	"genre": ["Komedi"],
     	"release_date": "2026-08-14",
     	"country": "Jerman"
-		}	
+		},
 	{
 		"tmdb_id": 1490260,
     	"title": "Whitmer Thomas: Terminal Crew of Dudes",
@@ -28,7 +28,7 @@
     	"genre": ["Komedi", "Musik"],
     	"release_date": "2026-08-04",
     	"country": "Amerika Serikat"
-		}
+		},
 	{
 		"tmdb_id": 1365448,
     	"title": "Hell Hath No Fury",
