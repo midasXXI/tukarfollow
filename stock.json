@@ -1,7 +1,5 @@
 [
-	[
-  [
-  {
+	{
     "tmdb_id": 1189885,
     "title": "The Morrigan",
     "image": "/banner/film-morrigan-2025.webp",
@@ -111,16 +109,7 @@
     "release_date": "2025-01-14",
     "country": "Amerika Serikat"
   },
-  {
-    "tmdb_id": 83533,
-    "title": "Avatar Fire And Ash",
-    "image": "/banner/avatar-fire-and-ash.webp",
-    "iframe": "https://playcinematic.com/video/GEjAGvk19F7gdFj",
-    "sinopsis": "Jake dan Neytiri hadapi suku Ash demi masa depan Pandora, melawan Varang yang haus kuasa.",
-    "genre": ["Petualangan", "Fantasi", "Fiksi Ilmiah"],
-    "release_date": "2025-12-17",
-    "country": "Amerika Serikat, Kanada"
-  },
+  
   {
     "tmdb_id": 1013482,
     "title": "Borderline",
@@ -2607,16 +2596,6 @@
     "genre": ["Komedi", "Animasi", "Keluarga", "Petualangan"],
     "release_date": "2026-06-24",
     "country": "Amerika Serikat"
-  },
-  {
-    "tmdb_id": 1284041,
-    "title": "The Last House",
-    "image": "/banner/the-last-house.webp",
-    "iframe": "https://player.abyssplayer.com/kZoGUFHC7",
-    "sinopsis": "Sebuah keluarga terjebak di dalam rumah tanpa jalan keluar. Mereka harus bekerja sama untuk bertahan hidup.",
-    "genre": ["Aksi", "Horor", "Misteri", "Fiksi Ilmiah", "Thriller"],
-    "release_date": "2026-08-06",
-    "country": "Inggris Raya, Prancis, Amerika Serikat"
   },
   [
   {
