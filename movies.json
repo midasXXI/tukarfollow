@@ -1,5 +1,15 @@
 [
 	{
+		"tmdb_id": 1504358,
+    	"title": "Don’t Say Good Luck",
+    	"image": "/banner/dont-say-good-luck.webp",
+    	"iframe": "https://playcinematic.com/video/zgUMoMP2Xz2ZdqO",
+    	"sinopsis": "Penulis TV kembali ke ibunya yang terasing, membuka rahasia kelam dan kekacauan keluarga disfungsional.",
+    	"genre": ["Drama", "Komedi", "Musik"],
+    	"release_date": "2026-08-13",
+    	"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 1632473,
     	"title": "This, That, and Everything in Between",
     	"image": "/banner/this-that-and-everything-in-between.webp",
