@@ -1,38 +1,5 @@
 [
-	
-  
-  
-  {
-    "tmdb_id": 1245532,
-    "title": "Someone Like Me",
-    "image": "/banner/Someone%20Like%20Me.webp",
-    "iframe": "https://playcinematic.com/video/oahLZzBBjAu5Od8",
-    "sinopsis": "Wanita cerebral palsy temukan mandiri dan jati diri lewat lembaga seksualitas disabilitas.",
-    "genre": ["Drama", "Romansa"],
-    "release_date": "2025-11-27",
-    "country": "Hong Kong"
-  },
-  {
-    "tmdb_id": 967941,
-    "title": "Wicked For Good",
-    "image": "/banner/wicked-for-good-by-caturbangunsentosa.blogspot.com.webp",
-    "iframe": "https://playcinematic.com/video/KP7qcppqnlAjZI7",
-    "sinopsis": "Massa mengamuk. Glinda & Elphaba harus bersatu dengan empati demi mengubah masa depan Oz selamanya.",
-    "genre": ["Petualangan", "Fantasi", "Romansa"],
-    "release_date": "2025-11-19",
-    "country": "Australia, Kanada, Amerika Serikat"
-  },
-  {
-    "tmdb_id": 1340206,
-    "title": "Tuner",
-    "image": "/banner/tuner-2025.webp",
-    "iframe": "https://playcinematic.com/video/9OCD7aRRjA96kus",
-    "sinopsis": "Seorang penyetel piano berbakat menemukan bakat mengejutkan membuka brankas, mengubah hidupnya secara tak terduga.",
-    "genre": ["Kejahatan", "Drama", "Thriller"],
-    "release_date": "2025-05-21",
-    "country": "Kanada"
-  },
-  {
+{
     "tmdb_id": 650524,
     "title": "Back to the Past",
     "image": "/banner/back-to-the-past.webp",
