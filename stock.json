@@ -1,26 +1,7 @@
 [
 	
   
-  {
-    "tmdb_id": 1614837,
-    "title": "Cuba Coocuyo Remix",
-    "image": "/banner/cuba-coocuyo-remix.webp",
-    "iframe": "https://playcinematic.com/video/PqA31zZoIyQxv2X",
-    "sinopsis": "Kisah nyata para DJ Kuba bagai kunang-kunang, hidupkan musik elektronik malam hari di tengah realita.",
-    "genre": ["Komedi"],
-    "release_date": "2025-01-01",
-    "country": "Meksiko"
-  },
-  {
-    "tmdb_id": 1317149,
-    "title": "I Swear",
-    "image": "/banner/I%20Swear.webp",
-    "iframe": "https://playcinematic.com/video/HtbjZSTbdoe1UV1",
-    "sinopsis": "Didiagnosis Tourette usia 15, John Davidson berjuang lewati masa sulit demi temukan tujuan hidup.",
-    "genre": ["Drama", "Sejarah"],
-    "release_date": "2025-09-22",
-    "country": "Amerika Serikat, Inggris Raya"
-  },
+  
   {
     "tmdb_id": 1245532,
     "title": "Someone Like Me",
