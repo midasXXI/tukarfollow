@@ -1,5 +1,15 @@
 [
 	{
+    	"tmdb_id": 1284041,
+    	"title": "The Last House",
+    	"image": "/banner/the-last-house.webp",
+    	"iframe": "https://playcinematic.com/video/cTJ2uKjUm0hmvqk",
+    	"sinopsis": "Sebuah keluarga terperangkap di rumah, bertahan dengan sumber daya menipis dan ancaman misterius.",
+    	"genre": ["Horor", "Fiksi Ilmiah", "Thriller"],
+    	"release_date": "2026-08-06",
+    	"country": "Amerika Serikat"
+  		},
+	{
 		"tmdb_id": 1679730,
     	"title": "The Ribon Hiro",
     	"image": "/banner/the-ribbon-hero.webp",
