@@ -1,24 +1,5 @@
 [
-	{
-    "tmdb_id": 1189885,
-    "title": "The Morrigan",
-    "image": "/banner/film-morrigan-2025.webp",
-    "iframe": "https://playcinematic.com/video/9b0NwffhUQVupSe",
-    "sinopsis": "Arkeolog berjuang menyelamatkan putrinya dari rasukan Dewi Perang Pagan setelah makam kuno Irlandia terbuka.",
-    "genre": ["Horor"],
-    "release_date": "2025-04-09",
-    "country": "Inggris Raya"
-  },
-  {
-    "tmdb_id": 1317288,
-    "title": "Marty Supreme",
-    "image": "/banner/marty-supreme.webp",
-    "iframe": "https://playcinematic.com/video/BuxBZtte9yJxoZI",
-    "sinopsis": "Marty Mauser, pemuda dengan impian yang diremehkan, rela menderita demi raih keagungan.",
-    "genre": ["Drama"],
-    "release_date": "2025-12-19",
-    "country": "Amerika Serikat, Indonesia, Finlandia"
-  },
+	
   {
     "tmdb_id": 1137179,
     "title": "Yadang: The Snitch",
