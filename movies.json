@@ -1,5 +1,15 @@
 [
 	{
+		"tmdb_id": 1679730,
+    	"title": "The Ribon Hiro",
+    	"image": "/banner/the-ribbon-hero.webp",
+    	"iframe": "https://playcinematic.com/video/HBGU8GVD1qgZVXO",
+    	"sinopsis": "Putri Sapphire bangkit sebagai Ribbon Hero, melawan Nergal demi menyelamatkan kerajaan barunya.",
+    	"genre": ["Aksi", "Animasi", "Drama", "Fantasi"],
+    	"release_date": "2026-08-07",
+    	"country": "Jepang"
+		},
+	{
 		"tmdb_id": 1504358,
     	"title": "Don’t Say Good Luck",
     	"image": "/banner/dont-say-good-luck.webp",
