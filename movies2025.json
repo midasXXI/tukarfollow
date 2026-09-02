@@ -1,5 +1,25 @@
 [
   {
+    "tmdb_id": 1137179,
+    "title": "Yadang: The Snitch",
+    "image": "/banner/yadang-the-snitch.webp",
+    "iframe": "https://playcinematic.com/video/JQ3jxCgrKnlt9Fr",
+    "sinopsis": "Informan narkoba terjebak konspirasi maut jetset, kini ia harus bertahan hidup dan menang.",
+    "genre": ["Aksi", "Kejahatan"],
+    "release_date": "2025-04-16",
+    "country": "Korea Selatan, Indonesia"
+  },
+  {
+    "tmdb_id": 1368166,
+    "title": "The Housemaid",
+    "image": "/banner/the-housemaid.webp",
+    "iframe": "https://playcinematic.com/video/q6ZkdRvKatciHQ5",
+    "sinopsis": "Kabur dari masa lalu, pelayan Millie terjebak skandal, rahasia, dan kuasa di rumah majikan kaya.",
+    "genre": ["Misteri", "Thriller"],
+    "release_date": "2025-12-18",
+    "country": "Indonesia, Amerika Serikat"
+  },
+  {
     "tmdb_id": 1189885,
     "title": "The Morrigan",
     "image": "/banner/film-morrigan.webp",
