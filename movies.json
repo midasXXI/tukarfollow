@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1404521,
+    	"title": "Chinna Chinna Aasai",
+    	"iframe": "https://playcinematic.com/video/LK2HVEpzrgNymE6",
+    	"sinopsis": "Di tepi Varanasi, dua jiwa bertemu, ikatan tak terucap perlahan tumbuh melampaui persahabatan.",
+    	"genre": ["Drama"],
+    	"release_date": "2026-06-19",
+    	"country": "India"
+  		},	
+	{
     	"tmdb_id": 1392469,
     	"title": "Cocktail 2",
     	"iframe": "https://playcinematic.com/video/trnwOjQDI7SeNGb",
