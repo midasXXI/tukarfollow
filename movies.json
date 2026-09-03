@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1596260,
+    	"title": "Night Nurse",
+    	"iframe": "https://playcinematic.com/video/9PTJ6PMsJvokVSH",
+    	"sinopsis": "Panggilan penipuan ganggu komunitas pensiun; perawat muda terjerat pasien misteriusnya.",
+    	"genre": ["Thriller", "Drama"],
+    	"release_date": "2026-07-10",
+    	"country": "Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 1404304,
     	"title": "The Isolate Thief",
     	"iframe": "https://playcinematic.com/video/IRegEoP04kV7rES",
