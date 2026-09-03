@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1680084,
+    	"title": "Popeye III: Requiem",
+    	"iframe": "https://playcinematic.com/video/9vbmgfnvaKPYHa9",
+    	"sinopsis": "Tim riset rahasiakan Popeye, eksperimen gagal ubahnya jadi monster tak terbendung penuh amarah.",
+    	"genre": ["Horor"],
+    	"release_date": "2026-07-05",
+    	"country": "Inggris Raya"
+  		},	
+	{
     	"tmdb_id": 1212763,
     	"title": "Evil Dead Burn",
     	"iframe": "https://playcinematic.com/video/06ChnaSCkmbBgQU",
