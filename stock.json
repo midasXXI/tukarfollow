@@ -301,16 +301,6 @@
     "country": "Amerika Serikat"
   },
   {
-    "tmdb_id": 1307118,
-    "title": "Soulm8te",
-    "image": "/banner/soulm8te.webp",
-    "iframe": "https://playcinematic.com/video/VH2z76F7qNNihnu",
-    "sinopsis": "Seorang pria yang berduka atas kematian istrinya, menciptakan android pintar untuk mengisi kekosongan.",
-    "genre": ["Fiksi Ilmiah", "Thriller", "Horor"],
-    "release_date": "2026-07-31",
-    "country": "Amerika Serikat"
-  },
-  {
     "tmdb_id": 1084244,
     "title": "Toy Story 5",
     "image": "/banner/toy-story-5.webp",
