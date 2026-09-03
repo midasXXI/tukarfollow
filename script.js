@@ -52,7 +52,7 @@ function pulihkanPosisiGulir() {
 }
 
 // ==============================================
-// 🚀 Notifier Promosi
+// 🚀 Notifier Promosi — Otomatis Ambil Poster dari TMDB
 // ==============================================
 function initPromoNotifier() {
     const notifier = document.getElementById('desktopNotifier');
@@ -63,6 +63,7 @@ function initPromoNotifier() {
     const promoSinopsis = document.getElementById('promoSinopsis');
     const promoWatchBtn = document.getElementById('promoWatchBtn');
     if (!notifier || !promoCard) return;
+
     let latestMovie = {
         title: "Avatar: The Way of Water",
         country: "US",
@@ -72,6 +73,7 @@ function initPromoNotifier() {
         image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1000",
         tmdb_id: 76600
     };
+
     fetch(MOVIES_JSON_PATH)
         .then(response => {
             if (!response.ok) throw new Error('movies.json tidak merespon');
@@ -89,8 +91,37 @@ function initPromoNotifier() {
             console.warn("⚠️ movies.json gagal → pakai data default", err);
             tampilkanFlyer();
         });
-    function tampilkanFlyer() {
-        if (latestMovie.image) promoCard.style.backgroundImage = `url('${latestMovie.image}')`;
+
+    async function tampilkanFlyer() {
+        let gambarPoster = '';
+
+        // 1. Kalau ADA isi di JSON → pakai yang itu
+        if (latestMovie.image && latestMovie.image.trim() !== '') {
+            gambarPoster = latestMovie.image;
+            console.log("✅ Pakai gambar dari JSON:", gambarPoster);
+        }
+        // 2. Kalau KOSONG + ada tmdb_id → ambil dari TMDB
+        else if (latestMovie.tmdb_id) {
+            try {
+                const res = await fetch(`${BASE_URL}/movie/${latestMovie.tmdb_id}?api_key=${API_KEY}&language=id-ID`);
+                const dataTMDB = await res.json();
+                if (dataTMDB.poster_path) {
+                    gambarPoster = `${IMAGE_URL}${dataTMDB.poster_path}`;
+                    console.log("✅ Pakai poster dari TMDB:", gambarPoster);
+                }
+            } catch (e) {
+                console.warn("⚠️ Gagal ambil poster dari TMDB:", e);
+            }
+        }
+
+        // 3. Terapkan ke selebaran + gambar cadangan kalau gagal
+        if (gambarPoster) {
+            promoCard.style.backgroundImage = `url('${gambarPoster}')`;
+        } else {
+            promoCard.style.backgroundImage = `url('https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1000')`;
+        }
+
+        // === TAMPILKAN DATA KE SELEBARAN ===
         if (promoTitle) promoTitle.textContent = latestMovie.title || 'Judul Film';
         if (promoCountry) {
             const tahun = latestMovie.release_date ? latestMovie.release_date.split('-')[0] : '';
@@ -125,6 +156,7 @@ function initPromoNotifier() {
         if (window.lucide) lucide.createIcons();
     }
 }
+
 function closeNotifier() {
     const notifier = document.getElementById('desktopNotifier');
     if (notifier) {
