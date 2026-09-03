@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1594914,
+    	"title": "Lucky Strike",
+    	"iframe": "https://playcinematic.com/video/Pu9o0Q8AvBuXlYP",
+    	"sinopsis": "Prajurit Amerika terluka bertahan di balik garis musuh, gunakan insting dan radio demi kembali.",
+    	"genre": ["Aksi", "Perang"],
+    	"release_date": "2026-06-26",
+    	"country": "Amerika Serikat"
+  		},	
+	{
     	"tmdb_id": 1500890,
     	"title": "Lockbox",
     	"iframe": "https://playcinematic.com/video/eXeHC4TiTN9rP5w",
