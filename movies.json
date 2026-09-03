@@ -1,5 +1,15 @@
 [
 	{
+    	"tmdb_id": 1290417,
+    	"title": "Thrash",
+    	"image": "/banner/thrash.webp",
+    	"iframe": "https://playcinematic.com/video/ZYWOdYZG1Y7ISoo",
+    	"sinopsis": "Badai dahsyat membawa hiu-hiu ganas ke kota yang terendam banjir, memaksa para penyintas berjuang mati-matian agar selamat.",
+    	"genre": ["Horor", "Thriller"],
+    	"release_date": "2026-04-10",
+    	"country": "Australia, Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 1307118,
     	"title": "Soulm8te",
     	"image": "/banner/soulm8te.webp",
