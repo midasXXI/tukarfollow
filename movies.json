@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1212763,
+    	"title": "Evil Dead Burn",
+    	"iframe": "https://playcinematic.com/video/06ChnaSCkmbBgQU",
+    	"sinopsis": "Alice kehilangan suami, temui keluarga misterius yang berubah jadi makhluk pemangsa ketakutan.",
+    	"genre": ["Horor"],
+    	"release_date": "2026-07-07",
+    	"country": "Amerika Serikat"
+  		},	
+	{
     	"tmdb_id": 1476682,
     	"title": "Gail Daughtry and the Celebrity Sex Pass",
     	"iframe": "https://playcinematic.com/video/DV9320uIMAoo4YN",
