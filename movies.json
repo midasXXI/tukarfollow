@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1308767,
+    	"title": "Young Washington",
+    	"iframe": "https://playcinematic.com/video/AZ22kOANmIdSR5l",
+    	"sinopsis": "Washington muda di pusaran perang global, harus memilih sekutu dan hadapi pemimpin dalam dirinya.",
+    	"genre": ["Drama", "Sejarah", "Perang"],
+    	"release_date": "2026-07-02",
+    	"country": "Amerika Serikat"
+  		},	
+	{
     	"tmdb_id": 1680084,
     	"title": "Popeye III: Requiem",
     	"iframe": "https://playcinematic.com/video/9vbmgfnvaKPYHa9",
