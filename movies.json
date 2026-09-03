@@ -1,5 +1,15 @@
 [
-  {
+	{
+    	"tmdb_id": 1307118,
+    	"title": "Soulm8te",
+    	"image": "/banner/soulm8te.webp",
+    	"iframe": "https://playcinematic.com/video/VH2z76F7qNNihnu",
+    	"sinopsis": "Seorang pria yang berduka atas kematian istrinya, menciptakan android pintar untuk mengisi kekosongan.",
+    	"genre": ["Fiksi Ilmiah", "Thriller", "Horor"],
+    	"release_date": "2026-07-31",
+    	"country": "Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 1487861,
     	"title": "Elize: Shadows of a Woman",
     	"image": "/banner/shadows-of-a-woman.webp",
@@ -9,7 +19,7 @@
     	"release_date": "2026-07-22",
     	"country": "Brasil"
   		},
-  {
+   {
     	"tmdb_id": 1737860,
     	"title": "Aria Remix",
     	"image": "/banner/aria-remix.webp",
@@ -19,7 +29,7 @@
     	"release_date": "2026-06-17",
     	"country": "Amerika Serikat"
   		},
-  {
+   {
     	"tmdb_id": 1509599,
     	"title": "Gatta Kusthi 2",
     	"image": "/banner/gatta-kusthi-2.webp",
