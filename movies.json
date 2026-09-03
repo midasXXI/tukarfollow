@@ -2,7 +2,6 @@
 	{
     	"tmdb_id": 1128204,
     	"title": "Feed",
-    	"image": "",
     	"iframe": "https://playcinematic.com/video/50OSqgbK5VDGwV2",
     	"sinopsis": "Lima influencer akhir pekan di hutan, tanpa sengaja membangkitkan vampir pertama dunia.",
     	"genre": ["Horor", "Thriller"],
@@ -12,7 +11,6 @@
 	{
     	"tmdb_id": 1290417,
     	"title": "Thrash",
-    	"image": "/banner/thrash.webp",
     	"iframe": "https://playcinematic.com/video/ZYWOdYZG1Y7ISoo",
     	"sinopsis": "Badai dahsyat membawa hiu-hiu ganas ke kota yang terendam banjir, memaksa para penyintas berjuang mati-matian agar selamat.",
     	"genre": ["Horor", "Thriller"],
@@ -22,7 +20,6 @@
 	{
     	"tmdb_id": 1307118,
     	"title": "Soulm8te",
-    	"image": "/banner/soulm8te.webp",
     	"iframe": "https://playcinematic.com/video/VH2z76F7qNNihnu",
     	"sinopsis": "Seorang pria yang berduka atas kematian istrinya, menciptakan android pintar untuk mengisi kekosongan.",
     	"genre": ["Fiksi Ilmiah", "Thriller", "Horor"],
@@ -32,7 +29,6 @@
 	{
     	"tmdb_id": 1487861,
     	"title": "Elize: Shadows of a Woman",
-    	"image": "/banner/shadows-of-a-woman.webp",
     	"iframe": "https://playcinematic.com/video/rknFTYTSM3gwfEH",
     	"sinopsis": "Seorang wanita menghadapi pengkhianatan suaminya yang kaya, hingga pernikahan mereka berada di ambang kehancuran.",
     	"genre": ["Kejahatan", "Drama", "Thriller"],
@@ -42,7 +38,6 @@
    {
     	"tmdb_id": 1737860,
     	"title": "Aria Remix",
-    	"image": "/banner/aria-remix.webp",
     	"iframe": "https://playcinematic.com/video/FRTygw6CTsz93CU",
     	"sinopsis": "Seorang DJ dirasuki dewa kuno yang menggunakan musiknya sebagai gerbang untuk menguasai dunia.",
     	"genre": ["Komedi", "Fantasi", "Horor", "Romansa"],
@@ -52,7 +47,6 @@
    {
     	"tmdb_id": 1509599,
     	"title": "Gatta Kusthi 2",
-    	"image": "/banner/gatta-kusthi-2.webp",
     	"iframe": "https://playcinematic.com/video/MiHBS96M9v1h0gP",
     	"sinopsis": "Veera dan Keerthi menjalani peran baru sebagai orang tua sambil mengejar impian dan karier gulat mereka.",
     	"genre": ["Komedi", "Drama"],
@@ -62,7 +56,6 @@
   {
     	"tmdb_id": 1443961,
     	"title": "Rao Bahadur",
-    	"image": "/banner/rao-bahadur.webp",
     	"iframe": "https://playcinematic.com/video/t19DKA4gID61QP3",
     	"sinopsis": "Seorang bangsawan eksentrik menciptakan dunia khayal saat rasa bersalah mulai mengaburkan kenyataan.",
     	"genre": ["Thriller", "Drama"],
@@ -72,7 +65,6 @@
   {
     	"tmdb_id": 1722576,
     	"title": "Tales From The Shiny Diner",
-    	"image": "/banner/tales-from-the-shiny-diner.webp",
     	"iframe": "https://playcinematic.com/video/bbj6sr71siHRW1j",
     	"sinopsis": "Antologi horor berisi kisah monster, zombie, badut, dan teror Natal karya Alan Watkins.",
     	"genre": ["Horor"],
@@ -82,7 +74,6 @@
   {
     	"tmdb_id": 1410937,
     	"title": "Balan The Boy",
-    	"image": "/banner/balan-the-boy.webp",
     	"iframe": "https://playcinematic.com/video/qiD7VaGs2KOBrOH",
     	"sinopsis": "Seorang remaja mencari ibunya yang hilang sambil mengungkap kebenaran kelam tentang masa lalunya.",
     	"genre": ["Thriller", "Drama"],
@@ -92,7 +83,6 @@
   {
     	"tmdb_id": 1127384,
     	"title": "Deep Water",
-    	"image": "/banner/deep-water.webp",
     	"iframe": "https://playcinematic.com/video/AuyxjVxKGDwF8wJ",
     	"sinopsis": "Penumpang pesawat yang jatuh di laut penuh hiu harus bersatu untuk bertahan hidup dan melarikan diri.",
     	"genre": ["Thriller", "Horor"],
@@ -102,7 +92,6 @@
   {
     	"tmdb_id": 1741339,
     	"title": "I Hate Found Footage",
-    	"image": "/banner/i-hate-found-footage.webp",
     	"iframe": "https://playcinematic.com/video/RxzHO2DBSwlCY8M",
     	"sinopsis": "Dua teman sekamar membuat film di hutan, lalu berjuang bertahan hidup setelah menemukan teror tak terduga.",
     	"genre": ["Komedi", "Horor"],
@@ -112,7 +101,6 @@
   {
     	"tmdb_id": 1736916,
     	"title": "Instadocs: The Prediction Games",
-    	"image": "/banner/instadocs-the-prediction-games.webp",
     	"iframe": "https://playcinematic.com/video/IkXrHLSCsL9Yfqe",
     	"sinopsis": "Dokumenter ini mengungkap pesatnya pasar prediksi global, dari olahraga hingga spekulasi ekstrem.",
     	"genre": ["Dokumenter"],
@@ -122,7 +110,6 @@
   {
     	"tmdb_id": 1458215,
     	"title": "The Gentleman Thief",
-    	"image": "/banner/the-gentleman-thief.webp",
     	"iframe": "https://playcinematic.com/video/BK8FlcfEDJx9eNC",
     	"sinopsis": "Mantan pencuri ulung harus menyelamatkan adiknya saat perampokan kapal pesiar berubah menjadi konspirasi mematikan.",
     	"genre": ["Aksi", "Kejahatan", "Thriller"],
@@ -132,7 +119,6 @@
   {
     	"tmdb_id": 949838,
     	"title": "72 Hours",
-    	"image": "/banner/72-hours.webp",
     	"iframe": "https://playcinematic.com/video/nC804tIwVcCQH6j",
     	"sinopsis": "Seorang eksekutif iklan berusia 40 tahun ikut pesta bujangan liar demi menyelamatkan kariernya.",
     	"genre": ["Komedi", "Kejahatan"],
@@ -142,7 +128,6 @@
   {
     	"tmdb_id": 1564614,
     	"title": "Leviticus",
-    	"image": "/banner/leviticus.webp",
     	"iframe": "https://playcinematic.com/video/B5oRtQkZF2wlBfR",
     	"sinopsis": "Dua remaja diburu entitas mematikan yang menjelma menjadi orang yang paling mereka dambakan.",
     	"genre": ["Horor", "Romansa"],
@@ -152,7 +137,6 @@
   {
     	"tmdb_id": 1508779,
     	"title": "Dolphin Summer",
-    	"image": "/banner/dolphin-summer.webp",
     	"iframe": "https://playcinematic.com/video/dMtJjGG9083u64G",
     	"sinopsis": "Sarah dan teman-temannya membuat siaran lumba-lumba demi menyelamatkan suaka laut di pulau mereka.",
     	"genre": ["Petualangan", "Keluarga"],
@@ -162,7 +146,6 @@
   {
     	"tmdb_id": 1618569,
     	"title": "Hands",
-    	"image": "/banner/hands.webp",
     	"iframe": "https://playcinematic.com/video/ScZrTeAz9rU0eON",
     	"sinopsis": "Pasangan petarung dunia bawah tanah harus memilih antara meraih kemenangan atau membalas dendam.",
     	"genre": ["Aksi"],
@@ -172,7 +155,6 @@
   {
     	"tmdb_id": 1541434,
     	"title": "Vyprobuvalnyi Termin",
-    	"image": "/banner/vyprobuvalnyi-termin.webp",
     	"iframe": "https://playcinematic.com/video/c6HgileWrEzLgPS",
     	"sinopsis": "Persaingan kerja antara Polina dan Roman berubah menjadi konflik, kedekatan, dan benih cinta.",
     	"genre": ["Komedi"],
@@ -182,7 +164,6 @@
   {
     	"tmdb_id": 1454741,
     	"title": "The Confession",
-    	"image": "/banner/the-confession.webp",
     	"iframe": "https://playcinematic.com/video/sRP2PTxweYfPmFF",
     	"sinopsis": "Seorang ibu melawan kekuatan jahat warisan keluarganya demi menyelamatkan putranya.",
     	"genre": ["Horor"],
@@ -192,7 +173,6 @@
   {
     	"tmdb_id": 1608230,
     	"title": "Broken Bonds",
-    	"image": "/banner/broken-bonds.webp",
     	"iframe": "https://playcinematic.com/video/oAZDevUhiPiyVZ1",
     	"sinopsis": "Tiga pelayan menyembunyikan uang ilegal yang memicu baku tembak maut dan terjebak dalam pengkhianatan.",
     	"genre": ["Kejahatan", "Misteri", "Thriller"],
@@ -202,7 +182,6 @@
   {
     	"tmdb_id": 1634301,
     	"title": "Vanaveera",
-    	"image": "/banner/vanaveera.webp",
     	"iframe": "https://playcinematic.com/video/7oJzcYCuSk4QD7Z",
     	"sinopsis": "Seorang pemuda berjuang mempertahankan harga dirinya setelah motornya dirampas demi kepentingan politik.",
     	"genre": ["Aksi", "Drama"],
@@ -212,7 +191,6 @@
   {
     	"tmdb_id": 1699820,
     	"title": "Vibeland Chronicles",
-    	"image": "/banner/vibeland-chronicles.webp",
     	"iframe": "https://playcinematic.com/video/WBEeaW67ssRLzzR",
     	"sinopsis": "Di kota surealis Vibeland, para tokoh unik terjerat misteri pembunuh berantai dan kekacauan aneh.",
     	"genre": ["Thriller"],
@@ -222,7 +200,6 @@
   {
     	"tmdb_id": 1597535,
     	"title": "Breast Friends Forever",
-    	"image": "/banner/breast-friends-forever.webp",
     	"iframe": "https://playcinematic.com/video/AuUegAqXNXcE3ec",
     	"sinopsis": "Dua sahabat dan seorang detektif kocak menyelidiki kasus aneh yang membuat para pria membengkak.",
     	"genre": ["Komedi", "Vivamax"],
@@ -232,7 +209,6 @@
   {
     	"tmdb_id": 1388977,
     	"title": "Llueve Sobre Babel",
-    	"image": "/banner/rains-over-babel.webp",
     	"iframe": "https://playcinematic.com/video/PdHitNTJiVGghR9",
     	"sinopsis": "Sekelompok orang terdampar bertaruh dengan Kematian di bar purgatorium demi kesempatan kedua hidup.",
     	"genre": ["Komedi", "Drama", "Fantasi"],
@@ -242,7 +218,6 @@
   {
     	"tmdb_id": 1555331,
     	"title": "D.I.S.C.O",
-    	"image": "/banner/d-i-s-c-o.webp",
     	"iframe": "https://playcinematic.com/video/8WP4csZbfYNJymn",
     	"sinopsis": "Agen yang diskors harus menyelesaikan misi rahasia bersama pria biasa demi menggagalkan musuh.",
 		"genre": ["Aksi", "Komedi"],
@@ -252,7 +227,6 @@
   {
     	"tmdb_id": 1573810,
     	"title": "Dream Team",
-    	"image": "/banner/dream-team.webp",
     	"iframe": "https://playcinematic.com/video/dvNxyWzUftzjNfq",
     	"sinopsis": "Pelatih gagal merekrut atlet palsu demi mimpi putranya, hingga kebohongan mulai berbalik menghancurkannya.",
     	"genre": ["Komedi"],
@@ -262,7 +236,6 @@
   {
     	"tmdb_id": 1615895,
     	"title": "The Kids",
-    	"image": "/banner/the-kids.webp",
     	"iframe": "https://playcinematic.com/video/Ug4INnX7oMZv1hE",
     	"sinopsis": "Enzo bebas dari penjara namun terjebak dalam dunia kriminal dan pilihan yang menentukan nasibnya.",
     	"genre": ["Aksi", "Kejahatan", "Drama"],
@@ -272,7 +245,6 @@
   {
     	"tmdb_id": 1498047,
     	"title": "Abuela Tremenda",
-    	"image": "/banner/abuela-tremenda.webp",
     	"iframe": "https://playcinematic.com/video/sUbbSQVU97gjsdq",
     	"sinopsis": "Nenek eksentrik dan putrinya yang ambisius harus menghadapi konflik keluarga yang rumit.",
     	"genre": ["Komedi", "Keluarga"],
@@ -282,7 +254,6 @@
   {
     	"tmdb_id": 936075,
     	"title": "Michael",
-    	"image": "/banner/michael.webp",
     	"iframe": "https://playcinematic.com/video/8zeachyAZ71DETv",
     	"sinopsis": "Perjalanan hidup Michael Jackson dari Jackson Five hingga menjadi ikon musik dunia.",
     	"genre": ["Drama", "Musik"],
@@ -292,7 +263,6 @@
   {
     	"tmdb_id": 1412598,
     	"title": "Killer Whale",
-    	"image": "/banner/killer-whale.webp",
     	"iframe": "https://playcinematic.com/video/MzsOT04VLGSK9mO",
     	"sinopsis": "Maddie dan Trish terjebak di laguna terpencil, berjuang selamat dari paus pembunuh raksasa.",
     	"genre": ["Aksi", "Horor", "Misteri", "Fiksi Ilmiah", "Thriller"],
@@ -302,7 +272,6 @@
   {
     	"tmdb_id": 1193501,
     	"title": "Whistle",
-    	"image": "/banner/whistle.webp",
     	"iframe": "https://playcinematic.com/video/UyNjb9Csoall897",
     	"sinopsis": "Sekelompok siswa SMA menemukan peluit Aztec terkutuk yang memanggil kematian untuk memburu mereka.",
     	"genre": ["Horor", "Misteri"],
@@ -312,7 +281,6 @@
   {
     	"tmdb_id": 1110034,
     	"title": "Kraken",
-   		"image": "/banner/kraken.webp",
     	"iframe": "https://playcinematic.com/video/SGNlTVUwkxD8Mgx",
     	"sinopsis": "Seorang ahli biologi laut menyelidiki fjord terpencil; kematian misterius remaja mengungkap rahasia kedalaman laut.",
     	"genre": ["Aksi", "Horor", "Thriller"],
@@ -322,7 +290,6 @@
   {
     	"tmdb_id": 1327819,
     	"title": "Hoppers",
-    	"image": "/banner/hoppers.webp",
     	"iframe": "https://playcinematic.com/video/12Z1AKkWPXK610s",
     	"sinopsis": "Ilmuwan menemukan cara memindahkan kesadaran ke hewan robot; Mabel mengungkap misteri dunia hewan.",
     	"genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fiksi Ilmiah"],
@@ -332,7 +299,6 @@
   {
     	"tmdb_id": 1228710,
     	"title": "The Mandalorian And Grogu",
-    	"image": "/banner/the-mandalorian-and-grogu.webp",
     	"iframe": "https://playcinematic.com/video/o1IZ227605fvYSS",
     	"sinopsis": "Din Djarin dan Grogu membantu Republik Baru menghadapi sisa-sisa Warlord Kekaisaran.",
     	"genre": ["Aksi", "Petualangan", "Fiksi Ilmiah"],
@@ -342,7 +308,6 @@
   {
     	"tmdb_id": 687163,
     	"title": "Project Hail Mary",
-    	"image": "/banner/project-hail-mary.webp",
     	"iframe": "https://playcinematic.com/video/NbGh0NfEf91eljC",
     	"sinopsis": "Seorang guru sains terbangun di kapal luar angkasa dan harus menyelamatkan Bumi dari matahari yang sekarat.",
     	"genre": ["Petualangan", "Fiksi Ilmiah"],
@@ -352,7 +317,6 @@
   {
     	"tmdb_id": 1511549,
     	"title": "Ancora Piu Sexy",
-    	"image": "/banner/ancora-piu-sexy.webp",
     	"iframe": "https://playcinematic.com/video/sJ4CqkRlHZodqaU",
     	"sinopsis": "Maddalena goyah saat suara batin dan cinta terlarang mengguncang hidup serta keluarga impiannya.",
     	"genre": ["Komedi", "Romansa"],
@@ -362,7 +326,6 @@
   {
     	"tmdb_id": 1528499,
     	"title": "Transfer Trimurthulu",
-    	"image": "/banner/transfer-trimurthulu.webp",
     	"iframe": "https://playcinematic.com/video/oSUfEeZiYb7obhX",
     	"sinopsis": "Trimurthulu seorang polisi berani terjebak konspirasi dan melawan penguasa korup demi keadilan.",
     	"genre": ["Aksi", "Thriller"],
@@ -372,7 +335,6 @@
   {
     	"tmdb_id": 1397485,
     	"title": "Girls Like Girls",
-    	"image": "/banner/girls-like-girls.webp",
     	"iframe": "https://playcinematic.com/video/EFREaNuM1dM0s5f",
     	"sinopsis": "Coley remaja dari Oregon belajar tentang cinta dan keraguan bersama Sonya setelah kehilangan ibunya.",
     	"genre": ["Drama", "Romansa"],
@@ -382,7 +344,6 @@
   {
     	"tmdb_id": 1431804,
     	"title": "40 Dates And 40 Nights",
-    	"image": "/banner/40-dates-and-40-nights.webp",
     	"iframe": "https://playcinematic.com/video/e45qUjjX9hS89f1",
     	"sinopsis": "Leah menjalani 40 kencan demi memenuhi syarat sewa setahun, lalu menyadari cinta terbesar ada dalam dirinya.",
     	"genre": ["Komedi", "Romansa"],
@@ -392,7 +353,6 @@
   {
     	"tmdb_id": 1468380,
     	"title": "Pickleball",
-    	"image": "/banner/pickleball.webp",
     	"iframe": "https://playcinematic.com/video/JXrHeoyWLW5EZVv",
     	"sinopsis": "Pastor Joseph membentuk tim pickleball demi menyelamatkan komunitas dari ancaman legenda tenis.",
     	"genre": ["Komedi", "Keluarga"],
@@ -402,7 +362,6 @@
   {
     	"tmdb_id": 1465717,
     	"title": "Underland",
-    	"image": "/banner/underland.webp",
     	"iframe": "https://playcinematic.com/video/8gbiXg4EpSIvHwR",
     	"sinopsis": "Perjalanan sinematis yang menyingkap dunia tersembunyi di bawah permukaan bumi.",
     	"genre": ["Dokumenter"],
@@ -412,7 +371,6 @@
   {
     	"tmdb_id": 1609125,
     	"title": "Shou Zhe Tian",
-    	"image": "/banner/shou-zhe-tian.webp",
     	"iframe": "https://playcinematic.com/video/8J5DsJs9r2a2Jln",
     	"sinopsis": "Xue Buyi difitnah korupsi dana negara, harus memilih membersihkan nama atau menegakkan kebenaran.",
    		"genre": ["Aksi"],
@@ -422,7 +380,6 @@
   {
     	"tmdb_id": 1668364,
     	"title": "Desire",
-    	"image": "/banner/desire.webp",
     	"iframe": "https://playcinematic.com/video/Wxeqbr4EXPbmH5W",
     	"sinopsis": "Lucero terjebak hubungan terlarang dengan pelatih muda, rahasia kelam mengguncang keluarganya.",
     	"genre": ["Drama", "Misteri"],
@@ -432,7 +389,6 @@
   {
     	"tmdb_id": 1710011,
     	"title": "The NOAH Flood",
-    	"image": "/banner/the-noah-flood.webp",
     	"iframe": "https://playcinematic.com/video/q6dJ0vaz40M9ikb",
     	"sinopsis": "Dokumenter menelusuri kisah banjir Nuh melalui bukti geologi, temuan fosil, dan analisis sejarah.",
     	"genre": ["Dokumenter", "Fantasi"],
@@ -442,7 +398,6 @@
   {
     	"tmdb_id": 1720113,
     	"title": "Crimson Cove",
-    	"image": "/banner/crimson-cove.webp",
     	"iframe": "https://playcinematic.com/video/h9tuakOl7bJhPD5",
     	"sinopsis": "Para tamu pesta bujang terjebak di kota pantai terpencil, lalu trauma masa lalu meledak menjadi kegilaan.",
     	"genre": ["Thriller"],
@@ -452,7 +407,6 @@
   {
     	"tmdb_id": 1715560,
     	"title": "Backwoods Blood Feud",
-    	"image": "/banner/backwoods-blood-feud.webp",
     	"iframe": "https://playcinematic.com/video/Zlfg2KdA9orf56a",
     	"sinopsis": "Seorang buronan bersembunyi di hutan musim dingin, terjebak perang dua monster dan menjadi mangsa.",
     	"genre": ["Horor"],
@@ -462,7 +416,6 @@
   {
     	"tmdb_id": 1430698,
     	"title": "The Bay",
-    	"image": "/banner/the-bay.webp",
     	"iframe": "https://playcinematic.com/video/pAlq9fvtn2z5ZR8",
     	"sinopsis": "Emma dan Lani terjebak di kapal yang tenggelam, dikelilingi hiu ganas di perairan Thailand.",
     	"genre": ["Horor", "Thriller"],
@@ -472,7 +425,6 @@
   {
     	"tmdb_id": 1731158,
     	"title": "Orange Justice",
-    	"image": "/banner/orange-justice.webp",
     	"iframe": "https://playcinematic.com/video/UtxPqMIA2jGxKEP",
     	"sinopsis": "Dua polisi NYPD yang ditangguhkan harus mengawal seorang remaja ke ayahnya di Kanada.",
     	"genre": ["Komedi"],
@@ -482,7 +434,6 @@
   {
     	"tmdb_id": 1701611,
     	"title": "Farm House",
-    	"image": "/banner/farm-house.webp",
     	"iframe": "https://playcinematic.com/video/YX2rkmNoSaCsowB",
     	"sinopsis": "Menjaga rumah tua berubah menjadi teror saat kasus pembunuhan berantai masa lalu terungkap.",
     	"genre": ["Horor"],
@@ -492,7 +443,6 @@
   {
     	"tmdb_id": 1656220,
     	"title": "23 000 Leben",
-    	"image": "/banner/23-000-lives.webp",
     	"iframe": "https://playcinematic.com/video/LJJNFMC2Tg2fLCw",
     	"sinopsis": "Sekelompok pemuda berlayar ke Mediterania menyelamatkan pengungsi dan menguji keadilan dunia.",
     	"genre": ["Drama"],
@@ -502,7 +452,6 @@
   {
     	"tmdb_id": 1726557,
     	"title": "The Hoodoos",
-    	"image": "/banner/the-hoodoos.webp",
     	"iframe": "https://playcinematic.com/video/7TwVzCmsrhhnfVK",
     	"sinopsis": "Kru pemburu harta karun memburu emas terkutuk dan menghadapi teror voodoo di perkebunan tua.",
     	"genre": ["Horor"],
@@ -512,7 +461,6 @@
   {
     	"tmdb_id": 1699970,
     	"title": "The Welcome Table",
-    	"image": "/banner/the-welcome-table.webp",
     	"iframe": "https://playcinematic.com/video/x2NN3qFVYRajs2f",
     	"sinopsis": "Pengungsi iklim dari enam benua berbagi kisah hidup di garis depan krisis iklim dunia.",
     	"genre": ["Dokumenter"],
@@ -522,7 +470,6 @@
   {
    		"tmdb_id": 1321008,
     	"title": "Black Box",
-    	"image": "/banner/black-box.webp",
     	"iframe": "https://playcinematic.com/video/sUPNjkktEEKQcy8",
     	"sinopsis": "Penerbangan biasa berubah menjadi neraka saat penumpang menghadapi teror gaib dan ancaman dari luar bumi.",
     	"genre": ["Horor", "Fiksi Ilmiah", "Thriller"],
@@ -532,7 +479,6 @@
   {
     	"tmdb_id": 1202033,
     	"title": "Enola Holmes 3",
-    	"image": "/banner/enola-holmes-3.webp",
     	"iframe": "https://playcinematic.com/video/u509Ubx7vwb7uRo",
     	"sinopsis": "Detektif Enola ke Malta untuk menyelidiki kasus berbahaya saat Sherlock hilang dan rencana pernikahan buyar.",
     	"genre": ["Petualangan", "Kejahatan", "Misteri"],
@@ -542,7 +488,6 @@
   {
     	"tmdb_id": 1617191,
     	"title": "Summer's Last Resort",
-    	"image": "/banner/summers-last-resort.webp",
     	"iframe": "https://playcinematic.com/video/osiWUJPhwNASt4q",
     	"sinopsis": "Seorang remaja berusaha menyelamatkan ibunya, namun liburan mewah berubah menjadi kekacauan total.",
     	"genre": ["Komedi", "Romansa"],
@@ -552,7 +497,6 @@
   {
     	"tmdb_id": 1381202,
     	"title": "The Outer Threat",
-    	"image": "/banner/the-outer-threat.webp",
     	"iframe": "https://playcinematic.com/video/ByjKpQEyfE3H9p9",
     	"sinopsis": "Seorang astrofisikawan kabur bersama keluarganya saat penemuan mengejutkan diancam oleh pihak misterius.",
     	"genre": ["Fiksi Ilmiah", "Thriller"],
@@ -562,7 +506,6 @@
   {
     	"tmdb_id": 1715492,
     	"title": "Shipwrecked: Nightmare at Sea",
-    	"image": "/banner/nightmare-at-sea.webp",
     	"iframe": "https://playcinematic.com/video/UAtoREbv7xJ7xfI",
     	"sinopsis": "Rekaman dan kesaksian korban mengungkap misteri karamnya kapal pesiar mewah dalam dokumenter imersif.",
     	"genre": ["Dokumenter"],
@@ -572,7 +515,6 @@
   {
     	"tmdb_id": 1468683,
     	"title": "Heartstopper Forever",
-    	"image": "/banner/heartstopper-forever.webp",
     	"iframe": "https://playcinematic.com/video/Jmu7YGZ4GVpWAGz",
     	"sinopsis": "Tahun ajaran baru dimulai, Nick dan Charlie menghadapi cinta serta masa depan bersama.",
     	"genre": ["Romansa", "Drama"],
@@ -582,7 +524,6 @@
   {
     	"tmdb_id": 1703103,
     	"title": "Addicted To Change",
-    	"image": "/banner/addicted-to-change.webp",
     	"iframe": "https://playcinematic.com/video/EItBNq8jQeUeVcC",
     	"sinopsis": "Tiga pekerja magang menciptakan obat pintar dan menjadi buruan pemerintah di masa depan Inggris.",
     	"genre": ["Aksi", "Fiksi Ilmiah", "Drama"],
@@ -592,7 +533,6 @@
   {
     	"tmdb_id": 1593151,
     	"title": "Stepfather",
-    	"image": "/banner/stepfather.webp",
     	"iframe": "https://playcinematic.com/video/q8XODnxt4orokYh",
     	"sinopsis": "Darnell menyusup ke keluarga sempurna, namun rahasia mematikannya terungkap saat Asia dan putrinya melawan.",
     	"genre": ["Drama", "Thriller"],
@@ -602,7 +542,6 @@
   {
     	"tmdb_id": 1320756,
     	"title": "Doctor Plague",
-    	"image": "/banner/doctor-plague.webp",
     	"iframe": "https://playcinematic.com/video/ryfW0SZ2BC2fNuk",
     	"sinopsis": "Detektif Verney memburu sekte pemuja Dokter Wabah dan mengungkap rahasia berdarah yang mengancam keluarganya.",
     	"genre": ["Kejahatan", "Horor", "Thriller"],
@@ -612,7 +551,7 @@
   {
     	"tmdb_id": 1180417,
     	"title": "The Dutchman",
-    	"image": "/banner/the-dutchman.webp",
+    	the-dutchman.webp",
     	"iframe": "https://playcinematic.com/video/QBV9asvkEY7FAOX",
     	"sinopsis": "Seorang pria kulit hitam Amerika Serikat terjebak dalam permainan psikologis dengan wanita misterius di kereta bawah tanah NYC.",
     	"genre": ["Drama", "Thriller"],
@@ -622,7 +561,7 @@
   {
     	"tmdb_id": 1426546,
     	"title": "Her Şey Yolunda",
-    	"image": "/banner/her-sey-yolunda.webp",
+    	her-sey-yolunda.webp",
     	"iframe": "https://playcinematic.com/video/waJvihRO0n4tyuy",
     	"sinopsis": "Dua wanita tangguh bertarung melawan kejahatan setelah perampokan bank yang penuh aksi.",
     	"genre": ["Komedi"],
@@ -632,7 +571,7 @@
   {
     	"tmdb_id": 1497325,
     	"title": "Mockbuster",
-    	"image": "/banner/mockbuster.webp",
+    	mockbuster.webp",
     	"iframe": "https://playcinematic.com/video/631EJbBUUCCvdkW",
     	"sinopsis": "Kesempatan emas seorang sutradara muda berubah kacau saat studio film menawarinya proyek penuh risiko.",
     	"genre": ["Dokumenter"],
@@ -642,7 +581,7 @@
   {
     	"tmdb_id": 1727780,
     	"title": "Borderline",
-    	"image": "/banner/borderline.webp",
+    	borderline.webp",
     	"iframe": "https://playcinematic.com/video/vaWBNLl1sajkfZs",
     	"sinopsis": "Seorang agen AS menyusup ke kelompok kriminal Meksiko, namun konspirasi politik mengancam demokrasi.",
     	"genre": ["Thriller"],
@@ -652,7 +591,7 @@
   {
     	"tmdb_id": 1711175,
     	"title": "Summerween",
-    	"image": "/banner/summerween.webp",
+    	summerween.webp",
     	"iframe": "https://playcinematic.com/video/a0R2wNA0C4I9ai1",
     	"sinopsis": "Badut berbahaya kabur dari Rumah Sakit Jiwa saat pesta Summerween berlangsung, seorang ayah polisi harus menyelamatkan putrinya.",
     	"genre": ["Horor", "Thriller"],
@@ -662,7 +601,7 @@
   {
     	"tmdb_id": 284054,
     	"title": "Black Panther",
-    	"image": "/banner/black-panther.webp",
+    	black-panther.webp",
     	"iframe": "https://playcinematic.com/video/4izmEY5O19FNjAa",
     	"sinopsis": "T'Challa kembali ke Wakanda untuk menjadi Black Panther dan menghadapi perebutan takhta serta ancaman perang.",
     	"genre": ["Aksi", "Fiksi Ilmiah", "Petualangan"],
@@ -672,7 +611,7 @@
   {
     	"tmdb_id": 1314481,
     	"title": "The Devil Wears Prada 2",
-    	"image": "/banner/the-devil-wears-prada-2.webp",
+    	the-devil-wears-prada-2.webp",
     	"iframe": "https://playcinematic.com/video/cNXqTvfmjZBTjSv",
     	"sinopsis": "Andy kembali ke majalah Runway, Miranda hadapi dunia media baru, dan Emily berjuang menyelamatkan majalah.",
     	"genre": ["Komedi", "Drama"],
@@ -682,7 +621,7 @@
   {
     	"tmdb_id": 1558796,
     	"title": "Never Change",
-    	"image": "/banner/never-change.webp",
+    	never-change.webp",
     	"iframe": "https://playcinematic.com/video/R2m7t0yYZWOTHKW",
     	"sinopsis": "Para alumni SMA dipaksa kembali 20 tahun setelah tornado menghancurkan masa remaja mereka.",
     	"genre": ["Komedi"],
@@ -692,7 +631,7 @@
   {
     	"tmdb_id": 1397385,
     	"title": "Little Brother",
-    	"image": "/banner/little-brother.webp",
+    	little-brother.webp",
     	"iframe": "https://playcinematic.com/video/bb9ILI5JwnnY7TG",
     	"sinopsis": "Kehidupan rapi seorang agen properti kacau balau saat adik kecilnya yang penuh kekacauan muncul kembali.",
     	"genre": ["Komedi"],
@@ -702,7 +641,7 @@
   {
     	"tmdb_id": 1364137,
     	"title": "Dirty Hands",
-    	"image": "/banner/dirty-hands.webp",
+    	dirty-hands.webp",
     	"iframe": "https://playcinematic.com/video/U69BqPSnn0GZRBI",
     	"sinopsis": "Transaksi narkoba gagal di Chicago, saudara Denton harus bertahan hidup dari kejaran mafia kejam.",
     	"genre": ["Aksi", "Kejahatan", "Thriller"],
@@ -712,7 +651,7 @@
   {
     	"tmdb_id": 1649248,
     	"title": "Finding Satoshi",
-    	"image": "/banner/finding-satoshi.webp",
+    	finding-satoshi.webp",
     	"iframe": "https://playcinematic.com/video/y1jtYxIYH5mjarj",
     	"sinopsis": "Investigasi 4 tahun mengungkap jati diri Satoshi Nakamoto, pencipta Bitcoin yang ternyata hasil kerja sama dua orang.",
     	"genre": ["Dokumenter"],
@@ -722,7 +661,7 @@
   {
     	"tmdb_id": 1201457,
     	"title": "Pretty Ugly: The Story Of The Lunachicks",
-    	"image": "/banner/pretty-ugly-the-story-of-the-lunachicks.webp",
+    	pretty-ugly-the-story-of-the-lunachicks.webp",
     	"iframe": "https://playcinematic.com/video/BGuSOsB9jKn4MI0",
     	"sinopsis": "Kisah perjuangan band punk wanita Lunachicks melawan industri musik yang diskriminatif hingga reuni emosional.",
     	"genre": ["Dokumenter", "Musik"],
@@ -732,7 +671,7 @@
   {
     	"tmdb_id": 829487,
     	"title": "Je m'appelle Agneta",
-    	"image": "/banner/je-mappelle-agneta.webp",
+    	je-mappelle-agneta.webp",
     	"iframe": "https://playcinematic.com/video/NwCSBlzN4o6I1Yp",
     	"sinopsis": "Agneta kabur ke Prancis menjadi pengasuh anak, namun yang diasuhnya ternyata seorang kakek tua yang mengubah hidupnya.",
     	"genre": ["Komedi", "Drama", "Romansa"],
@@ -742,7 +681,7 @@
   {
     	"tmdb_id": 1684737,
     	"title": "Ice Apocalypse",
-    	"image": "/banner/ice-apocalypse.webp",
+    	ice-apocalypse.webp",
     	"iframe": "https://playcinematic.com/video/TG3t8G6gQGJr5ej",
     	"sinopsis": "Bulan baru muncul dan mengancam Bumi. Para ilmuwan dan militer harus menghancurkannya sebelum terlambat.",
     	"genre": ["Aksi"],
@@ -752,7 +691,7 @@
   {
     	"tmdb_id": 1400923,
     	"title": "You Always",
-    	"image": "/banner/you-always.webp",
+    	you-always.webp",
     	"iframe": "https://playcinematic.com/video/jVD5l0M01oHi2H7",
     	"sinopsis": "Kehidupan Jen berubah total dengan kedatangan seorang penulis karismatik bernama Patrick.",
     	"genre": ["Komedi", "Romansa"],
@@ -762,7 +701,7 @@
   {
     	"tmdb_id": 1669061,
     	"title": "Pasakalye",
-    	"image": "/banner/pasakalye.webp",
+    	pasakalye.webp",
     	"iframe": "https://playcinematic.com/video/VQRs4zzMXc1pZZW",
     	"sinopsis": "Persaudaraan diuji oleh kewajiban. Dua sahabat masa kecil berhadapan dalam petualangan terberat mereka.",
     	"genre": ["Aksi", "Drama", "Vivamax"],
@@ -772,7 +711,7 @@
   {
     	"tmdb_id": 1330021,
     	"title": "Remarkably Bright Creatures",
-    	"image": "/banner/remarkably-bright-creatures.webp",
+    	remarkably-bright-creatures.webp",
     	"iframe": "https://playcinematic.com/video/OODEjol4AYyQIoR",
     	"sinopsis": "Seorang janda yang kesepian menemukan kembali harapan hidup melalui persahabatan istimewa dengan seekor gurita pintar.",
     	"genre": ["Drama", "Misteri"],
@@ -782,7 +721,7 @@
   {
     	"tmdb_id": 1680818,
     	"title": "Who's Watching",
-    	"image": "/banner/who-s-watching.webp",
+    	who-s-watching.webp",
     	"iframe": "https://playcinematic.com/video/tRKYI1YuNO8eEQE",
     	"sinopsis": "Seorang pria yang terganggu secara emosional mengganggu orang lain, namun rahasia kelamnya akhirnya terungkap.",
     	"genre": ["Horor"],
@@ -792,7 +731,7 @@
   {
     	"tmdb_id": 1659169,
     	"title": "Sleeping Dog",
-    	"image": "/banner/sleeping-dog.webp",
+    	sleeping-dog.webp",
     	"iframe": "https://playcinematic.com/video/tXc2jlyr0B6zGwX",
     	"sinopsis": "Seorang mantan detektif yang kehilangan ingatan menyelidiki kembali kasus pembunuhan brutal demi mengungkap kebenaran.",
     	"genre": ["Dokumenter"],
@@ -802,7 +741,7 @@
   {
     	"tmdb_id": 1317448,
     	"title": "No Place to Be Single",
-    	"image": "/banner/no-place-to-be-single.webp",
+    	no-place-to-be-single.webp",
     	"iframe": "https://playcinematic.com/video/K7ESehtubq8qYvG",
     	"sinopsis": "Di Toskana tinggal seorang ibu tunggal bernama Elisa. Hidupnya berubah saat teman masa kecilnya kembali membawa perasaan lama.",
     	"genre": ["Komedi", "Romansa"],
@@ -812,7 +751,7 @@
   {
     	"tmdb_id": 1507975,
     	"title": "Another Man's Wife",
-    	"image": "/banner/another-mans-wife.webp",
+    	another-mans-wife.webp",
     	"iframe": "https://playcinematic.com/video/djz3W55thB3QmFo",
     	"sinopsis": "Sebuah keluarga yang tampak harmonis mulai goyah. Seorang miliarder misterius muncul dan membawa tawaran yang mengejutkan.",
     	"genre": ["Drama", "Romansa"],
@@ -822,7 +761,7 @@
   {
     	"tmdb_id": 1620034,
     	"title": "Marty, Life Is Short",
-    	"image": "/banner/marty-life-is-short.webp",
+    	marty-life-is-short.webp",
     	"iframe": "https://playcinematic.com/video/xi0PCS5ZdysyH",
     	"sinopsis": "Perjalanan hidup Martin Short yang penuh tawa, kenangan, dan kisah hangat yang menginspirasi.",
     	"genre": ["Dokumenter"],
@@ -832,7 +771,7 @@
   {
     	"tmdb_id": 1122573,
     	"title": "In the Grey",
-    	"image": "/banner/in-the-grey.webp",
+    	in-the-grey.webp",
     	"iframe": "https://playcinematic.com/video/Zfhod2E7bxd3ygN",
    		"sinopsis": "Tim operasi rahasia elit harus keluar dari persembunyian untuk menghadapi penguasa kejam yang mencuri kekayaan bernilai miliaran dolar.",
     	"genre": ["Drama", "Aksi", "Thriller"],
@@ -842,7 +781,7 @@
   {
     	"tmdb_id": 1662317,
     	"title": "The Crash",
-    	"image": "/banner/the-crash.webp",
+    	the-crash.webp",
     	"iframe": "https://playcinematic.com/video/x1FLUj9Qcp2Dpx0",
     	"sinopsis": "Seorang remaja menabrakkan mobilnya ke sebuah bangunan dan menewaskan pacarnya serta teman pacarnya. Apa yang tampak sebagai kecelakaan tragis ternyata adalah kasus pembunuhan.",
     	"genre": ["Kejahatan", "Dokumenter"],
@@ -852,7 +791,7 @@
   {
     	"tmdb_id": 1628367,
     	"title": "Kartavya",
-    	"image": "/banner/kartavya.webp",
+    	kartavya.webp",
     	"iframe": "https://playcinematic.com/video/MtOFHOnkD6FecZz",
     	"sinopsis": "Seorang pemuda pemberani melawan korupsi dan pengkhianatan demi menegakkan kehormatan keluarganya.",
     	"genre": ["Kejahatan", "Drama", "Thriller"],
@@ -862,7 +801,7 @@
   {
     	"tmdb_id": 1439930,
     	"title": "The Punisher: One Last Kill",
-    	"image": "/banner/the-punisher-one-last-kill.webp",
+    	the-punisher-one-last-kill.webp",
     	"iframe": "https://playcinematic.com/video/CM8LChU557DpyJd",
     	"sinopsis": "Frank Castle memburu para penjahat kejam demi membalas dendam atas kematian keluarganya.",
     	"genre": ["Aksi", "Petualangan", "Kejahatan", "Drama", "Thriller"],
@@ -872,7 +811,7 @@
   {
     	"tmdb_id": 1257868,
     	"title": "Couples Weekend",
-    	"image": "/banner/couples-weekend.webp",
+    	couples-weekend.webp",
     	"iframe": "https://playcinematic.com/video/Ci8TpCF0AN0sijr",
     	"sinopsis": "Liburan tahun baru bersama dua pasangan berubah menjadi mimpi buruk saat rahasia perselingkuhan dan kebohongan mulai terungkap.",
     	"genre": ["Komedi", "Drama"],
@@ -882,7 +821,7 @@
   {
     	"tmdb_id": 1622764,
     	"title": "Broad Trip",
-    	"image": "/banner/broad-trip.webp",
+    	broad-trip.webp",
     	"iframe": "https://playcinematic.com/video/7ubq8zQM49eYYEI",
     	"sinopsis": "Empat sahabat melakukan perjalanan jauh melintasi kota, namun rahasia dan kekacauan mengubah liburan mereka menjadi hal yang tak terduga.",
     	"genre": ["Komedi", "Drama"],
@@ -892,7 +831,7 @@
   {
     	"tmdb_id": 1630423,
     	"title": "My Dearest Assassin",
-    	"image": "/banner/my-dearest-assassin.webp",
+    	my-dearest-assassin.webp",
     	"iframe": "https://playcinematic.com/video/aTbaAbxVvID9Pc7",
     	"sinopsis": "Seorang gadis dengan darah yang langka diburu oleh musuh, lalu dilatih oleh keluarga pembunuh untuk membalas dendam.",
     	"genre": ["Aksi", "Drama", "Romansa", "Thriller"],
@@ -902,7 +841,7 @@
   {
     	"tmdb_id": 1007757,
     	"title": "Swapped",
-    	"image": "/banner/swapped.webp",
+    	swapped.webp",
     	"iframe": "https://playcinematic.com/video/uYsnadxeigC6US2",
     	"sinopsis": "Dua hewan yang saling bermusuhan bertukar tubuh dan harus bekerja sama untuk bertahan hidup.",
     	"genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fantasi"],
@@ -912,7 +851,7 @@
   {
     	"tmdb_id": 1414413,
     	"title": "Brothers Under Fire",
-    	"image": "/banner/brothers-under-fire.webp",
+    	brothers-under-fire.webp",
     	"iframe": "https://playcinematic.com/video/mytYHNPFkOvDZTX",
     	"sinopsis": "Dua saudara yang terpisah akibat perang harus bersatu untuk bertahan hidup dan menyelamatkan keluarga mereka.",
     	"genre": ["Aksi", "Misteri", "Drama", "Thriller"],
@@ -922,7 +861,7 @@
   {
     	"tmdb_id": 1226863,
     	"title": "The Super Mario Galaxy Movie",
-    	"image": "/banner/the-super-mario-galaxy-movie.webp",
+    	the-super-mario-galaxy-movie.webp",
     	"iframe": "https://playcinematic.com/video/bNRDabIGvk22A63",
     	"sinopsis": "Mario menjelajahi galaksi untuk menghentikan ancaman dari luar angkasa yang membahayakan seluruh dunia.",
     	"genre": ["Petualangan", "Animasi", "Komedi", "Keluarga", "Fantasi"],
@@ -932,7 +871,7 @@
   {
     	"tmdb_id": 949536,
     	"title": "Kill Code",
-    	"image": "/banner/kill-code.webp",
+    	kill-code.webp",
     	"iframe": "https://playcinematic.com/video/XvTGf69O45QGnA9",
     	"sinopsis": "Sebuah program pembunuh rahasia lepas kendali, memaksa seorang agen terbaik bertindak untuk menghentikannya.",
     	"genre": ["Aksi", "Fiksi Ilmiah", "Thriller"],
@@ -942,7 +881,7 @@
   {
     	"tmdb_id": 1339713,
     	"title": "Obsession",
-    	"image": "/banner/obsession.webp",
+    	obsession.webp",
     	"iframe": "https://playcinematic.com/video/y9nDE94jgFv5AwO",
     	"sinopsis": "Seorang pria yang putus asa mematahkan ranting pohon ajaib demi memenangkan hati wanita yang dicintainya.",
     	"genre": ["Horor", "Thriller"],
@@ -952,7 +891,7 @@
   {
     	"tmdb_id": 1416391,
     	"title": "Toaster",
-    	"image": "/banner/toaster.webp",
+    	toaster.webp",
     	"iframe": "https://playcinematic.com/video/Ec50bvqD3dqcntH",
     	"sinopsis": "Seorang pria yang pelit terobsesi mengambil kembali pemanggang roti miliknya, yang ternyata memicu rangkaian pembunuhan dan kekacauan.",
     	"genre": ["Komedi", "Drama", "Thriller"],
@@ -962,7 +901,7 @@
   {
     	"tmdb_id": 1444249,
     	"title": "The Highest Stakes",
-    	"image": "/banner/the-highest-stakes.webp",
+    	the-highest-stakes.webp",
     	"iframe": "https://playcinematic.com/video/7pb4G4FRQy756fb",
     	"sinopsis": "Di dunia perjudian elit yang penuh bahaya, seorang pemuda mempertaruhkan segalanya demi membalas dendam.",
     	"genre": ["Thriller"],
@@ -972,7 +911,7 @@
   {
     	"tmdb_id": 1292415,
     	"title": "Beast",
-    	"image": "/banner/beast.webp",
+    	beast.webp",
     	"iframe": "https://playcinematic.com/video/jBo1Uqq4AWzHklh",
     	"sinopsis": "Seorang pria terjebak di tengah kekacauan kota saat makhluk mengerikan yang tak dikenal mulai memangsa manusia tanpa ampun.",
     	"genre": ["Aksi", "Drama"],
@@ -982,7 +921,7 @@
   {
     	"tmdb_id": 1641319,
     	"title": "Sniper: No Nation",
-    	"image": "/banner/sniper-no-nation.webp",
+    	sniper-no-nation.webp",
     	"iframe": "https://playcinematic.com/video/pCoXwWUyHjZnWK1",
     	"sinopsis": "Dituduh sebagai teroris, Brandon Beckett dan ayahnya melawan pasukan tentara bayaran dalam misi penyelamatan yang mustahil.",
     	"genre": ["Aksi", "Thriller"],
@@ -992,7 +931,7 @@
   {
     	"tmdb_id": 1243741,
     	"title": "Ballistic",
-    	"image": "/banner/ballistic.webp",
+    	ballistic.webp",
     	"iframe": "https://playcinematic.com/video/Pv7b7cWEiqzbYZT",
     	"sinopsis": "Ibu tentara mengetahui peluru pembunuh anaknya dibuat di pabrik tempatnya bekerja, ia pun menuntut balas.",
     	"genre": ["Drama", "Thriller"],
@@ -1002,7 +941,7 @@
   {
     	"tmdb_id": 1398050,
     	"title": "Driver's Ed",
-    	"image": "/banner/drivers-ed.webp",
+    	drivers-ed.webp",
     	"iframe": "https://playcinematic.com/video/rV27dmVj4XOOSDF",
     	"sinopsis": "Sekelompok remaja mencuri mobil kursus mengemudi, lalu petualangan liar, cinta, dan kejaran polisi mengubah hidup mereka.",
     	"genre": ["Komedi"],
@@ -1012,7 +951,7 @@
   {
     	"tmdb_id": 1159831,
     	"title": "The Bride",
-    	"image": "/banner/the-bride.webp",
+    	the-bride.webp",
     	"iframe": "https://playcinematic.com/video/gp3L9BdjShG4lCb",
     	"sinopsis": "Frankenstein mencari pasangan hidup dan membangkitkan seorang wanita, memicu konsekuensi tak terduga.",
     	"genre": ["Fantasi", "Horor", "Fiksi Ilmiah"],
@@ -1022,7 +961,7 @@
   {
     	"tmdb_id": 669356,
     	"title": "You Can't Win",
-    	"image": "/banner/you-cant-win.webp",
+    	you-cant-win.webp",
     	"iframe": "https://playcinematic.com/video/So3bqoIFKY2sgXs",
     	"sinopsis": "Kisah nyata Jack Black, penjahat legendaris yang memoarnya menginspirasi generasi penulis kontra budaya.",
     	"genre": ["Drama"],
@@ -1032,7 +971,7 @@
   {
     	"tmdb_id": 1265609,
     	"title": "War Machine",
-    	"image": "/banner/war-machine.webp",
+    	war-machine.webp",
     	"iframe": "https://playcinematic.com/video/eB9lAsGBrX8HkWZ",
     	"sinopsis": "Seorang insinyur tempur memimpin pasukannya melawan mesin pembunuh raksasa dari dunia lain.",
     	"genre": ["Aksi", "Fiksi Ilmiah", "Thriller"],
@@ -1042,7 +981,7 @@
   {
     	"tmdb_id": 1010755,
     	"title": "The Strangers: Chapter 3",
-    	"image": "/banner/the-strangers-chapter-3.webp",
+    	the-strangers-chapter-3.webp",
     	"iframe": "https://playcinematic.com/video/EvK2HjJdbltRGkp",
     	"sinopsis": "Maya dan para Stranger menuju pertarungan tak terhindarkan yang menguji ikatan dan nasib mereka.",
     	"genre": ["Horor", "Thriller"],
@@ -1052,7 +991,7 @@
   {
     	"tmdb_id": 1009680,
     	"title": "Super Miss Saves The Jungle",
-    	"image": "/banner/super-miss-saves-the-jungle.webp",
+    	super-miss-saves-the-jungle.webp",
     	"iframe": "https://playcinematic.com/video/x9WbZR2wWhkvzmS",
     	"sinopsis": "Super Miss berpetualang ke Amerika Selatan untuk menyelamatkan habitat burung beo dari pembangunan.",
     	"genre": ["Keluarga"],
@@ -1062,7 +1001,7 @@
   {
     	"tmdb_id": 1198994,
     	"title": "Send Help",
-    	"image": "/banner/send-help.webp",
+    	send-help.webp",
     	"iframe": "https://playcinematic.com/video/rAVAA6TRUYPXZ8c",
     	"sinopsis": "Dua rekan kerja yang selamat dari kecelakaan pesawat harus bekerja sama demi bertahan hidup di pulau terpencil.",
     	"genre": ["Komedi", "Horor", "Thriller"],
@@ -1072,7 +1011,7 @@
   {
     	"tmdb_id": 1361774,
     	"title": "The Dink",
-    	"image": "/banner/the-dink.webp",
+    	the-dink.webp",
     	"iframe": "https://playcinematic.com/video/4ymNQyiMbI0FAb1",
     	"sinopsis": "Mantan petenis gagal beralih ke pickleball demi menyelamatkan klub dan meraih pengakuan ayahnya.",
     	"genre": ["Komedi"],
@@ -1082,7 +1021,7 @@
   {
     	"tmdb_id": 1723460,
     	"title": "A Toxic Love Story",
-    	"image": "/banner/a-toxic-love-story.webp",
+    	a-toxic-love-story.webp",
     	"iframe": "https://playcinematic.com/video/mIt0sv2XpdGMdYh",
     	"sinopsis": "Email ancaman memicu rencana balas dendam yang menyeret seorang marshal AS dan mantan kekasihnya.",
     	"genre": ["Dokumenter"],
@@ -1092,7 +1031,7 @@
   {
     	"tmdb_id": 1659155,
     	"title": "The Truthers",
-    	"image": "/banner/the-truthers.webp",
+    	the-truthers.webp",
     	"iframe": "https://playcinematic.com/video/6oZ7oSmYCLjnNP9",
     	"sinopsis": "Setelah ibunya meninggal, Ruth pulang kampung dan mulai mencurigai ayahnya menyimpan rahasia kelam.",
     	"genre": ["Drama", "Misteri", "Thriller"],
@@ -1102,7 +1041,7 @@
   {
     	"tmdb_id": 1699155,
     	"title": "Maternal Instinct",
-    	"image": "/banner/maternal-instinct.webp",
+    	maternal-instinct.webp",
     	"iframe": "https://playcinematic.com/video/zCOW2sEwc4jorSl",
     	"sinopsis": "Pengakuan seorang wanita tentang bayi yang bukan miliknya mengungkap kebohongan dalam kasus kriminal nyata.",
     	"genre": ["Kejahatan", "Dokumenter"],
@@ -1112,7 +1051,7 @@
   {
     	"tmdb_id": 1510795,
     	"title": "Shake Rattle Roll: Evil Origins",
-    	"image": "/banner/shake-rattle-roll-evil-origins.webp",
+    	shake-rattle-roll-evil-origins.webp",
     	"iframe": "https://playcinematic.com/video/ihoFemQftPZcRpz",
     	"sinopsis": "Tiga era berbeda terhubung oleh teror supranatural yang mengancam Filipina dari masa ke masa.",
     	"genre": ["Horor"],
@@ -1122,7 +1061,7 @@
   {
     	"tmdb_id": 1159559,
     	"title": "Scream 7",
-    	"image": "/banner/scream-7.webp",
+    	scream-7.webp",
     	"iframe": "https://playcinematic.com/video/xjyyE1Grbk2OHYd",
     	"sinopsis": "Sidney Prescott kembali menghadapi Ghostface demi melindungi putrinya dari teror pembunuh baru.",
     	"genre": ["Kejahatan", "Horor", "Misteri"],
@@ -1132,7 +1071,7 @@
   {
     	"tmdb_id": 1713962,
     	"title": "Night Of Blood",
-    	"image": "/banner/night-of-blood.webp",
+    	night-of-blood.webp",
     	"iframe": "https://playcinematic.com/video/PWxf9bX5akH35Xx",
     	"sinopsis": "Enam orang ikut tantangan hotel berhantu, menghadapi teror supranatural yang nyata.",
     	"genre": ["Horor"],
@@ -1142,7 +1081,7 @@
   {
     	"tmdb_id": 1715543,
     	"title": "A Sense Of Dread",
-    	"image": "/banner/a-sense-of-dread.webp",
+    	a-sense-of-dread.webp",
     	"iframe": "https://playcinematic.com/video/BlUBG6hG3U8crSW",
     	"sinopsis": "Empat pria di pos ilmiah terpencil mengungkap rahasia kelam dan ancaman misterius global.",
     	"genre": ["Horor"],
@@ -1152,7 +1091,7 @@
   {
     	"tmdb_id": 1016024,
     	"title": "Kalevala: The Story Of Kullervo",
-    	"image": "/banner/kalevala-the-story-of-kullervo.webp",
+    	kalevala-the-story-of-kullervo.webp",
     	"iframe": "https://playcinematic.com/video/ZOhrEyiNT5xQqag",
     	"sinopsis": "Kullervo, yatim piatu korban pembantaian suku, menjadi budak lalu membalas dendam pada pembunuh keluarganya.",
     	"genre": ["Drama", "Fantasi", "Sejarah"],
@@ -1162,7 +1101,7 @@
   {
     	"tmdb_id": 1589248,
     	"title": "My Best Friend, His Girlfriend and Me",
-    	"image": "/banner/my-best-friend-his-girlfriend-and-me.webp",
+    	my-best-friend-his-girlfriend-and-me.webp",
     	"iframe": "https://playcinematic.com/video/FYHLdRnFBVPmPUs",
     	"sinopsis": "Persahabatan Olli dan Matze terancam saat cinta Matze pada Rebecca mengubah segalanya.",
     	"genre": ["Komedi"],
@@ -1172,7 +1111,7 @@
   {
     	"tmdb_id": 1491920,
     	"title": "Kung Fu Soccer",
-    	"image": "/banner/kung-fu-soccer.webp",
+    	kung-fu-soccer.webp",
     	"iframe": "https://player.abyssplayer.com/4VTPzfQnl",
     	"sinopsis": "Tim Emei yang dipimpin kapten Shuangshuang ambil bagian dalam Liga Champions Wanita Asia.",
     	"genre": ["Aksi", "Komedi", "Olahraga"],
@@ -1182,7 +1121,7 @@
   {
     	"tmdb_id": 1318447,
     	"title": "Apex",
-    	"image": "/banner/apex.webp",
+    	apex.webp",
     	"iframe": "https://playcinematic.com/video/nwS4wWxzB24U6Xy",
     	"sinopsis": "Pendaki diburu pembunuh sadis di hutan Australia, bertahan hidup menjadi taruhan nyawanya.",
     	"genre": ["Aksi", "Thriller"],
@@ -1192,7 +1131,7 @@
   {
     	"tmdb_id": 1081003,
     	"title": "Supergirl",
-   		"image": "/banner/supergirl.webp",
+   		supergirl.webp",
     	"iframe": "https://playcinematic.com/video/ws88oRM5Y9JIN2u",
     	"sinopsis": "Supergirl memulai misi balas dendam lintas galaksi demi menegakkan keadilan dan melindungi orang terdekat.",
     	"genre": ["Aksi", "Petualangan", "Fiksi Ilmiah"],
@@ -1202,7 +1141,7 @@
   {
     	"tmdb_id": 1481343,
     	"title": "The Devils Mouth",
-    	"image": "/banner/the-devils-mouth.webp",
+    	the-devils-mouth.webp",
     	"iframe": "https://playcinematic.com/video/QtWiaSuDNQHbyes",
     	"sinopsis": "Liburan di Thailand berubah jadi mimpi buruk saat sekelompok mahasiswa terjebak dengan predator mematikan.",
     	"genre": ["Horor", "Thriller"],
@@ -1212,7 +1151,7 @@
   {
     	"tmdb_id": 931285,
     	"title": "Mortal Kombat II",
-    	"image": "/banner/mortal-kombat-ii.webp",
+    	mortal-kombat-ii.webp",
     	"iframe": "https://playcinematic.com/video/lHm3mylQFP1RPJF",
     	"sinopsis": "Johnny Cage dan para juara bertarung melawan Shao Kahn demi menyelamatkan Earthrealm.",
     	"genre": ["Aksi", "Petualangan", "Fantasi"],
@@ -1222,7 +1161,7 @@
   {
     	"tmdb_id": 1380291,
     	"title": "Jack Ryan Ghost War",
-    	"image": "/banner/jack-ryan-ghost-war.webp",
+    	jack-ryan-ghost-war.webp",
     	"iframe": "https://playcinematic.com/video/XvA78KjwZNRpLhi",
     	"sinopsis": "Jack Ryan kembali beraksi untuk menggagalkan konspirasi mematikan dan unit operasi gelap berbahaya.",
     	"genre": ["Aksi", "Thriller"],
@@ -1232,7 +1171,7 @@
   {
     	"tmdb_id": 1428299,
     	"title": "Achilles Returns",
-    	"image": "/banner/achilles-returns.webp",
+    	achilles-returns.webp",
     	"iframe": "https://playcinematic.com/video/A29mxH9nl0sd1cL",
     	"sinopsis": "Achilles dibebaskan dari Dunia Bawah dan harus beradaptasi dengan kehidupan di dunia modern.",
     	"genre": ["Aksi", "Fantasi", "Romansa"],
@@ -1242,7 +1181,7 @@
   {
     	"tmdb_id": 454639,
     	"title": "Masters Of The Universe",
-    	"image": "/banner/masters-of-the-universe.webp",
+    	masters-of-the-universe.webp",
     	"iframe": "https://playcinematic.com/video/Udd2dhdkMrrnoTj",
     	"sinopsis": "Pangeran Adam kembali ke Eternia dan harus menjadi He-Man untuk mengalahkan Skeletor.",
     	"genre": ["Aksi", "Fantasi", "Fiksi Ilmiah"],
@@ -1252,7 +1191,7 @@
   {
     	"tmdb_id": 1707808,
     	"title": "NASCAR vs. Navy: The San Diego Mini Movie",
-    	"image": "/banner/the-san-diego-mini-movie.webp",
+    	the-san-diego-mini-movie.webp",
     	"iframe": "https://playcinematic.com/video/1z1V14lbiKpSJNb",
     	"sinopsis": "Pembalap NASCAR dan pilot Angkatan Laut bersaing dalam tantangan demi mewujudkan balapan unik.",
     	"genre": ["Aksi"],
@@ -1262,7 +1201,7 @@
   {
     	"tmdb_id": 1587964,
     	"title": "They Fight",
-    	"image": "/banner/they-fight.webp",
+    	they-fight.webp",
     	"iframe": "https://playcinematic.com/video/MKcFlSfCoa2qtTq",
     	"sinopsis": "Mantan narapidana membimbing petinju muda mengejar impian dan kesempatan mengubah hidup mereka.",
     	"genre": ["Aksi", "Drama"],
@@ -1272,7 +1211,7 @@
   {
     	"tmdb_id": 1541560,
     	"title": "Stop That Train",
-    	"image": "/banner/stop-that-train.webp",
+    	stop-that-train.webp",
     	"iframe": "https://playcinematic.com/video/h1FIFUeEfp5bSvH",
     	"sinopsis": "Dua pramugari kereta dan sekutunya berjuang menyelamatkan kereta cepat dari bencana besar.",
     	"genre": ["Aksi", "Komedi"],
@@ -1282,7 +1221,7 @@
   {
     	"tmdb_id": 1227241,
     	"title": "Maa Inti Bangaaram",
-    	"image": "/banner/maa-inti-bangaram.webp",
+    	maa-inti-bangaram.webp",
     	"iframe": "https://playcinematic.com/video/EtMfQ0dhIVA4ysm",
     	"sinopsis": "Seorang wanita belajar bahwa menerima kelemahan diri adalah kunci kekuatan menghadapi hidup.",
     	"genre": ["Aksi", "Drama", "Thriller"],
@@ -1292,7 +1231,7 @@
   {
     	"tmdb_id": 1630409,
     	"title": "The Debt Collector",
-    	"image": "/banner/the-debt-collector.webp",
+    	the-debt-collector.webp",
     	"iframe": "https://playcinematic.com/video/L5rfArtSNTOmZcB",
     	"sinopsis": "Mantan penagih utang kembali ke dunia kriminal untuk melindungi korban organisasi kekerasan.",
     	"genre": ["Aksi", "Kejahatan", "Thriller"],
@@ -1302,7 +1241,7 @@
   {
     	"tmdb_id": 1382832,
     	"title": "Hungry",
-    	"image": "/banner/hungry.webp",
+    	hungry.webp",
     	"iframe": "https://playcinematic.com/video/xtgk0mYuqrDh1lJ",
     	"sinopsis": "Sekelompok wisatawan harus bertahan hidup dari amukan kuda nil buas di rawa-rawa Louisiana.",
     	"genre": ["Horor", "Thriller"],
@@ -1312,7 +1251,7 @@
   {
     	"tmdb_id": 1642887,
     	"title": "Maid Robot",
-    	"image": "/banner/maid-robot.webp",
+    	maid-robot.webp",
     	"iframe": "https://playcinematic.com/video/lIwlKjZ9loX0lJr",
     	"sinopsis": "Pengembang robot terancam saat robot pelayannya menjadi terlalu cerdas dan semakin mirip manusia.",
     	"genre": ["Fiksi Ilmiah", "Thriller"],
@@ -1322,7 +1261,7 @@
   {
     	"tmdb_id": 1212461,
     	"title": "Obex",
-    	"image": "/banner/obex.webp",
+    	obex.webp",
     	"iframe": "https://playcinematic.com/video/7br7D9CC0f1prjX",
     	"sinopsis": "Saat anjingnya hilang, Conor memasuki dunia gim misterius yang mulai menyatu dengan kenyataan.",
     	"genre": ["Petualangan", "Fantasi", "Horor"],
@@ -1332,7 +1271,7 @@
   {
     	"tmdb_id": 1559628,
     	"title": "Anaconda Blood Coil",
-    	"image": "/banner/anaconda-blood-coil.webp",
+    	anaconda-blood-coil.webp",
     	"iframe": "https://playcinematic.com/video/hsuA6QtfO4ILINj",
     	"sinopsis": "Sekelompok sahabat diteror ular anaconda raksasa saat liburan yang berubah menjadi mimpi buruk.",
     	"genre": ["Horor"],
@@ -1342,7 +1281,7 @@
   {
     	"tmdb_id": 680493,
     	"title": "Return To Silent Hill",
-    	"image": "/banner/return-to-silent-hill.webp",
+    	return-to-silent-hill.webp",
     	"iframe": "https://playcinematic.com/video/uWKFwX7kTdY61HJ",
     	"sinopsis": "James ke Silent Hill mencari Mary, menghadapi monster dan rahasia yang menguji kewarasannya.",
     	"genre": ["Drama", "Horor", "Misteri"],
@@ -1352,7 +1291,7 @@
   {
     	"tmdb_id": 1484913,
     	"title": "Ikka",
-    	"image": "/banner/ikka.webp",
+    	ikka.webp",
     	"iframe": "https://playcinematic.com/video/pDqvXbrogzJdZab",
     	"sinopsis": "Pengacara ternama harus membela tersangka yang ia curigai bersalah demi menyelamatkan nyawa orang tercinta.",
     	"genre": ["Drama", "Thriller"],
@@ -1362,7 +1301,7 @@
   {
     	"tmdb_id": 1272837,
     	"title": "28 Years Later The Bone Temple",
-    	"image": "/banner/28-years-later-the-bone-temple.webp",
+    	28-years-later-the-bone-temple.webp",
     	"iframe": "https://playcinematic.com/video/txjOrVONNGlWyov",
     	"sinopsis": "Dr. Kelson terjebak hubungan berbahaya, Spike dihantui mimpi buruk bersama Jimmy Crystal.",
     	"genre": ["Fiksi Ilmiah", "Horor", "Thriller"],
@@ -1372,7 +1311,7 @@
   {
     	"tmdb_id": 1631208,
     	"title": "Sunset Strip Killers",
-   		"image": "/banner/sunset-strip-killers.webp",
+   		sunset-strip-killers.webp",
     	"iframe": "https://playcinematic.com/video/xnwxSZ7vTKMeLrx",
     	"sinopsis": "Di Los Angeles tahun 1980-an, seorang perawat jatuh cinta pada pembunuh dan terjerat kejahatan berdarah.",
     	"genre": ["Kejahatan", "Horor", "Thriller"],
@@ -1382,7 +1321,7 @@
   {
     	"tmdb_id": 1057265,
     	"title": "Peddi",
-    	"image": "/banner/peddi.webp",
+    	peddi.webp",
     	"iframe": "https://playcinematic.com/video/qQKZFnZwuQc6uOJ",
     	"sinopsis": "Di desa tersembunyi, seorang pemuda memanfaatkan bakat atletiknya demi memperjuangkan hak rakyatnya.",
     	"genre": ["Aksi", "Drama"],
@@ -1392,7 +1331,7 @@
   {
     	"tmdb_id": 1279493,
     	"title": "The Get Out",
-    	"image": "/banner/the-get-out.webp",
+    	the-get-out.webp",
     	"iframe": "https://playcinematic.com/video/hMfwy13ZBK67nys",
     	"sinopsis": "Pemilik klub malam terjebak dalam jaringan kartel, pengkhianatan, dan ancaman maut saat mencoba pensiun.",
     	"genre": ["Aksi", "Thriller"],
@@ -1402,7 +1341,7 @@
   {
     	"tmdb_id": 1628071,
     	"title": "Ip Man Kung Fu Legend",
-    	"image": "/banner/ip-man-kung-fu-legend.webp",
+    	ip-man-kung-fu-legend.webp",
     	"iframe": "https://playcinematic.com/video/hploPrq0D7D2NQJ",
     	"sinopsis": "Ip Man menentang triad Hong Kong tahun 1950-an, dijebak, dipenjara, dan harus bertahan dari jebakan mematikan.",
     	"genre": ["Aksi"],
@@ -1412,7 +1351,7 @@
   {
     	"tmdb_id": 1554882,
     	"title": "Nothing to Lose",
-    	"image": "/banner/nothing-to-lose.webp",
+    	nothing-to-lose.webp",
     	"iframe": "https://playcinematic.com/video/Y4niY8Xj6EL8QRe",
     	"sinopsis": "Jada rela berkorban apa pun demi putranya, mencari donor yang tepat untuk menyelamatkan nyawanya.",
     	"genre": ["Aksi", "Drama"],
@@ -1422,7 +1361,7 @@
   {
     	"tmdb_id": 1705729,
     	"title": "Man Of War",
-    	"image": "/banner/man-of-war.webp",
+    	man-of-war.webp",
     	"iframe": "https://playcinematic.com/video/5RI7uRER4RZG0JJ",
     	"sinopsis": "Mantan Navy SEAL menembus zona perang Ukraina demi menyelamatkan pekerja bantuan yang hilang.",
     	"genre": ["Aksi", "Thriller", "Perang"],
@@ -1432,7 +1371,7 @@
   {
     	"tmdb_id": 1560681,
     	"title": "Colors of Evil: Black",
-    	"image": "/banner/colors-of-evil-black.webp",
+    	colors-of-evil-black.webp",
     	"iframe": "https://playcinematic.com/video/LFlMciFnd6QpcVp",
     	"sinopsis": "Jaksa Bilski menyelidiki hilangnya anak-anak dan menghadapi legenda kelam di sebuah kota terpencil di Polandia.",
     	"genre": ["Misteri", "Thriller", "Kejahatan"],
@@ -1442,7 +1381,7 @@
   {
     	"tmdb_id": 1501018,
     	"title": "Une Famille De Batards",
-    	"image": "/banner/une-famille-de-batards.webp",
+    	une-famille-de-batards.webp",
     	"iframe": "https://playcinematic.com/video/DPMrzv2PIfMDQ66",
     	"sinopsis": "Setelah ayahnya wafat, Mohamed dan saudara tirinya mewarisi bar yang penuh masalah kriminal, narkoba, dan prostitusi.",
     	"genre": ["Komedi", "Kejahatan"],
@@ -1452,7 +1391,7 @@
   {
     	"tmdb_id": 1477317,
     	"title": "Your Fault London",
-    	"image": "/banner/your-fault-london.webp",
+    	your-fault-london.webp",
     	"iframe": "https://playcinematic.com/video/yh56LQ2u3RMTIhx",
     	"sinopsis": "Nick dan Noah menjalani hidup baru yang penuh godaan, rahasia, dan pengkhianatan yang menguji ikatan mereka.",
     	"genre": ["Drama", "Romansa"],
@@ -1462,7 +1401,7 @@
   {
     	"tmdb_id": 1290821,
     	"title": "Shelter",
-    	"image": "/banner/shelter.webp",
+    	shelter.webp",
     	"iframe": "https://playcinematic.com/video/AXeGazyIhuMmqO8",
     	"sinopsis": "Seorang pria di pulau terpencil menyelamatkan gadis kecil dari badai, yang ternyata memicu ancaman dari masa lalunya.",
     	"genre": ["Aksi", "Kejahatan", "Thriller"],
@@ -1472,7 +1411,7 @@
   {
     	"tmdb_id": 1473878,
     	"title": "Speed Demon",
-    	"image": "/banner/speed-demon.webp",
+    	speed-demon.webp",
     	"iframe": "https://playcinematic.com/video/9z0n5atsDTNWawb",
     	"sinopsis": "Di atas kereta cepat, seorang biarawati yang kehilangan iman harus melakukan eksorsisme pertama pada penumpang yang kerasukan dan berniat menabrakkan kereta.",
     	"genre": ["Horor"],
@@ -1482,7 +1421,7 @@
   {
     	"tmdb_id": 614945,
     	"title": "Voicemails For Isabelle",
-    	"image": "/banner/voicemail.webp",
+    	voicemail.webp",
     	"iframe": "https://playcinematic.com/video/MAjVvj7vlKJQPi1",
     	"sinopsis": "Pesan suara penuh kasih seorang wanita untuk mendiang saudaranya keliru terkirim kepada orang asing, yang diam-diam mulai jatuh cinta dari kejauhan.",
     	"genre": ["Komedi", "Romansa"],
@@ -1492,7 +1431,7 @@
   {
     	"tmdb_id": 1325614,
     	"title": "Badland Rising",
-    	"image": "/banner/badland-rising.webp",
+    	badland-rising.webp",
     	"iframe": "https://playcinematic.com/video/QoVHgi0PbVdmZnM",
     	"sinopsis": "Seorang pria biasa diserang dua penjahat brutal dalam perjalanan pulang sejauh 19 jam. Ia harus bertahan hidup demi keluarganya.",
     	"genre": ["Aksi", "Kejahatan"],
@@ -1502,7 +1441,7 @@
   {
     	"tmdb_id": 1451344,
     	"title": "Husbands in Action (남편들)",
-    	"image": "/banner/husbands-in-action.webp",
+    	husbands-in-action.webp",
     	"iframe": "https://playcinematic.com/video/dXJtMh3ks6R8ZVo",
     	"sinopsis": "Seorang detektif dan mantan suami istrinya bekerja sama mengejar penculik. Bisakah pasangan unik ini bekerja sama?",
     	"genre": ["Aksi", "Komedi"],
@@ -1512,7 +1451,7 @@
   {
     	"tmdb_id": 1688157,
     	"title": "Scissors",
-    	"image": "/banner/scissors.webp",
+    	scissors.webp",
     	"iframe": "https://playcinematic.com/video/guxEMYDk8wnkHVQ",
     	"sinopsis": "Karina pindah ke ibu kota setelah diselingkuhi kekasihnya. Ketika mantan kembali, hatinya pun terbagi.",
     	"genre": ["Drama", "Vivamax"],
@@ -1522,7 +1461,7 @@
   {
     	"tmdb_id": 1669057,
     	"title": "Check In",
-    	"image": "/banner/check-in.webp",
+    	check-in.webp",
    		"iframe": "https://playcinematic.com/video/cDfqj7KBX25nOg6",
     	"sinopsis": "Aliya Raymundo dan Anya Austria bekerja sebagai resepsionis di motel murah. Kedatangan tamu misterius memicu konflik besar.",
     	"genre": ["Drama", "Vivamax"],
@@ -1532,7 +1471,7 @@
   {
     	"tmdb_id": 980431,
     	"title": "Avatar Aang: The Last Airbender",
-    	"image": "/banner/avatar-aang-the-last-airbender.webp",
+    	avatar-aang-the-last-airbender.webp",
     	"iframe": "https://playcinematic.com/video/no38hMkE8FXoI3b",
     	"sinopsis": "Aang yang telah dewasa dan kawan-kawannya menjelajahi dunia demi menemukan kekuatan kuno sebelum direbut oleh musuh.",
     	"genre": ["Aksi", "Petualangan", "Animasi", "Fantasi"],
@@ -1542,7 +1481,7 @@
   {
     	"tmdb_id": 1291335,
     	"title": "Solo Mio",
-    	"image": "/banner/solo-mio.webp",
+    	solo-mio.webp",
     	"iframe": "https://playcinematic.com/video/RWDmZtFfnvfaGAz",
     	"sinopsis": "Ditinggal di altar pernikahan, Matt melakukan perjalanan bulan madu sendirian ke Italia, menikmati kuliner dan bertemu Gia.",
     	"genre": ["Komedi", "Romansa"],
@@ -1552,7 +1491,7 @@
   {
     	"tmdb_id": 840464,
     	"title": "Greenland 2: Migration",
-    	"image": "/banner/greenland-2-migration.webp",
+    	greenland-2-migration.webp",
     	"iframe": "https://playcinematic.com/video/ULzO2rASfFu2JrG",
     	"sinopsis": "Setelah selamat dari komet Clarke, keluarga Garrity menyeberangi Eropa yang hancur demi mencari rumah baru.",
     	"genre": ["Petualangan", "Fiksi Ilmiah", "Thriller"],
@@ -1562,7 +1501,7 @@
   {
     	"tmdb_id": 1034716,
     	"title": "People We Meet On Vacation",
-    	"image": "/banner/people-we-meet-on-vacation.webp",
+    	people-we-meet-on-vacation.webp",
     	"iframe": "https://playcinematic.com/video/JdPn90c61ZaemHi",
     	"sinopsis": "Poppy yang jiwanya bebas dan Alex yang penuh perencanaan sering berlibur bersama. Mungkinkah mereka berjodoh?",
     	"genre": ["Komedi", "Drama", "Romansa"],
@@ -1572,7 +1511,7 @@
   {
     	"tmdb_id": 1656640,
     	"title": "Black Men Don't Cheat 3: Outplayed",
-    	"image": "/banner/black-men-dont-cheat-3-outplayed.webp",
+    	black-men-dont-cheat-3-outplayed.webp",
     	"iframe": "https://playcinematic.com/video/6Nv0hu4FybK8YNO",
     	"sinopsis": "Kepercayaan bahwa pria kulit hitam tidak pernah berselingkuh terbantahkan ketika kebohongan terungkap dan menyeret semua orang.",
     	"genre": ["Drama"],
@@ -1582,7 +1521,7 @@
   {
     	"tmdb_id": 1592021,
     	"title": "Lost In Paradise",
-    	"image": "/banner/lost-in-paradise.webp",
+    	lost-in-paradise.webp",
     	"iframe": "https://playcinematic.com/video/byTHAYj56qbFF5R",
     	"sinopsis": "Terdampar di pulau terpencil bersama seorang koki berbakat, benih cinta mulai tumbuh pada pemilik perusahaan mode.",
     	"genre": ["Komedi", "Romansa", "Film TV"],
@@ -1592,7 +1531,7 @@
   {
     	"tmdb_id": 1591582,
     	"title": "Best Served Cold",
-   		"image": "/banner/best-served-cold.webp",
+   		best-served-cold.webp",
     	"iframe": "https://playcinematic.com/video/ESYKxobcHN9ndE0",
     	"sinopsis": "Tur kuliner Gwen dan Moira di Chili berujung petaka ketika mereka terjebak di sebuah resor terpencil milik sekte kanibal.",
     	"genre": ["Horor", "Thriller"],
@@ -1602,7 +1541,7 @@
   {
     	"tmdb_id": 1609104,
     	"title": "Love in the Countryside",
-    	"image": "/banner/love-in-the-countryside.webp",
+    	love-in-the-countryside.webp",
     	"iframe": "https://playcinematic.com/video/0SF3SPWSTLaEwbY",
     	"sinopsis": "Dihukum ayahnya, Ana dikirim ke desa untuk hidup sederhana. Hidupnya berubah total tanpa internet dan fasilitas kota.",
     	"genre": ["Komedi", "Romansa"],
@@ -1612,7 +1551,7 @@
   {
     	"tmdb_id": 1196946,
     	"title": "Ikkis",
-    	"image": "/banner/ikkis.webp",
+    	ikkis.webp",
     	"iframe": "https://playcinematic.com/video/Te1zc22IgY4z2ls",
     	"sinopsis": "Kisah Arun Khetarpal yang gugur dalam perang tahun 1971, dan bagaimana ayahnya mengenang pengorbanannya saat bertemu kembali di Pakistan.",
     	"genre": ["Drama", "Sejarah", "Perang"],
@@ -1622,7 +1561,7 @@
   {
     	"tmdb_id": 1597608,
    		"title": "Ainsley McGregor Mysteries: A Case For The Watchmaker",
-    	"image": "/banner/ainsley-mcgregor-mysteries-a-case-for-the-watchmaker.webp",
+    	ainsley-mcgregor-mysteries-a-case-for-the-watchmaker.webp",
     	"iframe": "https://playcinematic.com/video/okiNNIFhpbKsSL0",
     	"sinopsis": "Kasus lama pembunuhan yang menyamar sebagai pencurian jam antik kembali diselidiki. Ainsley berpacu dengan waktu untuk menangkap pelaku.",
     	"genre": ["Misteri", "Film TV"],
@@ -1632,7 +1571,7 @@
   {
     	"tmdb_id": 1610418,
     	"title": "The House on Haunted Grounds",
-    	"image": "/banner/the-house-on-haunted-grounds.webp",
+    	the-house-on-haunted-grounds.webp",
     	"iframe": "https://playcinematic.com/video/SSud6fYdaxSOvDQ",
     	"sinopsis": "Catatan tim penyelidik mengungkap teror kerasukan dan pembunuhan mengerikan di sebuah rumah yang berhantu.",
     	"genre": ["Horor"],
@@ -1642,7 +1581,7 @@
   {
     	"tmdb_id": 1455079,
     	"title": "You, Me & Tuscany",
-    	"image": "/banner/you-me-and-tuscany.webp",
+    	you-me-and-tuscany.webp",
     	"iframe": "https://playcinematic.com/video/WybfceVPo8REgHd",
     	"sinopsis": "Dengan menyamar sebagai tunangan pemilik vila di Italia, wanita ini tanpa sengaja menemukan cinta sejati.",
     	"genre": ["Komedi", "Romansa"],
@@ -1652,7 +1591,7 @@
   {
     	"tmdb_id": 1631917,
     	"title": "18th Rose",
-    	"image": "/banner/18th-rose.webp",
+    	18th-rose.webp",
     	"iframe": "https://playcinematic.com/video/pdREm8FPpC7ZMDD",
     	"sinopsis": "Seorang remaja yang ceria dan penuh impian bersahabat dengan pendatang baru, namun benih cinta mulai tumbuh di antara mereka.",
     	"genre": ["Drama", "Romansa"],
@@ -1662,7 +1601,7 @@
   {
     	"tmdb_id": 855435,
     	"title": "Faces Of Death",
-    	"image": "/banner/faces-of-death.webp",
+    	faces-of-death.webp",
     	"iframe": "https://playcinematic.com/video/SMTbQy4Fq2gZOrW",
     	"sinopsis": "Seorang pembuat konten web menemukan rekaman kekerasan nyata yang meniru adegan kematian dari sebuah film lama.",
     	"genre": ["Horor"],
@@ -1672,7 +1611,7 @@
   {
     	"tmdb_id": 1576369,
     	"title": "Bharathanatyam 2: Mohiniyattam",
-    	"image": "/banner/bharathanatyam-2-mohiniyattam.webp",
+    	bharathanatyam-2-mohiniyattam.webp",
     	"iframe": "https://playcinematic.com/video/MbXSfwiLyLhxVCK",
     	"sinopsis": "Keluarga yang mengurus warisan mendiang di Sreekandapuram mendapati masa lalu memicu kejahatan yang tak terduga.",
     	"genre": ["Komedi", "Thriller"],
@@ -1682,7 +1621,7 @@
   {
     	"tmdb_id": 1511057,
     	"title": "Roommates",
-    	"image": "/banner/roommates.webp",
+    	roommates.webp",
     	"iframe": "https://playcinematic.com/video/BtoNYWBWr1DjjJJ",
     	"sinopsis": "Devon yang pemalu sekamar dengan Celeste yang penuh percaya diri. Persahabatan mereka berubah menjadi persaingan halus yang melelahkan.",
     	"genre": ["Komedi"],
@@ -1692,7 +1631,7 @@
   {
     	"tmdb_id": 1102883,
     	"title": "Mother Mary",
-    	"image": "/banner/mother-mary.webp",
+    	mother-mary.webp",
     	"iframe": "https://playcinematic.com/video/01kFxxPBfwcFgqB",
     	"sinopsis": "Luka lama kembali terbuka ketika bintang pop Mary bertemu kembali dengan perancang busana lamanya jelang konser besar.",
     	"genre": ["Drama", "Musik", "Thriller"],
@@ -1702,7 +1641,7 @@
   {
     	"tmdb_id": 1623125,
     	"title": "A Gorilla Story: Told by David Attenborough",
-    	"image": "/banner/a-gorilla-story.webp",
+    	a-gorilla-story.webp",
     	"iframe": "https://playcinematic.com/video/05Vg23HihQYYOpu",
     	"sinopsis": "David Attenborough menceritakan kisah kawanan gorila sejak pertemuan pertama pada tahun 1970-an hingga saat ini.",
     	"genre": ["Dokumenter"],
@@ -1712,7 +1651,7 @@
   {
     	"tmdb_id": 1280300,
     	"title": "The Whistler",
-    	"image": "/banner/the-whistler.webp",
+    	the-whistler.webp",
     	"iframe": "https://playcinematic.com/video/mRrmRVu95owldpb",
     	"sinopsis": "Nicole dan Sebastian yang mengelola pertanian terpencil kehilangan putri mereka, tanpa menyadari adanya ancaman gaib yang mengintai.",
     	"genre": ["Horor", "Misteri", "Thriller"],
@@ -1722,7 +1661,7 @@
   {
     	"tmdb_id": 1678192,
     	"title": "Blood Witch",
-    	"image": "/banner/blood-witch.webp",
+    	blood-witch.webp",
     	"iframe": "https://playcinematic.com/video/XvrpsaFRJsdlCdp",
     	"sinopsis": "Seorang pendeta dibunuh secara misterius. Ibu dan anak yang merupakan keturunan penyihir bangkit untuk membalas dendam, sementara dua jurnalis menyelidiki hilangnya warga desa.",
     	"genre": ["Horor"],
@@ -1732,7 +1671,7 @@
   {
     	"tmdb_id": 1665860,
     	"title": "Murder in the Dark",
-    	"image": "/banner/murder-in-the-dark.webp",
+    	murder-in-the-dark.webp",
     	"iframe": "https://playcinematic.com/video/ce2nZ8MJdDNQltX",
     	"sinopsis": "Seorang pelayan yang buta menjadi saksi pembunuhan di restoran yang remang-remang, lalu ia pun menjadi sasaran pelaku yang ingin membungkamnya.",
     	"genre": ["Misteri", "Thriller"],
@@ -1742,7 +1681,7 @@
   {
     	"tmdb_id": 1674644,
     	"title": "Beyond the Game: Samurai World Baseball Classic",
-    	"image": "/banner/beyond-the-game-samurai.webp",
+    	beyond-the-game-samurai.webp",
     	"iframe": "https://playcinematic.com/video/hMbIKe7C9WCX1Fo",
     	"sinopsis": "Tekanan menjadi juara, kekalahan yang mengejutkan, dan kejujuran di ruang ganti. Kamera merekam kenyataan di balik tim Samurai Japan.",
     	"genre": ["Dokumenter"],
@@ -1752,7 +1691,7 @@
   {
     	"tmdb_id": 1594264,
     	"title": "Space Ranger: New Worlds",
-    	"image": "/banner/space-ranger-new-worlds.webp",
+    	space-ranger-new-worlds.webp",
     	"iframe": "https://playcinematic.com/video/p2XIhC7X5TA2rzC",
     	"sinopsis": "Pasukan elit antariksa mulai mencari jati diri saat galaksi tampak damai, hingga tiba-tiba muncul ancaman baru yang mematikan.",
     	"genre": ["Fiksi Ilmiah"],
@@ -1762,7 +1701,7 @@
   {
     	"tmdb_id": 1309396,
     	"title": "The Doll",
-    	"image": "/banner/the-doll.webp",
+    	the-doll.webp",
     	"iframe": "https://playcinematic.com/video/t5krx3SJCkDvjiw",
     	"sinopsis": "Di wilayah Prancis Timur, Rémi hidup bersama boneka bernama Audrey. Ketika Patricia datang berkunjung, Audrey seolah hidup kembali.",
     	"genre": ["Komedi", "Romansa"],
@@ -1772,7 +1711,7 @@
   {
     	"tmdb_id": 1648678,
     	"title": "Orangutan",
-    	"image": "/banner/orangutan.webp",
+    	orangutan.webp",
     	"iframe": "https://playcinematic.com/video/KLtyoSdK9GVNGrg",
     	"sinopsis": "Diceritakan oleh Josh Gad, ikuti perjalanan Indah seekor orangutan muda yang meninggalkan keluarganya di hutan belantara untuk hidup mandiri.",
     	"genre": ["Dokumenter", "Keluarga"],
@@ -1782,7 +1721,7 @@
   {
     	"tmdb_id": 1450527,
     	"title": "Forbidden Fruits",
-    	"image": "/banner/forbidden-fruits.webp",
+    	forbidden-fruits.webp",
     	"iframe": "https://playcinematic.com/video/UX5iJmuleR7ZHka",
     	"sinopsis": "Apple diam-diam memimpin kelompok pemujaan rahasia di ruang bawah tanah sebuah mal bersama Cherry dan Fig. Ketika karyawan baru bernama Pumpkin hadir dan mempertanyakan kepercayaan mereka, rahasia kelam pun terancam terbongkar.",
     	"genre": ["Komedi", "Horor"],
@@ -1792,7 +1731,7 @@
   {
     	"tmdb_id": 1543151,
     	"title": "King Kaew",
-    	"image": "/banner/king-kaew.webp",
+    	king-kaew.webp",
     	"iframe": "https://playcinematic.com/video/LGoofDLSxJhMC73",
     	"sinopsis": "Roh seorang wanita muda yang meninggal secara tidak adil kembali untuk menuntut keadilan atas eksekusi yang keliru itu.",
     	"genre": ["Kejahatan", "Drama", "Horor"],
@@ -1802,7 +1741,7 @@
   {
     	"tmdb_id": 1591654,
     	"title": "A Gangster's Life",
-    	"image": "/banner/a-gangsters-life.webp",
+    	a-gangsters-life.webp",
     	"iframe": "https://playcinematic.com/video/7oL21z1P8HQb4px",
     	"sinopsis": "Dua penipu kecil kabur ke Yunani setelah menipu anggota mafia London, namun masalah terus membuntuti ke mana pun mereka pergi.",
     	"genre": ["Komedi", "Kejahatan"],
@@ -1812,7 +1751,7 @@
   {
     	"tmdb_id": 1075797,
     	"title": "Ketenpere: Dalavere",
-    	"image": "/banner/ketenpere-dalavere.webp",
+    	ketenpere-dalavere.webp",
     	"iframe": "https://playcinematic.com/video/iZ9hW9a7cMjgJVE",
     	"sinopsis": "Kalender dan Vefa bekerja sama merebut harta dari seorang orang kaya yang terobsesi dengan keberadaan makhluk asing.",
     	"genre": ["Komedi"],
@@ -1822,7 +1761,7 @@
  {
     	"tmdb_id": 1284041,
     	"title": "The Last House",
-    	"image": "/banner/the-last-house.webp",
+    	the-last-house.webp",
     	"iframe": "https://playcinematic.com/video/cTJ2uKjUm0hmvqk",
     	"sinopsis": "Sebuah keluarga terperangkap di rumah, bertahan dengan sumber daya menipis dan ancaman misterius.",
     	"genre": ["Horor", "Fiksi Ilmiah", "Thriller"],
@@ -1832,7 +1771,7 @@
 	{
 		"tmdb_id": 1679730,
     	"title": "The Ribon Hiro",
-    	"image": "/banner/the-ribbon-hero.webp",
+    	the-ribbon-hero.webp",
     	"iframe": "https://playcinematic.com/video/HBGU8GVD1qgZVXO",
     	"sinopsis": "Putri Sapphire bangkit sebagai Ribbon Hero, melawan Nergal demi menyelamatkan kerajaan barunya.",
     	"genre": ["Aksi", "Animasi", "Drama", "Fantasi"],
@@ -1842,7 +1781,7 @@
 	{
 		"tmdb_id": 1504358,
     	"title": "Don’t Say Good Luck",
-    	"image": "/banner/dont-say-good-luck.webp",
+    	dont-say-good-luck.webp",
     	"iframe": "https://playcinematic.com/video/zgUMoMP2Xz2ZdqO",
     	"sinopsis": "Penulis TV kembali ke ibunya yang terasing, membuka rahasia kelam dan kekacauan keluarga disfungsional.",
     	"genre": ["Drama", "Komedi", "Musik"],
@@ -1852,7 +1791,7 @@
 	{
 		"tmdb_id": 1632473,
     	"title": "This, That, and Everything in Between",
-    	"image": "/banner/this-that-and-everything-in-between.webp",
+    	this-that-and-everything-in-between.webp",
     	"iframe": "https://playcinematic.com/video/pdZ5CSKWyeXHuWG",
     	"sinopsis": "Penulis TV kembali ke ibunya yang terasing, membuka rahasia kelam dan kekacauan keluarga disfungsional.",
     	"genre": ["Drama", "Keluarga"],
@@ -1862,7 +1801,7 @@
 	{
 		"tmdb_id": 1361969,
     	"title": "All Night Wrong",
-    	"image": "/banner/all-night-wrong.webp",
+    	all-night-wrong.webp",
     	"iframe": "https://playcinematic.com/video/qyUXxobhXc6iQlG",
     	"sinopsis": "Gary & Ell bertemu di kencan buta, lalu mencuri mobil pembunuh berisi mayat dan uang $40.000.",
     	"genre": ["Komedi", "Kejahatan", "Thriller"],
@@ -1872,7 +1811,7 @@
 	{
 		"tmdb_id": 1589248,
     	"title": "My Best Friend, His Girlfriend and Me",
-    	"image": "/banner/my-best-friend-his-girlfriend-and-me.webp",
+    	my-best-friend-his-girlfriend-and-me.webp",
     	"iframe": "https://playcinematic.com/video/FYHLdRnFBVPmPUs",
     	"sinopsis": "Sahabat Olli & Matze merencanakan keliling dunia, hingga cinta Matze pada Rebecca mengubah segalanya.",
     	"genre": ["Komedi"],
@@ -1882,7 +1821,7 @@
 	{
 		"tmdb_id": 1490260,
     	"title": "Whitmer Thomas: Terminal Crew of Dudes",
-    	"image": "/banner/whitmer-thomas-terminal-crew-of-dudes.webp",
+    	whitmer-thomas-terminal-crew-of-dudes.webp",
     	"iframe": "https://playcinematic.com/video/WFRl8RNv9XYu5g5",
     	"sinopsis": "Whitmer Thomas, komedian-musisi-aktor, menelusuri masa kecil Alabama dan obsesinya jadi keren.",
     	"genre": ["Komedi", "Musik"],
@@ -1892,7 +1831,7 @@
 	{
 		"tmdb_id": 1365448,
     	"title": "Hell Hath No Fury",
-    	"image": "/banner/hell-hath-no-fury.webp",
+    	hell-hath-no-fury.webp",
     	"iframe": "https://playcinematic.com/video/kDmj8hoalzcOLPK",
     	"sinopsis": "Aidan, psikiater agnostik, terjebak antara duka istrinya dan godaan misterius yang berakar sejak eons.",
     	"genre": ["Thriller", "Drama"],
