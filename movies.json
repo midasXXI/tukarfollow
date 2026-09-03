@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 950028,
+    	"title": "The Invite",
+    	"iframe": "https://playcinematic.com/video/qu0fGDM06LHEbG9",
+    	"sinopsis": "Pernikahan Joe-Angela rapuh; jamuan dengan tetangga misterius picu malam penuh kejutan berbahaya.",
+    	"genre": ["Komedi", "Drama", "Romansa"],
+    	"release_date": "2026-06-25",
+    	"country": "Amerika Serikat"
+  		},	
+	{
     	"tmdb_id": 1594914,
     	"title": "Lucky Strike",
     	"iframe": "https://playcinematic.com/video/Pu9o0Q8AvBuXlYP",
