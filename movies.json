@@ -1,5 +1,15 @@
 [
 	{
+    	"tmdb_id": 1128204,
+    	"title": "Feed",
+    	"image": "/banner/feed.webp",
+    	"iframe": "https://playcinematic.com/video/50OSqgbK5VDGwV2",
+    	"sinopsis": "Lima influencer akhir pekan di hutan, tanpa sengaja membangkitkan vampir pertama dunia.",
+    	"genre": ["Horor", "Thriller"],
+    	"release_date": "2026-08-06",
+    	"country": "Irlandia"
+  		},
+	{
     	"tmdb_id": 1290417,
     	"title": "Thrash",
     	"image": "/banner/thrash.webp",
