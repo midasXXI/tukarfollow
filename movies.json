@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1631506,
+    	"title": "The Hanged Woman",
+    	"iframe": "https://playcinematic.com/video/O9MmZjP5b8iDSrc",
+    	"sinopsis": "Rosa 'La Ahorcada' menghantui Fran dan keluarganya demi balas dendam cinta terabaikan.",
+    	"genre": ["Horor"],
+    	"release_date": "2026-04-22",
+    	"country": "Spanyol"
+  		},	
+	{
     	"tmdb_id": 1375646,
     	"title": "Colony",
     	"iframe": "https://playcinematic.com/video/ZRGFewWgak6LJoy",
