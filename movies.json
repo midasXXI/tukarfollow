@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1375646,
+    	"title": "Colony",
+    	"iframe": "https://playcinematic.com/video/ZRGFewWgak6LJoy",
+    	"sinopsis": "Profesor Se-jeong terjebak virus mutasi di konferensi, bertahan dari teror berdarah.",
+    	"genre": ["Fiksi Ilmiah","Horor", "Aksi"],
+    	"release_date": "2026-05-21",
+    	"country": "Korea Selatan"
+  		},	
+	{
     	"tmdb_id": 1083381,
     	"title": "Backrooms",
     	"iframe": "https://playcinematic.com/video/FHjMMowdDi8osJ2",
