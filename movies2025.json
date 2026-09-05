@@ -1,5 +1,15 @@
 [
     {
+    "tmdb_id": 1207134,
+    "title": "Everything to Me",
+    "image": "/banner/back-to-the-past.webp",
+    "iframe": "https://playcinematic.com/video/5lik976GxEF1x00",
+    "sinopsis": "Gadis Silicon Valley tumbuh di bayang-bayang Steve Jobs dan pengaruhnya.",
+    "genre": ["Komedi", "Drama"],
+    "release_date": "2025-09-05",
+    "country": "Amerika Serikat"
+  },
+    {
     "tmdb_id": 650524,
     "title": "Back to the Past",
     "image": "/banner/back-to-the-past.webp",
