@@ -1,8 +1,16 @@
 [
   {
+    "tmdb_id": 799258,
+    "title":"Aserb The Squadron",
+    "iframe":"https://playcinematic.com/video/ajSNaj1fBeqAJ5n",
+    "sinopsis":"Berdasarkan tragedi Libya, otoritas Mesir melawan kelompok teroris.",
+    "genre": ["Aksi", "Drama", "Perang", "Thriller"],
+    "release_date":"2024-05-01",
+    "country":"Mesir"
+    },
+  {
     "tmdb_id": 539972,
     "title":"Kraven The Hunter",
-    "image":"/banner/kraven-the-hunter.webp",
     "iframe":"https://playcinematic.com/video/B6fOF2BsO1bOFpr",
     "sinopsis":"Hubungan kelam Kraven dengan ayah gangster mendorongnya jadi pemburu paling ditakuti.",
     "genre": ["Aksi", "Petualangan", "Thriller"],
@@ -12,7 +20,6 @@
   {
     "tmdb_id": 816949,
     "title":"Daemon Mind",
-    "image":"/banner/daemon-mind.webp",
     "iframe":"https://playcinematic.com/video/8JwqOCFqlH96C61",
     "sinopsis":"Ilmuwan saraf ciptakan alat pelepas iblis dalam dirinya demi balas dendam kejam pada musuh.",
     "genre": ["Horor", "Thriller"],
@@ -22,7 +29,6 @@
   {
      "tmdb_id": 814889,
      "title":"Never Let Go",
-     "image":"/banner/never-let-go.webp",
      "iframe":"https://playcinematic.com/video/ahsGRZFiTde2HAH",
      "sinopsis":"Saat kejahatan melanda, seorang ibu dan putra kembarnya harus bersatu demi bertahan hidup.",
      "genre": ["Drama","Horor"],
@@ -32,7 +38,6 @@
   {
      "tmdb_id": 1365049,
      "title":"Joachim And The Apocalypse",
-     "image":"/banner/joachim-and-the-apocalypse.webp",
      "iframe":"https://playcinematic.com/video/Efqpv7DDjmC1gdF",
      "sinopsis":"Dalam era War Salib, Joachim menerima penglihatan mistis dan nubuat ilahi, berjuang melawan kiamat lewat cinta dan pencarian akan Tuhan.",
      "genre": ["Drama","Sejarah"],
