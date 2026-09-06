@@ -1,10 +1,19 @@
 [
 	{
+    	"tmdb_id": 1432547,
+    	"title": "Oru Yu Nido Izu Kiru",
+    	"iframe": "https://playcinematic.com/video/iCM3Vd98f04JGJb",
+    	"sinopsis": "Rita terjebak loop kematian akibat bunga alien Darol, bertemu Keiji untuk melawan.",
+    	"genre": ["Aksi", "Animasi", "Misteri", "Fiksi Ilmiah"],
+    	"release_date": "2026-01-09",
+    	"country": "Jepang"
+  		},	
+	{
     	"tmdb_id": 1471317,
     	"title": "Death Name",
     	"iframe": "https://playcinematic.com/video/odSvpFYPbS4CAzG",
     	"sinopsis": "Wanita Korea-Amerika menggali asal-usul, membangkitkan kutukan keluarga mematikan.",
-    	"genre": ["Horor, Film TV"],
+    	"genre": ["Horor", "Film TV"],
     	"release_date": "2026-01-09",
     	"country": "Amerika Serikat"
   		},	
