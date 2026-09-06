@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1480860,
+    	"title": "Bulls",
+    	"iframe": "https://playcinematic.com/video/RxreoVuPuTJXO0e",
+    	"sinopsis": "Dua saudara tiri miskin jalankan bar gagal, menantang juara darts Inggris.",
+    	"genre": ["Komedi"],
+    	"release_date": "2026-01-09",
+    	"country": "Amerika Serikat"
+  		},	
+	{
     	"tmdb_id": 1568748,
     	"title": "4 First Dates",
     	"iframe": "https://playcinematic.com/video/cysNXyGtmoQQN88",
