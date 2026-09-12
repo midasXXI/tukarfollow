@@ -1,6 +1,13 @@
 [
-  
-  
+  {
+    "tmdb_id": 1468417,
+    "title": "First Moon",
+    "iframe": "https://player.abyssplayer.com/ont6Hp2zh",
+    "sinopsis": "Seorang pelayan muda diculik oleh sekte keagamaan yang menganggapnya terjangkit virus werewolf menular seksual.",
+    "genre": ["Horor", "Thriller"],
+    "release_date": "2025-05-06",
+    "country": "Australia"
+    }, 
   {
     "tmdb_id": 119283,
     "title": "Parker",
@@ -10,7 +17,7 @@
     "genre": ["Aksi", "Kejahatan", "Thriller"],
     "release_date": "2013-01-25",
     "country": "Amerika Serikat"
-  },
+    },
   {
     "tmdb_id": 82023,
     "title": "Hotel Desire",
