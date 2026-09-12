@@ -1,19 +1,5 @@
 [
- 
   
-  
-  
-  
-  {
-    "tmdb_id": 278,
-    "title": "The Shawshank Redemption",
-    "image": "/banner/the-shawshank-redemption.webp",
-    "iframe": "https://player.abyssplayer.com/6jz6EkWDk",
-    "sinopsis": "Andy Dufresne, seorang bankir yang sukses, dipenjara di Penjara Shawshank atas tuduhan pembunuhan yang tidak pernah ia lakukan.",
-    "genre": ["Drama", "Kejahatan"],
-    "release_date": "1994-09-14",
-    "country": "Amerika Serikat"
-  },
   {
     "tmdb_id": 634649,
     "title": "Spider-Man: No Way Home",
