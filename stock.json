@@ -1,15 +1,6 @@
 [
   
-  {
-    "tmdb_id": 634649,
-    "title": "Spider-Man: No Way Home",
-    "image": "/banner/spider-man-no-way-home.webp",
-    "iframe": "https://player.abyssplayer.com/Cj5iCtnVb",
-    "sinopsis": "Setelah identitasnya terbongkar, Peter Parker meminta bantuan Dokter Aneh untuk mengembalikan semuanya. Namun mantra yang gagal membuka pintu lintas alam semesta dan memunculkan musuh-musuh berbahaya dari dunia lain.",
-    "genre": ["Aksi", "Petualangan", "Fantasi"],
-    "release_date": "2021-12-15",
-    "country": "Amerika Serikat"
-  },
+ 
   {
     "tmdb_id": 77338,
     "title": "The Intouchables",
