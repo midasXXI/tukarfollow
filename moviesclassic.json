@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 278,
+    	"title": "The Shawshank Redemption",
+    	"iframe": "https://player.abyssplayer.com/6jz6EkWDk",
+    	"sinopsis": "Andy Dufresne, seorang bankir yang sukses, dipenjara di Penjara Shawshank atas tuduhan pembunuhan yang tidak pernah ia lakukan.",
+    	"genre": ["Drama", "Kejahatan"],
+    	"release_date": "1994-09-14",
+    	"country": "Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 455476,
     	"title": "Knights of the Zodiac",
     	"iframe": "https://player.abyssplayer.com/GcD527j6b",
