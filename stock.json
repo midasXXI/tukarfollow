@@ -1,16 +1,7 @@
 [
   
  
-  {
-    "tmdb_id": 77338,
-    "title": "The Intouchables",
-    "image": "/banner/the-intouchables.webp",
-    "iframe": "https://player.abyssplayer.com/JCV1tZhv7",
-    "sinopsis": "Seorang milioner lumpuh yang hidupnya kaku bertemu dengan Driss, seorang pemuda yang datang dari lingkungan sulit namun penuh semangat dan kehangatan.",
-    "genre": ["Drama", "Komedi", "Biografi"],
-    "release_date": "2011-11-02",
-    "country": "Prancis"
-  },
+  
   {
     "tmdb_id": 437068,
     "title": "A Taxi Driver",
