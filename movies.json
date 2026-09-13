@@ -1,22 +1,4 @@
-[
-	{
-    	"tmdb_id": 1573375,
-    	"title": "Wasiat Warisan",
-    	"iframe": "https://abyssplayer.com/q_0n7dISU",
-    	"sinopsis": "Tiga bersaudara berjuang menyelamatkan hotel keluarga di Danau Toba dari ancaman penyitaan akibat utang orang tua.",
-    	"genre": ["Keluarga"],
-    	"release_date": "2026-04-09",
-    	"country": "Indonesia"
-  		}
-	{
-    	"tmdb_id": 1433367,
-    	"title": "One Night Only",
-    	"iframe": "https://player.abyssplayer.com/PQ6er4HGe",
-    	"sinopsis": "Dua warga New York berusaha mencari cinta sejati pada satu-satunya malam dalam setahun.",
-    	"genre": ["Drama", "Komedi", "Romansa"],
-   		"release_date": "2026-07-28",
-    	"country": "Amerika Serikat"
-  		},
+[	
 	{
     	"tmdb_id": 1491920,
     	"title": "Kung Fu Soccer",
