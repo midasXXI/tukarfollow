@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 192538,
+	    "title": "Hammer of the Gods",
+    	"iframe": "https://playcinematic.com/video/s0gjfJy6OI6iKeX",
+    	"sinopsis":  “Pangeran Viking Steinar mencari kakaknya Hakan demi menyelamatkan klan dari kehancuran.”,
+    	"genre": ["Aksi", "Drama", "Petualangan"],
+    	"release_date": "2013-07-05",
+    	"country": "Inggris Raya"
+  		},
+	{
     	"tmdb_id": 57201,
 	    "title": "The Lone Ranger",
     	"iframe": "https://playcinematic.com/video/LL3ehaw02hrE18W",
