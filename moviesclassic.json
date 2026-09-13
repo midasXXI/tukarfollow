@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 123553,
+	    "title": "The Mortal Instruments: City of Bones",
+    	"iframe": "https://playcinematic.com/video/ricvQ6sIUZF265r",
+    	"sinopsis": "Clary Fray temukan warisan Shadowhunter, hadapi iblis dan rahasia keluarga.",
+    	"genre": ["Fiksi Ilmiah", "Aksi", "Petualangan", "Romansa", "Misteri"],
+    	"release_date": "2013-08-21",
+    	"country": "Kanada"
+  		},
+	{
     	"tmdb_id": 215814,
 	    "title": "Forbidden Ground",
     	"iframe": "https://playcinematic.com/video/cTbOLDNMQLFxNdp",
