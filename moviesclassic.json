@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 57201,
+	    "title": "The Lone Ranger",
+    	"iframe": "https://playcinematic.com/video/LL3ehaw02hrE18W",
+    	"sinopsis": "Pengacara jadi Lone Ranger, bersama Tonto lawan korupsi dan kejahatan di Wild West.",
+    	"genre": ["Aksi", "Komedi", "Petualangan"],
+    	"release_date": "2013-07-02",
+    	"country": "Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 77338,
 	    "title": "The Intouchables",
     	"iframe": "https://player.abyssplayer.com/JCV1tZhv7",
