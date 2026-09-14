@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 550988,
+	    "title": "Free Guy",
+    	"iframe": "https://player.abyssplayer.com/krc0f7T1M",
+    	"sinopsis": "teller bank yang menyadari ia hanyalah karakter NPC dalam game dan memberontak terhadap pemrogramannya",
+    	"genre": ["Komedi", "Aksi", "Fiksi Ilmiah"],
+    	"release_date": "2021-08-11",
+    	"country": "Kanada, Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 635910,
 	    "title": "The Last Voyage of the Demeter",
     	"iframe": "https://player.abyssplayer.com/ay98PIoyU",
