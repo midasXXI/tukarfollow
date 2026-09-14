@@ -1,4 +1,13 @@
-[	
+[
+	{
+    	"tmdb_id": 1108427,
+    	"title": "Moana",
+    	"iframe": "https://player.abyssplayer.com/LTW8p2cUr",
+    	"sinopsis": "Moana meninggalkan pulau untuk pertama kalinya mengarungi samudra bersama seorang manusia setengah dewa.",
+    	"genre": ["Aksi", "Komedi", "Keluarga", "Petualangan", "Fantasi", "Musik"],
+    	"release_date": "2026-07-08",
+    	"country": "Amerika Serikat, Kanada, Selandia baru"
+  		},
 	{
     	"tmdb_id": 969681,
     	"title": "Spider-Man: Brand New Day",
