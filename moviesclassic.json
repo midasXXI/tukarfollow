@@ -1,5 +1,23 @@
 [
 	{
+    	"tmdb_id": 53182,
+    	"title": "300: Rise of an Empire",
+    	"iframe": "https://player.abyssplayer.com/dJLQrn-6Yi",
+    	"sinopsis": "Themistocles, laksamana Athena, harus bersekutu dengan musuh bebuyutannya, Sparta, untuk menghadapi ancaman yang jauh lebih besar.",
+    	"genre": ["Aksi", "Fantasi", "Drama"],
+    	"release_date": "2014-03-07",
+    	"country": "Amerika Serikat"
+  		},
+	{
+    	"tmdb_id": 1271,
+    	"title": "300",
+    	"iframe": "https://player.abyssplayer.com/d62cjUgNN",
+    	"sinopsis": "Dengan hanya 300 prajurit, Raja Leonidas memimpin perlawanan heroik melawan pasukan Persia yang berjumlah ratusan ribu di Thermopylae.",
+    	"genre": ["Aksi", "Fantasi", "Perang"],
+    	"release_date": "2006-12-09",
+    	"country": "Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 399894,
     	"title": "Daylight's End",
     	"iframe": "https://player.abyssplayer.com/GMQ6FkikP",
