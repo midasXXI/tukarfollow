@@ -1,8 +1,16 @@
 [
 	{
+    	"tmdb_id": 1288445,
+    	"title": "Mutiny",
+    	"iframe": "https://player.abyssplayer.com/i2dil4ApQ",
+    	"sinopsis": "Cole Reed nekat menaiki kapal kargo dalam misi sendirian untuk membalas dendam.",
+    	"genre": ["Aksi", "Kejahatan", "Thriller"],
+    	"release_date": "2026-08-19",
+    	"country": "Amerika Serikat, Inggris Raya"
+  		},
+	{
     	"tmdb_id": 1368337,
     	"title": "The Odyssey",
-    	"image": "/banner/odyssey.webp",
     	"iframe": "https://player.abyssplayer.com/yhPMvIHdR",
     	"sinopsis": "Odysseus menghadapi perjalanan pulang yang berbahaya setelah perang Troya.",
     	"genre": ["Fantasi", "Romansa", "Petualangan", "Drama"],
