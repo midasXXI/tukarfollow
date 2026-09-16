@@ -1,5 +1,87 @@
 [
 	{
+    	"tmdb_id": 1368337,
+    	"title": "The Odyssey",
+    	"image": "/banner/odyssey.webp",
+    	"iframe": "https://player.abyssplayer.com/yhPMvIHdR",
+    	"sinopsis": "Odysseus menghadapi perjalanan pulang yang berbahaya setelah perang Troya.",
+    	"genre": ["Fantasi", "Romansa", "Petualangan", "Drama"],
+    	"release_date": "2026-07-15",
+    	"country": "Amerika Serikat, Inggris Raya"
+  		},
+  	{
+    	"tmdb_id": 1560520,
+    	"title": "Batman: Knightfall - Part 1: Knightfall",
+    	"iframe": "https://player.abyssplayer.com/q_edE7vNY",
+    	"sinopsis": "Arkham Asylum telah hancur dan seluruh narapidana berbahaya berhasil meloloskan diri ke Gotham City.",
+    	"genre": ["Aksi", "Animasi", "Petualangan", "Kejahatan", "Drama", "Thriller"],
+    	"release_date": "2026-06-23",
+    	"country": "Amerika Serikat, Korea Selatan"
+  		},
+  	{
+    	"tmdb_id": 1284465,
+    	"title": "The Death of Robin Hood",
+    	"iframe": "https://player.abyssplayer.com/BOUnsv1_B",
+    	"sinopsis": "Robin Hood yang terluka parah harus menghadapi masa lalunya yang kelam.",
+    	"genre": ["Aksi", "Petualangan", "Drama"],
+    	"release_date": "2026-06-18",
+    	"country": "Amerika Serikat"
+  		},
+  	{
+    	"tmdb_id": 1083381,
+    	"title": "Backrooms",
+    	"iframe": "https://player.abyssplayer.com/4_dplGJsa",
+    	"sinopsis": "Seorang terapis harus menyelami dimensi tak terkalahkan untuk menyelamatkan pasiennya yang menghilang.",
+    	"genre": ["Horor", "Fiksi Ilmiah", "Thriller"],
+    	"release_date": "2026-05-27",
+    	"country": "Amerika Serikat, Kanada"
+  		},
+  	{
+    	"tmdb_id": 1275779,
+    	"title": "Disclosure Day",
+    	"iframe": "https://player.abyssplayer.com/FSaVOzNz0",
+    	"sinopsis": "Ketika sebuah kelompok ilmuwan menemukan bukti keberadaan makhluk lain di luar bumi.",
+    	"genre": ["Aksi", "Drama", "Fiksi Ilmiah", "Thriller"],
+    	"release_date": "2026-06-10",
+    	"country": "Amerika Serikat, Selandia Baru, Kanada, Jepang"
+  		},
+  	{
+    	"tmdb_id": 1628123,
+    	"title": "BTS the Comeback Live: Arirang",
+    	"iframe": "https://player.abyssplayer.com/BeiKl47uR",
+    	"sinopsis": "BTS kembali dengan penampilan langsung epik dari Seoul. Mereka merayakan album studio kelima mereka.",
+    	"genre": ["Musik"],
+    	"release_date": "2026-03-21",
+    	"country": "Korea Selatan"
+  		},
+  	{
+    	"tmdb_id": 1630433,
+    	"title": "The Red Line",
+    	"iframe": "https://player.abyssplayer.com/JhGHsEIQU",
+    	"sinopsis": "Korban penipuan telepon yang kejam. Untuk membalas dendam, mereka memutuskan melawan jaringan kriminal.",
+    	"genre": ["Kejahatan", "Drama", "Thriller"],
+    	"release_date": "2026-03-22",
+    	"country": "Thailand"
+  		},
+  	{
+    	"tmdb_id": 1628524,
+    	"title": "A Royal Setting",
+    	"iframe": "https://player.abyssplayer.com/H9oXuAyZd",
+    	"sinopsis": "Seorang ahli perhiasan terkenal, yang dipekerjakan oleh Pangeran Luca untuk mengembalikan kilau mahkota kerajaan.",
+    	"genre": ["Romansa"],
+    	"release_date": "2026-03-28",
+    	"country": "Kanada"
+  		},
+  	{
+    	"tmdb_id": 1049471,
+    	"title": "Outcome",
+    	"iframe": "https://player.abyssplayer.com/XeXEioeYT",
+    	"sinopsis": "Bintang Hollywood yang terjebak dalam situasi mencekam ketika menerima ancaman dari video aneh dari masa lalunya.",
+    	"genre": ["Komedi", "Kejahatan", "Drama", "Misteri", "Thriller"],
+    	"release_date": "2026-04-06",
+    	"country": "Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 1523145,
     	"title": "Your Heart Will Be Broken",
     	"iframe": "https://player.abyssplayer.com/ONPIdlvzw",
