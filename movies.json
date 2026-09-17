@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1440098,
+    	"title": "Drawn Together",
+    	"iframe": "https://player.abyssplayer.com/C6oraM-Hr",
+    	"sinopsis": "Putri dari seorang konglomerat asal Spanyol, mendapatkan pengawalan ketat dari seorang pengawal pribadi bernama Sebastián Moore.",
+    	"genre": ["Drama", "Romansa", "Thriller"],
+    	"release_date": "2026-09-09",
+    	"country": "Spanyol"
+  		},
+	{
     	"tmdb_id": 1101383,
     	"title": "The End of Oak Street",
     	"iframe": "https://player.abyssplayer.com/_sAq76TOBq",
