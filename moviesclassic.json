@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 37958,
+  		"title": "Immortals",
+    	"iframe": "https://player.abyssplayer.com/O4ypVbMgRD",	
+  		"sinopsis": "Theseus, pemuda pilihan Zeus, memimpin perang melawan Raja Hyperion yang brutal demi menyelamatkan umat manusia.",
+  		"genre": ["Aksi", "Fantasi", "Drama"],
+  		"release_date": "2011-11-11",
+  		"country": "Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 399055,
     	"title": "The Shape of Water",
     	"iframe": "https://player.abyssplayer.com/EIMg6M-DV",
