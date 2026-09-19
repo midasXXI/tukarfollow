@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1321179,
+    	"title": "The King’s Warden",
+    	"iframe": "https://player.abyssplayer.com/_JGxLC_dGd",
+    	"sinopsis": "Raja Danjong, penguasa keenam Dinasti Joseon, dibuka kembali. Setelah diusir ke Yeongwol, Gangwon, ia menemukan dirinya terjebak dalam konflik kekuasaan yang mematikan.",
+    	"genre": ["Histori", "Drama"],
+    	"release_date": "2026-02-04",
+    	"country": "Korea Selatan"
+		},
+	{
     	"tmdb_id": 1469930,
     	"title": "Tumbal Proyek",
     	"iframe": "https://player.abyssplayer.com/UyppJJyf4",
