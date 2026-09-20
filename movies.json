@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1423191,
+    	"title": "Resident Evil",
+    	"iframe": "https://player.abyssplayer.com/hf8HrLU7D",
+    	"sinopsis": "Seorang kurir medis bernama Bryan terjebak di tengah kekacauan mengerikan saat mengantar paket ke Raccoon City di malam harinya.",
+    	"genre": ["Fiksi Ilmiah", "Aksi", "Horor"],
+    	"release_date": "2026-09-16",
+    	"country": "Australia, Kanada, Prancis, Jerman, Selandia Baru, Amerika Serikat, Czech Republic"
+		},
+	{
     	"tmdb_id": 1321179,
     	"title": "The King’s Warden",
     	"iframe": "https://player.abyssplayer.com/_JGxLC_dGd",
