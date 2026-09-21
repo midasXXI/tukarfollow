@@ -1,6 +1,15 @@
 [
 	{
     	"tmdb_id": 1423191,
+    	"title": "Semua Akan Baik-Baik Saja",
+    	"iframe": "https://player.abyssplayer.com/UHCK4OtBr",
+    	"sinopsis": "Kisah perjuangan seorang ibu dalam keluarga sederhana, yang hidup bukan untuk bermimpi, melainkan untuk bertahan.",
+    	"genre": ["Drama"],
+    	"release_date": "2026-09-10",
+    	"country": "Indonesia"
+		},
+	{
+    	"tmdb_id": 1423191,
     	"title": "Resident Evil",
     	"iframe": "https://player.abyssplayer.com/hf8HrLU7D",
     	"sinopsis": "Seorang kurir medis bernama Bryan terjebak di tengah kekacauan mengerikan saat mengantar paket ke Raccoon City di malam harinya.",
