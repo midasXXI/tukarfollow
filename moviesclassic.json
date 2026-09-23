@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 147441,
+  		"title": "Exodus: Gods and Kings",
+    	"iframe": "https://player.abyssplayer.com/MsBjO7L5z",	
+  		"sinopsis": "Moses, memberontak melawan Ramses, saudara angkatnya yang kini menjadi Firaun.",
+  		"genre": ["Aksi", "Drama", "Petualangan"],
+  		"release_date": "2014-12-04",
+  		"country": "Inggris Raya, Amerika Serikat, Spanyol"
+  		},
+	{
     	"tmdb_id": 199534,
   		"title": "Wolf Creek 2",
     	"iframe": "https://player.abyssplayer.com/bUQ-Cu0jI",	
