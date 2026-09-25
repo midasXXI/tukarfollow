@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1752999,
+    	"title": "Di Renjie: Six Dragon Phases",
+    	"iframe": "https://player.abyssplayer.com/_WVR2rviz",
+    	"sinopsis": "Di Renjie ditugaskan untuk menyelidiki keberadaan enam artefak Xuanlong yang ditinggalkan oleh Cendekiawan Han beberapa tahun sebelumnya.",
+    	"genre": ["Drama", "Misteri"],
+    	"release_date": "2026-08-20",
+    	"country": "Tiongkok"
+		},
+	{
     	"tmdb_id": 1641629,
     	"title": "You Me - Against the World",
     	"iframe": "https://player.abyssplayer.com/0h1QE0zVU",
