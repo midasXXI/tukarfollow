@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1607127,
+    	"title": "One Last Shot",
+    	"iframe": "https://player.abyssplayer.com/eP32bijT5",
+    	"sinopsis": "Seorang anggota Navy SEAL bernama Jake Harris harus bertindak cepat dan menghadapi bahaya besar demi menghentikan sekelompok tentara bayaran.",
+    	"genre": ["Drama", "Aksi", "Thriller"],
+    	"release_date": "2026-09-22",
+    	"country": "Inggris Raya"
+		},
+	{
     	"tmdb_id": 1752999,
     	"title": "Di Renjie: Six Dragon Phases",
     	"iframe": "https://player.abyssplayer.com/_WVR2rviz",
