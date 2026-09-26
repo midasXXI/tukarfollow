@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 1228834,
+    	"title": "The Fix",
+    	"iframe": "https://player.abyssplayer.com/pj2mwys-Y",
+    	"sinopsis": "Dihinggapi rasa kecewa dan kehampaan pasca-berakhirnya perang di Afghanistan, sekelompok mantan operator CIA yang penuh trauma dan kejatuhan nama baik memutuskan untuk bangkit kembali.",
+    	"genre": ["Aksi", "Thriller"],
+    	"release_date": "2026-09-10",
+    	"country": "Amerika Serikat"
+		},
+	{
     	"tmdb_id": 1607127,
     	"title": "One Last Shot",
     	"iframe": "https://player.abyssplayer.com/eP32bijT5",
