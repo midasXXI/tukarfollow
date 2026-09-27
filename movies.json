@@ -1,5 +1,23 @@
 [
 	{
+		"tmdb_id": 1575207,
+		"title": "Dilan ITB 1997",
+		"iframe": "https://player.abyssplayer.com/w--nFXAIX",
+		"sinopsis": "Kisah lanjutan perjalanan cinta Dilan dan Milea yang memasuki tahun 1997, menghadapi tantangan baru, kedewasaan hubungan, dan kenangan tak terlupakan di Bandung.",
+		"genre": ["Drama", "Romansa"],
+		"release_date": "2026-09-27",
+		"country": "Indonesia"
+		},
+	{
+    	"tmdb_id": 1751701,
+    	"title": "After Impact",
+    	"iframe": "https://player.abyssplayer.com/Wzb3vAcf8",
+    	"sinopsis": "Setelah mewarisi rumah kaca raksasa milik ayahnya di tengah ancaman hantaman asteroid ke Bumi, Ethan mendadak menghadapi pengkhianatan dan isolasi.",
+    	"genre": ["Thriller"],
+    	"release_date": "2026-09-15",
+    	"country": "Selandia Baru"
+		},
+	{
     	"tmdb_id": 1228834,
     	"title": "The Fix",
     	"iframe": "https://player.abyssplayer.com/pj2mwys-Y",
