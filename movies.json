@@ -1,9 +1,18 @@
 [
 	{
+		"tmdb_id": 1492640,
+		"title": "Unabomber",
+		"iframe": "https://player.abyssplayer.com/dWNFQ6pWH",
+		"sinopsis": "Seorang mahasiswa Harvard berubah menjadi Unabomber setelah menjalani serangkaian eksperimen psikologis.",
+		"genre": ["Kejahatan", "Drama", "Thriller"],
+		"release_date": "2026-09-25",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 1115544,
 		"title": "Mike & Nick & Nick & Alice",
 		"iframe": "https://player.abyssplayer.com/7a4RAUti63",
-		"sinopsis": "dua sahabat karib Mike dan Nick terjebak dalam dunia kejahatan terorganisir. Mereka harus menguji kesetiaan dan kemampuan bertahan hidup saat mereka semakin dalam.",
+		"sinopsis": "Dua sahabat karib Mike dan Nick terjebak dalam dunia kejahatan terorganisir. Mereka harus menguji kesetiaan dan kemampuan bertahan hidup saat mereka semakin dalam.",
 		"genre": ["Aksi", "Komedi", "Kejahatan"],
 		"release_date": "2026-03-14",
 		"country": "Amerika Serikat"
