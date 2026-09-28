@@ -1,22 +1,31 @@
 [
     {
-    "tmdb_id": 1352624,
-    "title": "The Mastermind",
-    "iframe": "https://player.abyssplayer.com/__AFAi9XY",
-    "sinopsis": "Seorang arsitek gagal bernama James Blaine Mooney merencanakan pencurian berani di sebuah museum pada siang hari.",
-    "genre": ["Kejahatan"],
-    "release_date": "2025-10-16",
-    "country": "Amerika Serikat"
-    }, 
+        "tmdb_id": 1328803,
+        "title": "Prisoner of War",
+        "iframe": "https://player.abyssplayer.com/__AFAi9XY",
+        "sinopsis": "Seorang perwira SAS Inggris yang tangguh tertangkap dan dipaksa bertarung di kamp interniran Jepang selama Perang Dunia II.",
+        "genre": ["Aksi", "Thriller", "Perang"],
+        "release_date": "2025-09-19",
+        "country": "Amerika Serikat, Philipina"
+        }, 
     {
-    "tmdb_id": 1419406,
-    "title": "The Shadow's Edge (Bu feng zhui ying aka)",
-    "iframe": "https://player.abyssplayer.com/LpQMnAq8G",
-    "sinopsis": "Seorang polisi pensiun yang ahli pelacakan dipaksa kembali ke dunia kejahatan untuk menghadapi kelompok pencuri profesional berbahaya.",
-    "genre": ["Aksi", "Kejahatan", "Drama", "Thriller"],
-    "release_date": "2025-08-16",
-    "country": "Hong Kong, Tiongkok"
-    }, 
+        "tmdb_id": 1352624,
+        "title": "The Mastermind",
+        "iframe": "https://player.abyssplayer.com/__AFAi9XY",
+        "sinopsis": "Seorang arsitek gagal bernama James Blaine Mooney merencanakan pencurian berani di sebuah museum pada siang hari.",
+        "genre": ["Kejahatan"],
+        "release_date": "2025-10-16",
+        "country": "Amerika Serikat"
+        }, 
+    {
+        "tmdb_id": 1419406,
+        "title": "The Shadow's Edge (Bu feng zhui ying aka)",
+        "iframe": "https://player.abyssplayer.com/LpQMnAq8G",
+        "sinopsis": "Seorang polisi pensiun yang ahli pelacakan dipaksa kembali ke dunia kejahatan untuk menghadapi kelompok pencuri profesional berbahaya.",
+        "genre": ["Aksi", "Kejahatan", "Drama", "Thriller"],
+        "release_date": "2025-08-16",
+        "country": "Hong Kong, Tiongkok"
+        }, 
     {
     "tmdb_id": 1468417,
     "title": "First Moon",
