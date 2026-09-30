@@ -1,9 +1,18 @@
 [
 	{
+		"tmdb_id": 1323909,
+		"title": "Red Riding",
+		"iframe": "https://player.abyssplayer.com/26SPACkWA",
+		"sinopsis": "Setelah ibunya overdosis, remaja Red Riding pindah ke rumah neneknya yang jauh di Skotlandia.",
+		"genre": ["Horor", "Thriller"],
+		"release_date": "2026-03-13",
+		"country": "Inggris Raya"
+		},
+	{
 		"tmdb_id": 1477712,
 		"title": "Ice Cream Man",
 		"iframe": "https://player.abyssplayer.com/cIbI75jvF",
-		"sinopsis": " musim panas yang tenang dan damai berubah menjadi kekacauan total ketika seorang penjual es krim melayani anak-anak dengan sajian manis yang membawa hasil yang mengerikan dan penuh teror.",
+		"sinopsis": "Musim panas yang tenang dan damai berubah menjadi kekacauan total ketika seorang penjual es krim melayani anak-anak dengan sajian manis yang membawa hasil yang mengerikan dan penuh teror.",
 		"genre": ["Komedi", "Horor", "Thriller"],
 		"release_date": "2026-08-03",
 		"country": "Amerika Serikat, Inggris Raya, Kanada, Prancis, Jepang"
