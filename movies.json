@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 1477712,
+		"title": "Ice Cream Man",
+		"iframe": "https://player.abyssplayer.com/cIbI75jvF",
+		"sinopsis": " musim panas yang tenang dan damai berubah menjadi kekacauan total ketika seorang penjual es krim melayani anak-anak dengan sajian manis yang membawa hasil yang mengerikan dan penuh teror.",
+		"genre": ["Komedi", "Horor", "Thriller"],
+		"release_date": "2026-08-03",
+		"country": "Amerika Serikat, Inggris Raya, Kanada, Prancis, Jepang"
+		},
+	{
 		"tmdb_id": 1377237,
 		"title": "Runner",
 		"iframe": "https://player.abyssplayer.com/dykp4fPFm",
