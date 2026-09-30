@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 460458,
+  		"title": "Resident Evil: Welcome to Raccoon City",
+    	"iframe": "https://player.abyssplayer.com/MsBjO7L5z",	
+  		"sinopsis": "Raccoon City yang terkutuk menyimpan teror tak terduga. Ketika rahasia Spencer Mansion yang mengerikan terungkap, sekelompok penyintas harus bertarung melawan zombie dan eksperimen biologi mengerikan.",
+  		"genre": ["Aksi", "Fiksi Ilmiah", "Horor"],
+  		"release_date": "2021-11-24",
+  		"country": "Jerman, Kanada"
+  		},
+	{
     	"tmdb_id": 147441,
   		"title": "Exodus: Gods and Kings",
     	"iframe": "https://player.abyssplayer.com/MsBjO7L5z",	
