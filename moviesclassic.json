@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 282035,
+  		"title": "The Mummy",
+    	"iframe": "https://player.abyssplayer.com/oHdbeTDRe",	
+  		"sinopsis": "Seorang putri kuno yang dikubur hidup-hidup bangkit di zaman modern, membawa dendam berabad-abad dan teror yang tak terbayangkan.",
+  		"genre": ["Aksi", "Thriller", "Fantasi", "Petualangan"],
+  		"release_date": "2017-06-14",
+  		"country": "Jepang, Tiongkok, Amerika Serikat"
+  		},
+	{
     	"tmdb_id": 460458,
   		"title": "Resident Evil: Welcome to Raccoon City",
     	"iframe": "https://player.abyssplayer.com/HrAl-pIgR",	
