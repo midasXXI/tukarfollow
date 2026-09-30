@@ -1,5 +1,14 @@
 [
     {
+        "tmdb_id": 1510745,
+        "title": "Bodycam",
+        "iframe": "https://player.abyssplayer.com/RK0BLGfPc",
+        "sinopsis": "Dalam upaya menutupi kejadian, mereka tak menyadari bahwa kamera tubuh mereka bukanlah satu-satunya yang mengawasi.",
+        "genre": ["Horor"],
+        "release_date": "2026-03-12",
+        "country": "Kanada"
+        }, 
+    {
         "tmdb_id": 1328803,
         "title": "Prisoner of War",
         "iframe": "https://player.abyssplayer.com/S0PUsDXRn",
