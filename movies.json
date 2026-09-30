@@ -1,9 +1,18 @@
 [
 	{
+		"tmdb_id": 977942,
+		"title": "The Uprising",
+		"iframe": "https://player.abyssplayer.com/rC_mXJarl",
+		"sinopsis": "Saat perang dan wabah penyakit menghancurkan Inggris pada abad ke-14, seorang petani biasa memicu sebuah pemberontakan besar dengan menyatukan pasukan rakyat jelata untuk menantang kekuasaan Raja",
+		"genre": ["Aksi", "Drama", "Histori", "Perang"],
+		"release_date": "2026-09-10",
+		"country": "Amerika Serikat, Inggris Raya, jerman"
+		},
+	{
 		"tmdb_id": 1649529,
 		"title": "Cursed Hearse",
 		"iframe": "https://player.abyssplayer.com/rC_mXJarl",
-		"sinopsis": "seorang hipster yang sial membeli sebuah ambulans kuno untuk diubah menjadi layanan limusin.",
+		"sinopsis": "Seorang hipster yang sial membeli sebuah ambulans kuno untuk diubah menjadi layanan limusin.",
 		"genre": ["Komedi", "Horor"],
 		"release_date": "2026-03-10",
 		"country": "Amerika Serikat"
