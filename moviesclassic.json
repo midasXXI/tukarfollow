@@ -1,13 +1,13 @@
 [
     {
-        "tmdb_id": 1510745,
-        "title": "Bodycam",
-        "iframe": "https://player.abyssplayer.com/RK0BLGfPc",
-        "sinopsis": "Dalam upaya menutupi kejadian, mereka tak menyadari bahwa kamera tubuh mereka bukanlah satu-satunya yang mengawasi.",
-        "genre": ["Horor"],
-        "release_date": "2026-03-12",
-        "country": "Kanada"
-        }, 
+		"tmdb_id": 639933,
+		"title": "The Northman",
+		"iframe": "https://player.abyssplayer.com/2L0dy8BiU",
+		"sinopsis": "Seorang pangeran Viking bernama Amleth memulai perjalanan penuh darah untuk membalas dendam setelah ayahnya dibunuh oleh pamannya yang merebut tahta dan menculik ibunya.",
+		"genre": ["Action", "Adventure", "Drama", "Fantasy"],
+		"release_date": "2022-04-22",
+		"country": "Amerika Serikat"
+		},
     {
         "tmdb_id": 1328803,
         "title": "Prisoner of War",
