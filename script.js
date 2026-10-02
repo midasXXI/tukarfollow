@@ -5,8 +5,6 @@ const IMAGE_URL = 'https://image.tmdb.org/t/p/w780';
 const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies.json';
 const JSON_FILES = [
     'https://midasxxi.github.io/tukarfollow/movies.json',
-    'https://midasxxi.github.io/tukarfollow/movies2025.json',
-    'https://midasxxi.github.io/tukarfollow/movies2024.json',
     'https://midasxxi.github.io/tukarfollow/moviesclassic.json'
 ];
 const feedContainer = document.getElementById('feedContainer');
