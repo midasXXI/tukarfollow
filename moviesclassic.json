@@ -1,10 +1,28 @@
 [
+	{
+		"tmdb_id": 505026,
+		"title": "Death on the Nile",
+		"iframe": "https://player.abyssplayer.com/W5xwjuLmb",
+		"sinopsis": "Detektif Hercule Poirot menikmati liburan di atas kapal pesiar mewah di Sungai Nil, namun liburan itu berubah menjadi penyelidikan rumit ketika seorang wanita muda kaya ditemukan tewas secara misterius.",
+		"genre": ["Misteri", "Kejahatan", "Drama", "Thriller"],
+		"release_date": "2022-02-11",
+		"country": "Amerika Serikat"
+		},
+	{
+  		"tmdb_id": 724209,
+  		"title": "Heart of Stone",
+  		"iframe": "https://player.abyssplayer.com/_mZpUoswS",
+  		"sinopsis": "Seorang agen intelijen elit bernama Rachel Stone harus melindungi teknologi rahasia paling berharga milik organisasinya dari seorang peretas berbahaya yang ingin menggunakannya untuk mengendalikan dunia.",
+  		"genre": ["Aksi", "Thriller", "Kejahatan"],
+  		"release_date": "2023-08-11",
+  		"country": "Amerika Serikat"
+		},
     {
 		"tmdb_id": 639933,
 		"title": "The Northman",
 		"iframe": "https://player.abyssplayer.com/2L0dy8BiU",
 		"sinopsis": "Seorang pangeran Viking bernama Amleth memulai perjalanan penuh darah untuk membalas dendam setelah ayahnya dibunuh oleh pamannya yang merebut tahta dan menculik ibunya.",
-		"genre": ["Action", "Adventure", "Drama", "Fantasy"],
+		"genre": ["Aksi", "Petualangan", "Drama", "Fantasi"],
 		"release_date": "2022-04-22",
 		"country": "Amerika Serikat"
 		},
