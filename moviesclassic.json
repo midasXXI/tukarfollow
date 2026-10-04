@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 760868,
+		"title": "Black Crab",
+		"iframe": "https://player.abyssplayer.com/3YX4CHsJp",
+		"sinopsis": "Untuk mengakhiri perang yang menghancurkan dunia dan menyelamatkan putrinya, seorang prajurit menjalankan misi berbahaya melintasi laut yang membeku sambil membawa kargo rahasia. Perjalanan itu menguji kesetiaan, keberanian, dan harapannya di tengah konflik yang brutal.",
+		"genre": ["Aksi", "Thriller", "Perang", "Fiksi Ilmiah"],
+		"release_date": "2022-03-18",
+		"country": "Swedia"
+		},
+	{
   		"tmdb_id": 70981,
   		"title": "Prometheus",
   		"iframe": "https://player.abyssplayer.com/8iDdZQ7DL",
