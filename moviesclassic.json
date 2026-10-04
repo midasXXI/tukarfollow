@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 512195,
+		"title": "Red Notice",
+		"iframe": "https://player.abyssplayer.com/Gpj7H2EE9",
+		"sinopsis": "Seorang profiler FBI bekerja sama dengan pencuri seni paling terkenal di dunia untuk menangkap buronan yang lebih licik. Perburuan global ini membawa mereka ke berbagai negara dalam petualangan penuh aksi, tipuan, dan kejutan tak terduga.",
+		"genre": ["Aksi", "Komedi", "Kriminal", "Petualangan"],
+		"release_date": "2021-11-05",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 948713,
 		"title": "The Last Kingdom: Seven Kings Must Die",
 		"iframe": "https://player.abyssplayer.com/O9PaUR0kV",
