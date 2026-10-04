@@ -1,5 +1,14 @@
 [
 	{
+  		"tmdb_id": 70981,
+  		"title": "Prometheus",
+  		"iframe": "https://player.abyssplayer.com/8iDdZQ7DL",
+  		"sinopsis": "Sekelompok ilmuwan melakukan ekspedisi ke sudut terpencil galaksi setelah menemukan petunjuk tentang asal-usul umat manusia. Namun, pencarian tersebut berubah menjadi perjuangan hidup dan mati ketika mereka mengungkap rahasia mengerikan yang dapat mengancam masa depan manusia.",
+  		"genre": ["Fiksi Ilmiah", "Petualangan", "Misteri", "Horor"],
+  		"release_date": "2012-06-08",
+  		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 406990,
 		"title": "What Happened to Monday",
 		"iframe": "https://player.abyssplayer.com/Zm3hsq-1f",
