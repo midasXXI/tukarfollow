@@ -1,5 +1,14 @@
 [	
 	{
+		"tmdb_id": 1291595,
+		"title": "Insidious: Out of the Further",
+		"iframe": "https://player.abyssplayer.com/PyTAPPFAN",
+		"sinopsis": "Gemma, seorang ibu muda yang membesarkan putrinya di rumah tempat ia dibesarkan, menyadari bahwa ia bisa melakukan perjalanan ke The Further",
+		"genre": ["Horor", "Misteri", "Thriller"],
+		"release_date": "2026-08-19",
+		"country": "Australia, Amerika serikat"
+		},
+	{
 		"tmdb_id": 1185806,
 		"title": "PAW Patrol: The Dino Movie",
 		"iframe": "https://player.abyssplayer.com/6gb5v-PtP",
