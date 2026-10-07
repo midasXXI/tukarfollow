@@ -1,5 +1,23 @@
 [
 	{
+		"tmdb_id": 281957,
+		"title": "The Revenant",
+		"iframe": "https://player.abyssplayer.com/tka9BLZX7",
+		"sinopsis": "Ditinggalkan dalam keadaan sekarat setelah serangan beruang ganas, Hugh Glass merangkak melalui hutan beku, dibayangi dendam pada John Fitzgerald yang mengkhianatinya.",
+		"genre": ["Drama", "Petualangan", "Thriller", "Histori", "Western"],
+		"release_date": "2016-02-24",
+		"country": "Amerika Serikat, Hong Kong, Taiwan"
+		},
+	{
+		"tmdb_id": 1078605,
+		"title": "Weapons",
+		"iframe": "https://player.abyssplayer.com/VlgqDPBk6",
+		"sinopsis": "Sebuah kota kecil diguncang ketika hampir semua anak dari satu kelas secara misterius menghilang pada malam yang sama, pada waktu yang tepat.",
+		"genre": ["Horor", "Misteri"],
+		"release_date": "2025-08-08",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 58,
 		"title": "Pirates of the Caribbean: Dead Man's Chest",
 		"iframe": "https://player.abyssplayer.com/ww8cyPQZX",
