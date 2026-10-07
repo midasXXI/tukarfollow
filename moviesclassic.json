@@ -1,5 +1,32 @@
 [
 	{
+		"tmdb_id": 285,
+		"title": "Pirates of the Caribbean: At World's End",
+		"iframe": "https://player.abyssplayer.com/eptWRdT2k",
+		"sinopsis": "Dunia bajak laut di ambang kehancuran! Jack Sparrow, Will Turner, Elizabeth Swann, dan Barbossa bersatu untuk melawan Lord Beckett yang menguasai hati Davy Jones dan mengancam kebebasan mereka.",
+		"genre": ["Aksi", "Petualangan", "Fantasi"],
+		"release_date": "2007-05-19",
+		"country": "Amerika Serikat"
+		},
+	{
+		"tmdb_id": 10339,
+		"title": "Moby Dick",
+		"iframe": "https://player.abyssplayer.com/AmJWsj88u",
+		"sinopsis": "Satu-satunya penyintas dari kapal pemburu paus, Pequod, menceritakan kisah Kapten Ahab yang terobsesi memburu Moby Dick—paus putih legendaris yang merenggut kakinya.",
+		"genre": ["Drama", "Petualangan"],
+		"release_date": "1956-06-27",
+		"country": "Amerika Serikat"
+		},
+	{
+		"tmdb_id": 22,
+		"title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+		"iframe": "https://player.abyssplayer.com/bzftRjGe3Z",
+		"sinopsis": "Ketika Elizabeth Swann diculik oleh Kapten Barbossa dan kru terkutuknya, Jack Sparrow—bajak laut licik—bersama Will Turner, sang pandai besi, memulai misi penyelamatan.",
+		"genre": ["Aksi", "Petualangan", "Fantasi"],
+		"release_date": "2003-08-13",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 760868,
 		"title": "Black Crab",
 		"iframe": "https://player.abyssplayer.com/3YX4CHsJp",
