@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 58,
+		"title": "Pirates of the Caribbean: Dead Man's Chest",
+		"iframe": "https://player.abyssplayer.com/ww8cyPQZX",
+		"sinopsis": "Jack Sparrow terjebak dalam utang nyawa kepada Davy Jones, kapten kapal hantu Flying Dutchman yang mengincar jiwanya.",
+		"genre": ["Aksi", "Petualangan", "Fantasi"],
+		"release_date": "2006-07-07",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 285,
 		"title": "Pirates of the Caribbean: At World's End",
 		"iframe": "https://player.abyssplayer.com/eptWRdT2k",
