@@ -1,5 +1,14 @@
 [	
 	{
+		"tmdb_id": 1101412,
+		"title": "Fall 2: Deadpoint",
+		"iframe": "https://player.abyssplayer.com/E56MzD-xo",
+		"sinopsis": "Dalam sebuah pendakian berbahaya melintasi Gunung Kwan di Thailand, dua orang pemanjat tebing terjebak di ketinggian ribuan kaki di atas permukaan tanah. ",
+		"genre": ["Pettualangan", "Drama", "Thriller"],
+		"release_date": "2026-09-01",
+		"country": "Australia, Amerika serikat, Inggris Raya"
+		},
+	{
 		"tmdb_id": 1291595,
 		"title": "Insidious: Out of the Further",
 		"iframe": "https://player.abyssplayer.com/PyTAPPFAN",
