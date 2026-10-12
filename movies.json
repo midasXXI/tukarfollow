@@ -506,15 +506,6 @@
     	"release_date": "2026-04-23",
     	"country": "India"
   		},  
-	{
-    	"tmdb_id": 1368337,
-    	"title": "The Odyssey",
-    	"iframe": "https://player.abyssplayer.com/yhPMvIHdR",
-    	"sinopsis": "Odysseus menghadapi perjalanan pulang yang berbahaya setelah perang Troya.",
-    	"genre": ["Fantasi", "Romansa", "Petualangan", "Drama"],
-    	"release_date": "2026-07-15",
-    	"country": "Amerika Serikat, Inggris Raya"
-  		},
   	{
     	"tmdb_id": 1560520,
     	"title": "Batman: Knightfall - Part 1: Knightfall",
