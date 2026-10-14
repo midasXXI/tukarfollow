@@ -1,5 +1,14 @@
 [	
 	{
+  		"tmdb_id": 1302904,
+  		"title": "Practical Magic 2",
+  		"iframe": "https://player.abyssplayer.com/z4svRBleIv",
+  		"sinopsis": "Dua saudari penyihir kembali menghadapi kutukan keluarga yang mengancam generasi berikutnya.",
+  		"genre": ["Fantasi", "Romantis", "Komedi"],
+  		"release_date": "2026-09-11",
+  		"country": "Amerika Serikat"
+		},
+	{
   		"tmdb_id": 1554956,
   		"title": "The Incomer",
   		"iframe": "https://player.abyssplayer.com/DYVlnY2k7",
