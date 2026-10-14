@@ -1,5 +1,14 @@
 [	
 	{
+  		"tmdb_id": 1514026,
+  		"title": "Buddy",
+  		"iframe": "https://player.abyssplayer.com/zJysYzUtT",
+  		"sinopsis": "Unicorn ajaib yang bernyanyi menyandera kru acaranya dalam dunia surealis yang mengerikan.",
+  		"genre": ["Horor", "Komedi", "Fantasi"],
+  		"release_date": "2026-08-28",
+  		"country": "Amerika Serikat"
+		},
+	{
   		"tmdb_id": 1552493,
   		"title": "Khadam",
   		"iframe": "https://player.abyssplayer.com/7nl5efQaj",
