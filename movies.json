@@ -1,5 +1,14 @@
 [	
 	{
+  		"tmdb_id": 1491920,
+  		"title": "Kung Fu Soccer",
+  		"iframe": "https://player.abyssplayer.com/MEP1te4Dz",
+  		"sinopsis": "Tim sepak bola wanita memadukan kung fu dan kerja sama untuk menaklukkan turnamen bergengsi Asia.",
+  		"genre": ["Aksi", "Komedi"],
+  		"release_date": "2026-07-11",
+  		"country": "Tiongkok"
+		},
+	{
   		"tmdb_id": 1148365,
   		"title": "Matchbox: The Movie",
   		"iframe": "https://player.abyssplayer.com/10FL7zzsz",
