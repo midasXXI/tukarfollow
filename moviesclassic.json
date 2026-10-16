@@ -1,5 +1,14 @@
 [
 	{
+  		"tmdb_id": 411,
+  		"title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  		"iframe": "https://player.abyssplayer.com/MUuZeOX98",
+  		"sinopsis": "Empat anak masuk ke dunia ajaib melalui lemari, lawan penyihir jahat bersama Aslan untuk bebaskan Narnia.",
+  		"genre": ["Petualangan", "Fantasi", "Keluarga"],
+  		"release_date": "2005-12-09",
+  		"country": "Amerika Serikat, Inggris Raya"
+		},
+	{
   		"tmdb_id": 204922,
   		"title": "Before I Go to Sleep",
   		"iframe": "https://player.abyssplayer.com/We6LTzNfd",
