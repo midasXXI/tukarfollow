@@ -1,5 +1,14 @@
 [
 	{
+  		"tmdb_id": 2454,
+  		"title": "The Chronicles of Narnia: Prince Caspian",
+  		"iframe": "https://player.abyssplayer.com/vGOEZXzzg",
+  		"sinopsis": "Empat anak kembali ke Narnia, bantu Pangeran Caspian kalahkan raja tiru, pulihkan tahta bersama Aslan.",
+  		"genre": ["Petualangan", "Fantasi", "Keluarga"],
+  		"release_date": "2008-05-16",
+  		"country": "Amerika Serikat, Inggris Raya"
+}
+	{
   		"tmdb_id": 671,
   		"title": "Harry Potter and the Sorcerer's Stone",
   		"iframe": "https://player.abyssplayer.com/JXhlZSHGh",
