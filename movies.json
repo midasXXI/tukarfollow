@@ -1,5 +1,14 @@
 [	
 	{
+  		"tmdb_id": 1542261,
+  		"title": "Doraemon: New Nobita and the Castle of the Undersea Devil",
+  		"iframe": "https://player.abyssplayer.com/r7Cy64jNY",
+  		"sinopsis": "Nobita & kawan berkemah di dasar laut, temui El & Federasi Mu, lawan Istana Iblis demi selamatkan Bumi.",
+  		"genre": ["Animasi", "Petualangan", "Fantasi", "Keluarga"],
+  		"release_date": "2026-02-27",
+  		"country": "Jepang"
+		},
+	{
   		"tmdb_id": 1302904,
   		"title": "Practical Magic 2",
   		"iframe": "https://player.abyssplayer.com/z4svRBleIv",
