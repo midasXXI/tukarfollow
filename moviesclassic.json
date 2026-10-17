@@ -1,5 +1,14 @@
 [
 	{
+    	"tmdb_id": 284054,
+    	"title": "Black Panther",
+    	"iframe": "https://player.abyssplayer.com/Pu5caTr3S",
+    	"sinopsis": "T'Challa kembali ke Wakanda untuk menjadi Black Panther dan menghadapi perebutan takhta serta ancaman perang.",
+    	"genre": ["Aksi", "Fiksi Ilmiah", "Petualangan"],
+    	"release_date": "2018-02-13",
+    	"country": "Amerika Serikat"
+  		},
+	{
 		"tmdb_id": 11324,
 		"title": "Shutter Island",
 		"iframe": "https://player.abyssplayer.com/QipH85j_n",
