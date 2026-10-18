@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 1433087,
+		"title": "Love on Trial",
+		"iframe": "https://player.abyssplayer.com/BelzueB2n",
+		"sinopsis": "Idol J-pop jatuh cinta, langgar aturan 'dilarang berpacaran', digugat agensi — pertarungan di pengadilan demi cinta dan kebebasan pribadi.",
+		"genre": ["Drama", "Romansa", "Musik"],
+		"release_date": "2025-05-22",
+		"country": "Jepang"
+		},
+	{
     	"tmdb_id": 284054,
     	"title": "Black Panther",
     	"iframe": "https://player.abyssplayer.com/Pu5caTr3S",
@@ -505,7 +514,7 @@
   	{
     	"tmdb_id": 1137179,
     	"title": "Yadang: The Snitch",
-    	"iframe": "https://playcinematic.com/video/JQ3jxCgrKnlt9Fr",
+    	"iframe": "https://player.abyssplayer.com/uiSbmGmbD",
     	"sinopsis": "Informan narkoba terjebak konspirasi maut jetset, kini ia harus bertahan hidup dan menang.",
     	"genre": ["Aksi", "Kejahatan"],
     	"release_date": "2025-04-16",
@@ -514,7 +523,7 @@
  	{			
     	"tmdb_id": 1368166,
     	"title": "The Housemaid",
-    	"iframe": "https://playcinematic.com/video/q6ZkdRvKatciHQ5",
+    	"iframe": "https://player.abyssplayer.com/P05tU14yxa",
     	"sinopsis": "Kabur dari masa lalu, pelayan Millie terjebak skandal, rahasia, dan kuasa di rumah majikan kaya.",
     	"genre": ["Misteri", "Thriller"],
     	"release_date": "2025-12-18",
