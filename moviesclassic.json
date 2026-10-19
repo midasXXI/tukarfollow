@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 414906,
+		"title": "The Batman",
+		"iframe": "https://player.abyssplayer.com/B3q_m1ASU8",
+		"sinopsis": "Batman tahun kedua bertarung lawan kejahatan, jejak teka-teki pembunuh berantai ungkap korupsi Gotham — keluarganya sendiri terlibat, kebenaran kelam harus dihadapi.",
+		"genre": ["Misteri", "Thriller", "Aksi"],
+		"release_date": "2022-03-04",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 122917,
 		"title": "The Hobbit: The Battle of the Five Armies",
 		"iframe": "https://player.abyssplayer.com/u4HJ0MdEB",
