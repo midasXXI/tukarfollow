@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 1184918,
+		"title": "The Wild Robot",
+		"iframe": "https://player.abyssplayer.com/Tw5nCPUa4y",
+		"sinopsis": "Robot Roz terdampar di pulau liar, diduga musuh, pelihara anak angsa yatim, pelajari alam — pilih antara kembali ke pabrik atau tetap jadi keluarga di alam bebas.",
+		"genre": ["Animasi", "Petualangan", "Keluarga"],
+		"release_date": "2024-09-27",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 1022789,
 		"title": "Inside Out 2",
 		"iframe": "https://player.abyssplayer.com/bYZCvu29G",
