@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 122917,
+		"title": "The Hobbit: The Battle of the Five Armies",
+		"iframe": "https://player.abyssplayer.com/u4HJ0MdEB",
+		"sinopsis": "Naga Smaug hancurkan Kota Danau, lima bangsa bertempur memperebutkan Gunung Kesepian — pengorbanan, keberanian, akhir perjalanan Bilbo di Tanah Tengah.",
+		"genre": ["Petualangan", "Fantasi", "Aksi"],
+		"release_date": "2014-12-17",
+		"country": "Selandia Baru, Amerika Serikat"
+		},
+	{
 		"tmdb_id": 299536,
 		"title": "Avengers: Infinity War",
 		"iframe": "https://player.abyssplayer.com/7Lp5AErIg",
