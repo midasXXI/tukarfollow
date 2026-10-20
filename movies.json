@@ -1,5 +1,23 @@
 [
 	{
+		"tmdb_id": 1686999,
+		"title": "The Pout-Pout Fish",
+		"iframe": "https://player.abyssplayer.com/ipneduXa0",
+		"sinopsis": "Ikan cemberut Mr. Fish bertemu Pip naga laut, rumah hancur — berlayar cari Shimmer ikan ajaib, petualangan bawah laut penuh keajaiban & persahabatan sejati.",
+		"genre": ["Animasi", "Keluarga", "Petualangan", "Komedi"],
+		"release_date": "2026-03-20",
+		"country": "Amerika Serikat, Australia"
+		},
+	{
+		"tmdb_id": 1744462,
+		"title": "Grand Theft Auto VI: An Extended Look",
+		"iframe": "https://player.abyssplayer.com/EiaA3C9gp",
+		"sinopsis": "Cuplikan resmi GTA VI direkam dari PS5 — kenal Jason & Lucia, jelajahi kota Leonida, kejahatan & petualangan di dunia terbuka yang hidup.",
+		"genre": ["Animasi", "Aksi", "Petualangan", "Kriminal"],
+		"release_date": "2026-08-27",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 1284046,
 		"title": "Onslaught",
 		"iframe": "https://player.abyssplayer.com/c2FITh5Z4",
