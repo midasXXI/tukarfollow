@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 558449,
+		"title": "Gladiator II",
+		"iframe": "https://player.abyssplayer.com/GYXgHArtJ",
+		"sinopsis": "Lucius dipaksa jadi gladiator setelah Roma jatuh ke tangan kaisar lalim — amarah di dada, bertarung di Koloseum, kembalikan kemuliaan Roma ke rakyatnya.",
+		"genre": ["Aksi", "Drama", "Sejarah", "Petualangan"],
+		"release_date": "2024-11-22",
+		"country": "Amerika Serikat, Inggris"
+		},
+	{
 		"tmdb_id": 414906,
 		"title": "The Batman",
 		"iframe": "https://player.abyssplayer.com/B3q_m1ASU8",
