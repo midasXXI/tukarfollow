@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 466420,
+		"title": "Killers of the Flower Moon",
+		"iframe": "https://player.abyssplayer.com/hAe1e78mH",
+		"sinopsis": "Tahun 1920-an, Oklahoma. Suku Osage kaya minyak dibunuh satu per satu. FBI menyelidiki kasus pembantaian besar yang melibatkan pengkhianatan dan keserakahan.",
+		"genre": ["Kejahatan", "Drama", "Sejarah"],
+		"release_date": "2023-10-20",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 558449,
 		"title": "Gladiator II",
 		"iframe": "https://player.abyssplayer.com/GYXgHArtJ",
