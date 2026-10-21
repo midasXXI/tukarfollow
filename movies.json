@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": "1433583",
+		"title": "The Weight",
+		"iframe": "https://player.abyssplayer.com/VeiMKsad6",
+		"sinopsis": "Samuel dikirim ke kamp kerja paksa. Harus menyelundupkan emas demi kebebasan. Namun pengkhianatan mengancam harapan pulang ke putrinya.",
+		"genre": ["Drama", "Thriller", "Aksi", "Petualangan"],
+		"release_date": "2026-09-18",
+		"country": "Amerika Serikat, Jerman, Prancis"
+		},
+	{
 		"tmdb_id": 1686999,
 		"title": "The Pout-Pout Fish",
 		"iframe": "https://player.abyssplayer.com/ipneduXa0",
