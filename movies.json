@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 1440050,
+		"title": "The Breadwinner",
+		"iframe": "https://player.abyssplayer.com/suM5SQPHg",
+		"sinopsis": "Ibu pergi dinas luar, ayah yang belum pernah mengurus rumah harus merawat ketiga putrinya dan belajar jadi orang tua seutuhnya.",
+		"genre": ["Komedi", "Keluarga"],
+		"release_date": "2026-05-29",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 1563627,
 		"title": "A Better Jianghu",
 		"iframe": "https://player.abyssplayer.com/BWFDw-GBZ",
