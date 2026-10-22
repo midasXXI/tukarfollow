@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 15196,
+		"title": "Clue",
+		"iframe": "https://player.abyssplayer.com/XSdMnTXpi",
+		"sinopsis": "Enam tamu diundang ke rumah mewah. Tuan rumah tewas, mereka harus ungkap siapa pembunuh sebelum jumlah korban bertambah.",
+		"genre": ["Kejahatan", "Komedi", "Misteri"],
+		"release_date": "1985-12-13",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 10601,
 		"title": "Peter Pan",
 		"iframe": "https://player.abyssplayer.com/nLUIDGYLn",
