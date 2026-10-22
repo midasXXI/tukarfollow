@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 680,
+		"title": "Pulp Fiction",
+		"iframe": "https://player.abyssplayer.com/tT5ufmfAH",
+		"sinopsis": "Dua pemburu bayaran, bos kriminal, istrinya, dan penjahat kecil terjerat kisah kekerasan, keserakahan, dan kebetulan aneh di Los Angeles.",
+		"genre": ["Kejahatan", "Drama"],
+		"release_date": "1994-10-14",
+		"country": "Amerika Serikat"
+		},
+	{
 		"tmdb_id": 466420,
 		"title": "Killers of the Flower Moon",
 		"iframe": "https://player.abyssplayer.com/hAe1e78mH",
