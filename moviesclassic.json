@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 10601,
+		"title": "Peter Pan",
+		"iframe": "https://player.abyssplayer.com/nLUIDGYLn",
+		"sinopsis": "Peter Pan mengajak Wendy & saudara-saudaranya terbang ke Neverland, berpetualang melawan bajak laut Kapten Hook.",
+		"genre": ["Petualangan", "Fantasi", "Keluarga"],
+		"release_date": "2003-12-25",
+		"country": "Amerika Serikat, Inggris, Australia"
+		},
+	{
 		"tmdb_id": 14836,
 		"title": "Coraline",
 		"iframe": "https://player.abyssplayer.com/V-AcN_3_f",
