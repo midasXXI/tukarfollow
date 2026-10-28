@@ -1,5 +1,14 @@
 [
 	{
+  		"tmdb_id": 1469229,
+  		"title": "The Djinn's Curse 2",
+  		"iframe": "https://player.abyssplayer.com/xYXWRS1Sj",
+  		"sinopsis": "Diana hilang di hutan, kembali berubah ganas. Suaminya Anas terpaksa mengakhiri nyawanya, lalu berjuang membebaskan jiwanya dari kutukan jin.",
+  		"genre": ["Horor", "Thriller"],
+  		"release_date": "2026-06-25",
+  		"country": "Thailand"
+		},	
+	{
 		"tmdb_id": 1780005,
 		"title": "Surviving Hurricane Otis",
 		"iframe": "https://player.abyssplayer.com/vy14MJl7b",
