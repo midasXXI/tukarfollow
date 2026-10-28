@@ -1,5 +1,14 @@
 [
 	{
+  		"tmdb_id": 1629051,
+  		"title": "Never After Dark",
+  		"iframe": "https://player.abyssplayer.com/JfLXzju7M",
+  		"sinopsis": "Airi, cenayang pengelana, dipanggil ke rumah terpencil. Semakin menggali rahasia, ia sadar yang paling menakutkan bukan hantu, melainkan manusia.",
+  		"genre": ["Horor", "Misteri", "Thriller"],
+  		"release_date": "2026-06-05",
+  		"country": "Jepang"
+		},
+	{
   		"tmdb_id": 1469229,
   		"title": "The Djinn's Curse 2",
   		"iframe": "https://player.abyssplayer.com/xYXWRS1Sj",
