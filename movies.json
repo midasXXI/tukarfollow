@@ -1,5 +1,14 @@
 [
 	{
+  		"tmdb_id": "1283515",
+  		"title": "Verity",
+  		"iframe": "https://player.abyssplayer.com/w8CaVTfI9",
+  		"sinopsis": "Lowen disewa menyelesaikan naskah penulis lumpuh. Menemui rahasia kelam, ia tak lagi tahu mana fiksi, mana kenyataan, dan mana bahaya.",
+  		"genre": ["Thriller", "Misteri", "Drama"],
+  		"release_date": "2026-10-02",
+  		"country": "Amerika Serikat"
+		},
+	{
   		"tmdb_id": 1629051,
   		"title": "Never After Dark",
   		"iframe": "https://player.abyssplayer.com/JfLXzju7M",
