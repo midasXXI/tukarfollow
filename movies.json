@@ -1,5 +1,14 @@
 [
 	{
+		"tmdb_id": 1780005,
+		"title": "Surviving Hurricane Otis",
+		"iframe": "https://player.abyssplayer.com/suM5SQPHg",
+		"sinopsis": "Dokumenter yang mengisahkan perjuangan warga di sepanjang pesisir Meksiko saat menghadapi Badai Otis — salah satu badai tropis terkuat yang pernah tercatat — serta proses pemulihan yang penuh tantangan pasca bencana.",
+		"genre": ["Dokumenter", "Bencana Alam"],
+		"release_date": "2026-09-15",
+		"country": "Meksiko"
+		},
+	{
 		"tmdb_id": 1440050,
 		"title": "The Breadwinner",
 		"iframe": "https://player.abyssplayer.com/suM5SQPHg",
