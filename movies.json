@@ -1,5 +1,14 @@
 [
 	{
+  		"tmdb_id": "1384216",
+  		"title": "The Dog Stars",
+  		"iframe": "https://player.abyssplayer.com/0fC8gMjdu",
+  		"sinopsis": "Pasca pandemi, Hig terasing di hutan pesawat. Sinyal radio misterius mendorongnya menjelajah mencari harapan & kemanusiaan.",
+ 		"genre": ["Thriller", "Petualangan", "Fiksi Ilmiah", "Drama"],
+  		"release_date": "2026-08-28",
+  		"country": "Amerika Serikat"
+		},
+	{
   		"tmdb_id": "1596275",
   		"title": "Drive the Pretender",
   		"iframe": "https://player.abyssplayer.com/otupAqrgF",
