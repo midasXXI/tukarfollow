@@ -1,5 +1,14 @@
 [
 	{
+  		"tmdb_id": "1596275",
+  		"title": "Drive the Pretender",
+  		"iframe": "https://player.abyssplayer.com/otupAqrgF",
+  		"sinopsis": "Pengemudi menyembunyikan jati diri aslinya, dikejar masa lalu kelam dan ancaman yang mengancam nyawanya sendiri serta orang-orang yang ia sayangi.",
+  		"genre": ["Aksi", "Thriller", "Drama"],
+  		"release_date": "2026-10-30",
+  		"country": "Jerman"
+		},
+	{
   		"tmdb_id": "1283515",
   		"title": "Verity",
   		"iframe": "https://player.abyssplayer.com/w8CaVTfI9",
