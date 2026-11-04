@@ -2,10 +2,10 @@
 const API_KEY = 'c000d7b8b0f5ee16b98b6103009745d8';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_URL = 'https://image.tmdb.org/t/p/w780';
-const MOVIES_JSON_PATH = 'https://midasxxi.github.io/tukarfollow/movies.json';
+const MOVIES_JSON_PATH = 'https://midasxxi.github.io/arisindo/movies.json';
 const JSON_FILES = [
-    'https://midasxxi.github.io/tukarfollow/movies.json',
-    'https://midasxxi.github.io/tukarfollow/moviesclassic.json'
+    'https://midasxxi.github.io/arisindo/movies.json',
+    'https://midasxxi.github.io/arisindo/moviesclassic.json'
 ];
 const feedContainer = document.getElementById('feedContainer');
 const searchContainer = document.getElementById('searchContainer');
