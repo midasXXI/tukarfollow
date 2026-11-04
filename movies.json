@@ -1,5 +1,24 @@
 [
 	{
+  		"tmdb_id": "1465063",
+  		"title": "Forgotten Island",
+  		"iframe": "https://player.abyssplayer.com/vnT1QcsZm",
+  		"sinopsis": "Dua sahabat masuk pulau mistis Nakali, pulang harus bayar kenangan persahabatan mereka.",
+  		"genre": ["Animasi", "Petualangan", "Fantasi", "Keluarga", "Komedi"],
+  		"release_date": "2026-09-25",
+  		"country": "Amerika Serikat"
+		},
+
+	{
+  		"tmdb_id": "1376400",
+  		"title": "Crawlers",
+  		"iframe": "https://player.abyssplayer.com/gzXJh9Gud",
+  		"sinopsis": "Penghuni apartemen dikarantina, terjebak melawan kawanan laba-laba berbisa yang terus berkembang biak.",
+  		"genre": ["Horor", "Thriller", "Misteri"],
+  		"release_date": "2026-10-16",
+  		"country": "Amerika Serikat"
+		},
+	{
   		"tmdb_id": "1384216",
   		"title": "The Dog Stars",
   		"iframe": "https://player.abyssplayer.com/0fC8gMjdu",
